@@ -20,73 +20,80 @@ class Queue:
     def __init__(self):
         self.customers = []
 
-    def enqueue(self, customer, time):
-        customer.arrival_time = time
+    def enqueue(self, customer):
         self.customers.append(customer)
-        print("Enqueue method called customer should wait in the queue.")
-        print(f"Customer {customer.id} arrived at time {time:.2f}.")
+        # print customer details for debugging
+        print(f"Customer {customer.id} details:")
+        print(f"Arrival time: {customer.arrival_time:.2f}")
+        print(f"Service time: {customer.service_time:.2f}")
+        print(f"Service start time: {customer.service_start_time:.2f}")
+        print(f"Departure time: {customer.departure_time:.2f}")
+        print(f"Wait time: {customer.wait_time:.2f}")
 
-    def dequeue(self, time):
+    def dequeue(self):
         if not self.customers:
             return None
 
-        customer = self.customers.pop(0)
-        print("Dequeue method called. CUSTOMER SHOULD BE SERVED.")
-        print(
-            f"Customer {customer.id} waited {customer.wait_time:.2f} seconds and service start at time {customer.service_start_time:.2f}.")
-
+        customer = self.customers.pop(0)  # FIFO
+        print("Dequeue method called. CUSTOMER SHOULD BE SERVED. (DEQUEUE)")
+        print(f"Customer {customer.id} details:")
+        print(f"Arrival time: {customer.arrival_time:.2f}")
+        print(f"Service time: {customer.service_time:.2f}")
+        print(f"Service start time: {customer.service_start_time:.2f}")
+        print(f"Departure time: {customer.departure_time:.2f}")
+        print(f"Wait time: {customer.wait_time:.2f}")
         return customer
 
 
 def simulate_MMn(sim_time, arrival_rate, service_rate, num_servers):
-    print(f"MMC queue simulation started.")
 
+    print(f"MMC queue simulation started.")
     queue = Queue()
     servers_busy = [False] * num_servers
     next_departure_time = [float('inf')] * num_servers
     arrival_interval = 1 / arrival_rate
     service_interval = 1 / service_rate
     next_arrival_time = random.expovariate(arrival_interval)
-    print(f"Next arrival time: {next_arrival_time:.2f}")
-    time = 0
-    queue_history = []
-    total_customers = 0
-    total_wait_time = 0
-    total_customers_waiting = 0
+    time = 0  # current time
+    queue_history = []  # queue length history
+    total_customers = 0  # total number of customers in the system
+    total_wait_time = 0  # total wait time
+    total_customers_waiting = 0  # total number of customers waiting in queue
     next_service_start_time = [float('inf')] * num_servers
-    service_time = 0.0
+    service_time = 0.0  # total service time
     while time < sim_time:
-        print(f"Time: {time:.2f}")
-        print(f"Next arrival time: {next_arrival_time:.2f}")
-        print(f"Next departure time: {next_departure_time}")
+
+        print(f"TIME: {time:.2f}")
+        print(f"\nNEXT ARRIVAL TIME: {next_arrival_time:.2f}")
+        print(f"NEXT DEPARTURE TIME: {next_departure_time}")
 
         # handle arrival event
         if time >= next_arrival_time:
+
             customer = Customer(total_customers + 1)
             customer.service_time = random.expovariate(service_interval) + 0.3
             service_time = service_time + customer.service_time
-            print(
-                f"Customer {customer.id} service time: {customer.service_time:.2f}")
-
             customer.arrival_time = time
-            print(
-                f"Customer {customer.id} arrival time: {customer.arrival_time:.2f}")
 
             served = False
+            # check if any server is free
             for i in range(num_servers):
                 if not servers_busy[i]:
                     servers_busy[i] = True
-                    next_departure_time[i] = time + customer.service_time
-                    customer.service_start_time = time
-                    customer.departure_time = next_departure_time[i]
-                    customer.wait_time = 0
+                    customer.service_start_time = customer.arrival_time
+                    customer.departure_time = customer.service_start_time + customer.service_time
+                    next_departure_time[i] = customer.departure_time
+                    customer.wait_time = 0.0
                     next_service_start_time[i] = customer.departure_time
+
+                    served = True
+                    print(
+                        "\n\nServer is not busy. CUSTOMER SHOULD BE SERVED immediately.")
                     print(
                         f"Next departure time for server {i}: {next_departure_time[i]:.2f}")
-                    served = True
-                    print("server is not busy. CUSTOMER SHOULD BE SERVED immediately.")
+
                     # print customer details for debugging
-                    print(f"Customer {customer.id} details:")
+                    print(f"\n\nCustomer {customer.id} details:")
                     print(f"Arrival time: {customer.arrival_time:.2f}")
                     print(f"Service time: {customer.service_time:.2f}")
                     print(
@@ -94,7 +101,7 @@ def simulate_MMn(sim_time, arrival_rate, service_rate, num_servers):
                     print(f"Departure time: {customer.departure_time:.2f}")
                     print(f"Wait time: {customer.wait_time:.2f}")
                     break
-
+            # if all servers are busy
             if not served:
 
                 if len(queue.customers) >= 1:
@@ -107,50 +114,32 @@ def simulate_MMn(sim_time, arrival_rate, service_rate, num_servers):
                             next_service_start_time[i] = queue.customers[-1].departure_time
                             customer.service_start_time = min(
                                 next_service_start_time)
-
-                    print(
-                        f"Next service start time: {next_service_start_time}")
-                    print(
-                        f"Service start time: {customer.service_start_time:.2f}")
-
+                            break
                 else:  # if queue is empty
                     customer.service_start_time = min(next_departure_time)
-                    print(
-                        f"Service start time: {customer.service_start_time:.2f}")
 
                 customer.departure_time = customer.service_start_time + customer.service_time
-                print(f"Departure time: {customer.departure_time:.2f}")
-
                 customer.wait_time = customer.service_start_time - customer.arrival_time
-                print(f"Wait time: {customer.wait_time:.2f}")
+                print("Servers are busy. CUSTOMER SHOULD WAIT IN QUEUE. (ENQUEUE)")
+                queue.enqueue(customer)
 
-                queue.enqueue(customer, time)
-                total_customers_waiting += 1
-                total_wait_time += customer.wait_time
-                print("server is busy. CUSTOMER SHOULD WAIT IN QUEUE.")
-                # print customer details for debugging
-                print(f"Customer {customer.id} details:")
-                print(f"Arrival time: {customer.arrival_time:.2f}")
-                print(f"Service time: {customer.service_time:.2f}")
-                print(f"Service start time: {customer.service_start_time:.2f}")
-                print(f"Departure time: {customer.departure_time:.2f}")
-                print(f"Wait time: {customer.wait_time:.2f}")
-
+                total_customers_waiting += 1  # increment total number of customers waiting in queue
+                total_wait_time += customer.wait_time   # increment total wait time
                 print(
-                    f"Total customers waiting: {total_customers}, total wait time: {total_wait_time:.2f}")
+                    f"Total customers waiting: {total_customers_waiting}, total wait time: {total_wait_time:.2f}")
 
             total_customers += 1
-            print(f"Total customers: {total_customers}")
+            print(f"\n\nTotal customers in the system: {total_customers}")
             next_arrival_time = time + random.expovariate(arrival_rate)
-            print(f"Next arrival time: {next_arrival_time:.2f}")
+            print(f"NEXT ARRIVAL TIME: {next_arrival_time:.2f}")
 
         # handle departure event
         for i in range(num_servers):
             if time >= next_departure_time[i]:
-                customer = queue.dequeue(time)
+                customer = queue.dequeue()
                 if customer is not None:  # if queue is not empty
 
-                    next_departure_time[i] = time + customer.service_time
+                    next_departure_time[i] = customer.departure_time
                     print(
                         f"Next departure time for server {i}: {next_departure_time[i]:.2f}")
 
@@ -159,12 +148,14 @@ def simulate_MMn(sim_time, arrival_rate, service_rate, num_servers):
                     next_departure_time[i] = float('inf')
                     print(f"Server {i} is now idle.")
 
+        # append queue length to history
         queue_history.append(len(queue.customers))
-        print(f"Queue history: {queue_history}")
-        # print(f"Queue history: {queue_history}")
-        print(f"Queue length: {len(queue.customers)}")
-        print(f"Queue customers: {queue.customers}")
+        # print queue length history
+        print(f"\n\nQUEUE HISTORY: {queue_history}")
+        print(f"QUEUE LENGTH: {len(queue.customers)}")  # print queue length
+        print(f"QUEUE CUSTOMERS: {queue.customers}")  # print queue customers
         time += 0.1
+        print("*************************************************************************")
 
     avg_wait_time = total_wait_time / total_customers
     print(f"Average wait time: {avg_wait_time:.2f}")
