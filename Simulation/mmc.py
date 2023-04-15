@@ -59,6 +59,7 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
     total_customers_waiting = 0  # total number of customers waiting in queue
     next_service_start_time = [float('inf')] * num_servers
     total_service_time = 0.0  # total service time
+    total_t = 0  # initialize total_t
 
     while total_customers < simulation_customer_number:
 
@@ -108,6 +109,7 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
 
                 total_customers_waiting += 1  # increment total number of customers waiting in queue
                 total_wait_time += customer.wait_time   # increment total wait time
+
                 print(
                     f"Total customers waiting: {total_customers_waiting}, total wait time: {total_wait_time:.2f}")
 
@@ -120,7 +122,10 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
          # handle departure event
         for i in range(num_servers):
             if time >= next_departure_time[i]:
+                # update total_t
+                total_t += customer.departure_time - customer.service_start_time
                 customer = queue.dequeue()
+
                 if customer is not None:  # if queue is not empty
 
                     next_departure_time[i] = customer.departure_time
@@ -148,7 +153,7 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
         f"Mean of service time: {total_service_time/simulation_customer_number:.2f}\n\n")
 
     calculateMetrics(queue_history, queue, total_service_time,
-                     arrival_rate, num_servers, service_rate, total_wait_time, total_customers_waiting, tot_next, time)
+                     arrival_rate, num_servers, service_rate, total_wait_time, total_customers_waiting, tot_next, time,total_t)
 
     plotGraph(queue_history)
 
@@ -169,12 +174,12 @@ def create_customer(total_customers, next_departure_time, service_interval):
     return customer
 
 
-def calculateMetrics(queue_history, queue, total_service_time, arrival_rate, num_servers, service_rate, total_wait_time, total_customers_waiting, tot_next, time):
+def calculateMetrics(queue_history, queue, total_service_time, arrival_rate, num_servers, service_rate, total_wait_time, total_customers_waiting, tot_next, time,total_t):
     # calculate performance metrics
     avg_queue_length = np.mean(len(queue.customers))
     avg_service_time = np.mean(total_service_time)
     avg_wait_time = avg_queue_length / \
-        (arrival_rate * num_servers - service_rate)
+                    (arrival_rate * num_servers - service_rate)
     avg_system_time = avg_service_time + avg_wait_time
     utilization = arrival_rate / (service_rate * num_servers)
 
@@ -197,6 +202,11 @@ def calculateMetrics(queue_history, queue, total_service_time, arrival_rate, num
     Lq = total_wait_time/time
     print(f"Average queue length (Lq): {Lq:.2f}")
 
+    # calculate average time in the system
+    avg_t = total_t / time
+    print("enver hocanın dedigi")
+    print(avg_t)
+
     # calculate confidence interval
 """ z = 1.96  # 95% confidence interval
     std_dev = np.std(len(queue.customers))
@@ -218,4 +228,4 @@ def plotGraph(queue_history):
 
 
 if __name__ == "__main__":
-    simulate_MMn(10, 2, 3, 3)
+    simulate_MMn(2000, 4, 3, 1)

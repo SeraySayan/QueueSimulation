@@ -10,6 +10,7 @@ class Customer:
         self.departure_time = 0.0
         self.wait_time = 0.0
 
+
     def __repr__(self):
         return f"Customer {self.id}"
 
@@ -52,6 +53,7 @@ def simulate_MM1(sim_time, arrival_rate, service_rate):
     print(f"Next arrival time: {next_arrival_time:.2f}")
     time = 0
     queue_history = []
+    total_t = 0  # initialize total_t
 
     while time < sim_time:
         print(f"Time: {time:.2f}")
@@ -125,6 +127,8 @@ def simulate_MM1(sim_time, arrival_rate, service_rate):
             if customer:
 
                 total_wait_time += customer.wait_time
+                # update total_t
+                total_t += customer.departure_time - customer.arrival_time
                 print(f"Total wait time: {total_wait_time:.2f}")
                 next_departure_time = customer.departure_time
                 print(f"Next departure time: {next_departure_time:.2f}")
@@ -158,6 +162,10 @@ def simulate_MM1(sim_time, arrival_rate, service_rate):
     queue_lengths = [len(q.customers) for q in queue_history]
     avg_queue_len = sum(queue_lengths) / len(queue_lengths)
     max_queue_len = max(queue_lengths)
+    # calculate average time in the system
+    avg_t = total_t / time
+    print("enver hocanın dedigi")
+    print(avg_t)
 
     # print statistics
     print(f"\nSimulation finished at time {time:.2f}.")
@@ -171,4 +179,4 @@ def simulate_MM1(sim_time, arrival_rate, service_rate):
 
 
 # simulate for 10 seconds, arrival rate of 1/4, service rate of 1/3
-simulate_MM1(10, 1.5, 0.8)
+simulate_MM1(1000, 1.5, 0.8)
