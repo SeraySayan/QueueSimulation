@@ -56,10 +56,6 @@ class BankSimulation:
 
         return server_index
 
-    def initialize_simulation(self):
-        self.initialize_servers()
-        self.initialize_queue()
-
     def calculate_metrics(self):
         print(f"\n**********************************************************\n")
 
@@ -69,7 +65,8 @@ class BankSimulation:
         print(f"Total wait time: {self.total_wait_time}")
         print(f"Total waiting customers: {self.total_waiting_customers}")
         print(f"\n**********************************************************\n")
-        print(f"Average service time: {self.total_service_time/self.total_customers}")
+        print(
+            f"Average service time: {self.total_service_time/self.total_customers}")
         if self.total_waiting_customers == 0:
             print("Average wait time: 0")
         else:
@@ -136,8 +133,9 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
         simulation_customer_number, arrival_rate, service_rate, num_servers
     )
     bankSimulation.initialize_simulation()
-    next_arrival_time = np.random.exponential(scale=1 / bankSimulation.arrival_rate)
-    # print(f"Next arrival time: {next_arrival_time}")
+    next_arrival_time = np.random.exponential(
+        scale=1 / bankSimulation.arrival_rate)
+    print(f"Next arrival time: {next_arrival_time}")
 
     while bankSimulation.total_customers < bankSimulation.simulation_customer_number:
         # print(f"Simulation time: {bankSimulation.simülation_time}")
@@ -158,15 +156,16 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
                         i
                     ].current_departure_time = customer.departure_time
 
-                    # customer.print_customer_details()
-                    # bankSimulation.queue.print_queue_details()
+                    customer.print_customer_details()
+                    bankSimulation.queue.print_queue_details()
 
-                    # print("başka müşteri geçti servera")
-                    # bankSimulation.servers[i].print_server_details()
+                    print("başka müşteri geçti servera")
+                    bankSimulation.servers[i].print_server_details()
 
                 else:  # if queue is empty
                     bankSimulation.servers[i].is_busy = False
-                    bankSimulation.servers[i].current_departure_time = float("inf")
+                    bankSimulation.servers[i].current_departure_time = float(
+                        "inf")
 
                     print(f"Server {i+1} is now idle.")
                     bankSimulation.total_idle_time += 1
@@ -210,6 +209,7 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
                     break
 
             if not served:
+
                 # find server with shortest queue
                 i = bankSimulation.find_server()
 
@@ -228,10 +228,6 @@ def simulate_MMn(simulation_customer_number, arrival_rate, service_rate, num_ser
                 bankSimulation.servers[i].last_departure_time = customer.departure_time
                 bankSimulation.queue.customers.append(customer)
                 bankSimulation.servers[i].customers.append(customer)
-                # print("Customer added to queue")
-                # customer.print_customer_details()
-                # bankSimulation.servers[i].print_server_details()
-                # bankSimulation.queue.print_queue_details()
 
                 bankSimulation.total_wait_time += customer.wait_time
                 bankSimulation.total_waiting_customers += 1
