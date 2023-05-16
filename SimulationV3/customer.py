@@ -15,8 +15,6 @@ class Customer:
     def __repr__(self):
         return f"Customer {self.id}"
 
-# create customer method
-
     def print_customer_details(self):
         print(f"\n\nCustomer {self.id} details:")
         print(f"Arrival time: {self.arrival_time:.2f}")

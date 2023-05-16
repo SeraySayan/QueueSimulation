@@ -6,9 +6,10 @@ import numpy as np
 
 
 class BankSimulation:
-    servers = []
-    queue = []
-    list_customers = []
+    servers = []  # This list holds the servers
+    queue = []  # This list holds the customers that are in the queue
+    list_customers = []  # This list holds the customers that are not in the service
+    # This list holds the customers that are in the any service
     after_service_start_list = []
     total_served_customers = 0
     total_service_time = 0
@@ -37,6 +38,7 @@ class BankSimulation:
     def initialize_queue(self):
         self.queue = Queue()
 
+    # This method generates the customers and sorts them according to their arrival time
     def initialize_customers(self):
         for i in range(self.simulation_customer_number):
             if i == 0:
@@ -55,6 +57,7 @@ class BankSimulation:
         self.initialize_queue()
         self.initialize_customers()
 
+    # This method checks if the all servers are busy or not
     def all_servers_busy(self):
         for i in range(len(self.servers)):
             if self.servers[i].is_available:
@@ -134,12 +137,44 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
     print("Simulation started.")
     arrived_customer_number = 0
     print(bankSimulation.list_customers)
-    for i in range(len(bankSimulation.list_customers)):
-        bankSimulation.list_customers[i].print_customer_details()
-    print(bankSimulation.simulation_customer_number)
-    print(bankSimulation.total_served_customers)
-    print(bankSimulation.after_service_start_list)
-    print(bankSimulation.queue)
+    print("Simulation started.")
+    while bankSimulation.total_served_customers < bankSimulation.simulation_customer_number:
+        print(f"\n**********************************************************\n")
+
+        # Complete Service Event
+        print("Complete Service Event")
+
+        """ This loop checks the customers service time.
+                If a customer service time + start time is equal to
+                current time, server that assigned for that customer
+                will be free again. Also that customer will become served. """
+        print(bankSimulation.after_service_start_list)
+
+        if len(bankSimulation.after_service_start_list) != 0:
+            after_service_start_loop = 0
+            # This loop checks summation of service time and service start time for each customers in after service start list.
+            while after_service_start_loop < len(bankSimulation.after_service_start_list):
+                customer = bankSimulation.after_service_start_list[after_service_start_loop]
+                print(bankSimulation.simulation_time)
+                print(customer.service_start_time + customer.service_time)
+                # If summation of service time and service start time is equal to current time, server will be free again.
+                if (customer.service_start_time + customer.service_time) <= bankSimulation.simulation_time:
+                    print("Complete Service Done\n\n")
+
+                    bankSimulation.servers[customer.server_no -
+                                           1].is_available = True
+                    customer.departure_time = bankSimulation.simulation_time
+                    customer.wait_time = customer.service_start_time - customer.arrival_time
+                    bankSimulation.total_wait_time += customer.wait_time
+                    bankSimulation.total_served_customers += 1
+                    bankSimulation.total_exit_time += (
+                        customer.departure_time - customer.arrival_time)
+                    bankSimulation.total_service_time += customer.service_time
+                    print(bankSimulation.total_served_customers)
+                    bankSimulation.after_service_start_list.pop(
+                        after_service_start_loop)
+                    print(bankSimulation.after_service_start_list)
+                after_service_start_loop += 1
 
 
 if __name__ == "__main__":
