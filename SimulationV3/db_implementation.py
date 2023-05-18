@@ -12,15 +12,38 @@ def find_server_no():
     print("No of servers: ", no_of_servers)
 
 
+def create_arrival_rate(arrival_interval_list):
+    sum_arrival = 0
+    for i in range(len(arrival_interval_list)):
+        sum_arrival += arrival_interval_list[i]
+
+    arrival_rate = sum_arrival/len(arrival_interval_list)
+    # convert into hours
+    arrival_rate = 1/(arrival_rate/3600)
+    print("Arrival Rate: ", arrival_rate)
+
+    return arrival_rate
+
+
+def create_service_rate(total_service_time, total_customer):
+    service_rate = total_service_time/total_customer
+    # convert into hours
+    service_rate = 1/(service_rate/3600)
+    print("Service Rate: ", service_rate)
+
+    return service_rate
+
+
 def print_customer_details(doc_id, arrival_time, process_time, priority):
     print("-------------------")
     print("Customer ID: ", doc_id)
     print("Arrival Time: ", arrival_time)
     print("Process Time: ", process_time)
     print("Priority: ", priority)
+    print("-------------------")
 
 
-def print_metrics(total_customer, total_arrival_time, total_service_time, priority):
+def print_metrics(total_customer, total_arrival_time, total_service_time, priority, arrival_interval_list):
     print("-------------------")
     print("Total Customer: ", total_customer)
     print("Total Arrival Time: ", total_arrival_time)
@@ -28,6 +51,9 @@ def print_metrics(total_customer, total_arrival_time, total_service_time, priori
     print("Average Service Time: ", total_service_time/total_customer)
     print("Priority List: ", priority)
     print("Length of Priority List: ", len(priority))
+    print("Arrival Interval List: ", arrival_interval_list)
+    print("Length of Arrival Interval List: ", len(arrival_interval_list))
+    print("-------------------")
 
 
 def retrieve_data():
@@ -36,6 +62,8 @@ def retrieve_data():
     total_service_time = 0
     total_arrival_time = 0
     priority = []
+    arrival_interval_list = []
+    arrival_interval_list.append(0)
     # All customer data can be read
     customers_ref = db.collection(u'Tickets')
     docs = customers_ref.stream()
@@ -48,9 +76,11 @@ def retrieve_data():
         arrival_time = arrival_time.strip()
         arrival_time = arrival_time.split(' ')[0]
         arrival_time = datetime.strptime(arrival_time, '%H:%M:%S').time()
-
-        total_arrival_time += arrival_time.hour * 3600 + \
+        arrival_time = arrival_time.hour * 3600 + \
             arrival_time.minute * 60 + arrival_time.second
+        total_arrival_time += arrival_time
+        arrival_interval_list.append(
+            abs(arrival_time - arrival_interval_list[-1]))
 
         # Process time can be read as a string and converted to time object (seconds)
         process_time = doc.to_dict()['total_process_time']
@@ -78,7 +108,9 @@ def retrieve_data():
 
     # Print metrics
     print_metrics(total_customer, total_arrival_time,
-                  total_service_time, priority)
+                  total_service_time, priority, arrival_interval_list)
+    create_arrival_rate(arrival_interval_list)
+    create_service_rate(total_service_time, total_customer)
 
 
 def main():
