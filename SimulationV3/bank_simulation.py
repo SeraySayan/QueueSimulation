@@ -3,6 +3,7 @@ from server import Server
 from bankqueue import Queue
 import random
 import numpy as np
+from database import Database
 
 
 class BankSimulation:
@@ -178,4 +179,16 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
 
 if __name__ == "__main__":
+    database = Database(0, 0, 0, 0, [])
+    database.find_server_no()
+    database.retrieve_data()
+
+    database.arrival_rate = database.create_arrival_rate(
+        database.arrival_interval_list)
+    database.service_rate = database.create_service_rate(
+        database.total_service_time, database.total_customer)
+
+    # simulation(database.total_customer, database.arrival_rate,
+    # database.service_rate, database.no_of_servers)
+
     simulation(10, 3, 4, 1)
