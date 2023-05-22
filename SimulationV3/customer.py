@@ -2,14 +2,14 @@ import random
 
 
 class Customer:
-    def __init__(self, id, arrival_time, service_time):
+    def __init__(self, id, arrival_time, service_time, priority):
         self.id = id
         self.arrival_time = arrival_time
         self.service_time = service_time
         self.service_start_time = 0.0  # leaving time from queue
         self.departure_time = 0.0  # leaving time from bank
         self.wait_time = 0.0  # time spent in queue
-        self.priority = random.randint(1, 3)  # priority of customer
+        self.priority = priority  # priority of customer
         self.server_no = 0
 
     def __repr__(self):

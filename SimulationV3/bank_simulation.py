@@ -23,14 +23,16 @@ class BankSimulation:
     simulation_time = 0
     total_entry_time = 0
     total_exit_time = 0
+    priority_list = []
 
     def __init__(
-        self, simulation_customer_number, arrival_rate, service_rate, num_servers
+        self, simulation_customer_number, arrival_rate, service_rate, num_servers, priority_list
     ):
         self.num_servers = num_servers
         self.arrival_rate = arrival_rate
         self.service_rate = service_rate
         self.simulation_customer_number = simulation_customer_number
+        self.priority_list = priority_list
 
     def initialize_servers(self):
         for i in range(self.num_servers):
@@ -50,7 +52,7 @@ class BankSimulation:
                     scale=1 / self.arrival_rate) + self.list_customers[i-1].arrival_time
             service_time = np.random.exponential(scale=1 / self.service_rate)
             self.list_customers.append(
-                Customer(i + 1, arrival_time, service_time))
+                Customer(i + 1, arrival_time, service_time, self.priority_list[i]))
         self.list_customers.sort(key=lambda x: x.arrival_time)
 
     def initialize_simulation(self):
@@ -130,20 +132,32 @@ class BankSimulation:
         )
 
 
-def simulation(simulation_customer_number, arrival_rate, service_rate, num_servers):
+def simulation(simulation_customer_number, arrival_rate, service_rate, num_servers, priority_list):
     bankSimulation = BankSimulation(
-        simulation_customer_number, arrival_rate, service_rate, num_servers
+        simulation_customer_number, arrival_rate, service_rate, num_servers, priority_list
     )
     bankSimulation.initialize_simulation()
     print("Simulation started.")
     arrived_customer_number = 0
     print(bankSimulation.list_customers)
     print("Simulation started.")
+    for i in range(len(bankSimulation.list_customers)):
+        bankSimulation.list_customers[i].print_customer_details()
+    print(bankSimulation.simulation_customer_number)
+    print(bankSimulation.total_served_customers)
+    print(bankSimulation.after_service_start_list)
+    print(bankSimulation.queue)
     while bankSimulation.total_served_customers < bankSimulation.simulation_customer_number:
-        print(f"\n**********************************************************\n")
+        print(f"Simulation time: {bankSimulation.simulation_time}")
+        print(
+            f"Total served customers: {bankSimulation.total_served_customers}")
+        print(
+            f"Total waiting customers: {bankSimulation.total_waiting_customers}")
+        print(f"Total service time: {bankSimulation.total_service_time}")
+        print(f"Total wait time: {bankSimulation.total_wait_time}")
 
         # Complete Service Event
-        print("Complete Service Event")
+        print("complete service event")
 
         """ This loop checks the customers service time.
                 If a customer service time + start time is equal to
@@ -153,14 +167,12 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
         if len(bankSimulation.after_service_start_list) != 0:
             after_service_start_loop = 0
-            # This loop checks summation of service time and service start time for each customers in after service start list.
             while after_service_start_loop < len(bankSimulation.after_service_start_list):
                 customer = bankSimulation.after_service_start_list[after_service_start_loop]
                 print(bankSimulation.simulation_time)
                 print(customer.service_start_time + customer.service_time)
-                # If summation of service time and service start time is equal to current time, server will be free again.
                 if (customer.service_start_time + customer.service_time) <= bankSimulation.simulation_time:
-                    print("Complete Service Done\n\n")
+                    print("complete service yapar\n\n")
 
                     bankSimulation.servers[customer.server_no -
                                            1].is_available = True
@@ -176,6 +188,59 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
                         after_service_start_loop)
                     print(bankSimulation.after_service_start_list)
                 after_service_start_loop += 1
+        # Arrival Event
+        print("arrival event")
+        arrival_loop = 0
+        while arrival_loop < len(bankSimulation.list_customers):
+            if bankSimulation.simulation_time >= bankSimulation.list_customers[0].arrival_time:
+                print("arrival yapar\n")
+                arrived_customer_number += 1
+                if bankSimulation.all_servers_busy() and (bankSimulation.queue.size) != 0:
+                    arrived_customer = bankSimulation.list_customers[0]
+                    # method call
+                    bankSimulation.queue.enqueue(arrived_customer)
+                    bankSimulation.total_waiting_customers += 1
+                    bankSimulation.list_customers.pop(0)
+                    bankSimulation.queue.print_queue_details()
+                    print("queueye eklendi\n\n")
+                    print("listeden doğru kaldırılıdı mı? queue ya atıldı ama ",
+                          bankSimulation.list_customers)
+
+                else:
+                    # Serving the customer to server directly (No queue option)
+                    for i in range(len(bankSimulation.servers)):
+                        if bankSimulation.servers[i].is_available:
+                            arrived_customer = bankSimulation.list_customers[0]
+                            bankSimulation.list_customers.pop(0)
+
+                            arrived_customer.server_no = i + 1
+                            arrived_customer.arrival_time = bankSimulation.simulation_time
+                            arrived_customer.service_start_time = bankSimulation.simulation_time
+                            bankSimulation.after_service_start_list.append(
+                                arrived_customer)
+                            bankSimulation.servers[i].is_available = False
+                            print(bankSimulation.after_service_start_list)
+                            print("serving the customer to server directly\n\n")
+                            break
+            arrival_loop += 1
+        # Start Service Event
+        print("start service event")
+        # In here, the customers in the queue will be sended to the counters.
+        for i in range(len(bankSimulation.servers)):
+
+            if bankSimulation.servers[i].is_available == True and bankSimulation.queue.size() != 0:
+                print("start service yapar\n\n")
+                customer = bankSimulation.queue.dequeue()
+                customer.server_no = i+1
+                customer.service_start_time = bankSimulation.simulation_time
+                bankSimulation.after_service_start_list.append(customer)
+                bankSimulation.servers[i].is_available = False
+
+        bankSimulation.simulation_time += 0.0005
+
+    print("Simulation ended.")
+
+    bankSimulation.calculate_metrics()
 
 
 if __name__ == "__main__":
@@ -188,7 +253,7 @@ if __name__ == "__main__":
     database.service_rate = database.create_service_rate(
         database.total_service_time, database.total_customer)
 
-    # simulation(database.total_customer, database.arrival_rate,
-    # database.service_rate, database.no_of_servers)
+    simulation(database.total_customer, database.arrival_rate,
+               database.service_rate, database.no_of_servers, database.priority_list)
 
-    simulation(10, 3, 4, 1)
+    # simulation(1024, 3, 4, 1)
