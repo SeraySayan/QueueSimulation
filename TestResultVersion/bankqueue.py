@@ -6,7 +6,24 @@ class Queue:
         return self.customers == []
 
     def enqueue(self, customer):
-        self.customers.append(customer)
+        # adding customer with priority
+        if self.isEmpty():
+            self.customers.append(customer)
+        else:
+            for i in range(len(self.customers)):
+                if customer.priority < self.customers[i].priority:
+                    self.customers.insert(i, customer)
+                    print("Enqueue priority ")
+                    priorities = []
+                    for i in range(len(self.customers)):
+                        priorities.append(self.customers[i].priority)
+                    print(priorities)
+
+                    for i in range(len(self.customers)):
+                        self.customers[i].print_customer_details()
+                    return
+            self.customers.append(customer)
+            print("Enqueue normal")
 
     def dequeue(self):
         if not self.customers:
