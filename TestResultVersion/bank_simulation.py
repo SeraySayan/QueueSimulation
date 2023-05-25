@@ -254,13 +254,13 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
     bankSimulation.calculate_metrics()
     # Plot the graph
-    plt.plot(timer_total_time, timer_total_customers)
-    plt.xlabel('Total Time (seconds)')
-    plt.ylabel('Total Customer Number')
+    plt.plot(timer_total_customers, timer_total_time)
+    plt.xlabel('Total Customer Number')
+    plt.ylabel('Total Time (seconds)')
     plt.title('Graph of Total Time vs Total Customer Number')
     plt.show()
 
 
 if __name__ == "__main__":
 
-    simulation(50, 3, 4, 1, [1]*50)
+    simulation(1161, 3, 4, 1, [1]*1161)
