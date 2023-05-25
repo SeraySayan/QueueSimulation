@@ -97,13 +97,13 @@ class Database:
             process_time = doc.to_dict()['total_process_time']
             if process_time is not None:
                 # if process_time has min and s in it
-                if 'min' in process_time and 's' in process_time:
-                    process_time = process_time.split('min')
+                if 'm' in process_time and 's' in process_time:
+                    process_time = process_time.split('m')
                     process_time[1] = process_time[1].split('s')[0]
                     process_time = float(process_time[0]) * \
                         60 + float((process_time[1].split('s'))[0])
                 # if process_time has only s in it
-                elif 's' in process_time:
+                else:
                     process_time = float(process_time.split('s')[0])
 
                 self.total_service_time += process_time
