@@ -74,10 +74,19 @@ class Database:
             self.total_customer += 1
             # Arrival time can be read as a string and converted to time object (seconds)
             arrival_time = doc.to_dict()['date_time']
-            arrival_time = arrival_time.split('at')[1]
-            arrival_time = arrival_time.strip()
-            arrival_time = arrival_time.split(' ')[0]
-            arrival_time = datetime.strptime(arrival_time, '%H:%M:%S').time()
+            arrival_time = str(arrival_time)
+            arrival_time = arrival_time.split('+')[0]
+            arrival_time = arrival_time.split('.')[0]
+            print(arrival_time)
+            arrival_time = datetime.strptime(
+                arrival_time, '%Y-%m-%d %H:%M:%S')
+
+            print(arrival_time)
+            print(type(arrival_time))
+            print(arrival_time.hour)
+            print(arrival_time.minute)
+            print(arrival_time.second)
+
             arrival_time = arrival_time.hour * 3600 + \
                 arrival_time.minute * 60 + arrival_time.second
             self.total_arrival_time += arrival_time

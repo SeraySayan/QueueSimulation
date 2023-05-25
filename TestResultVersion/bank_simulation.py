@@ -263,4 +263,4 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
 if __name__ == "__main__":
 
-    simulation(100, 3, 4, 1, [1]*100)
+    simulation(50, 3, 4, 1, [1]*50)
