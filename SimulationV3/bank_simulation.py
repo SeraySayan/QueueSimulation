@@ -1,7 +1,7 @@
 from customer import Customer
 from server import Server
 from bankqueue import Queue
-import random
+import os
 import numpy as np
 from database import Database
 
@@ -244,9 +244,16 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
 
 if __name__ == "__main__":
+    # Mevcut çalışma dizini
+    current_directory = os.getcwd()
+
+    # Dosya adı
+    filename = "output_file.txt"
+
+    # Tam dosya yolunu oluştur
+    output_file = os.path.join(current_directory, filename)
     database = Database(0, 0, 0, 0, [])
-    database.find_server_no()
-    database.retrieve_data()
+    database.retrieve_data(filename)
 
     database.arrival_rate = database.create_arrival_rate(
         database.arrival_interval_list)

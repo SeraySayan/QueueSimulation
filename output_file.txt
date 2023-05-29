@@ -1,0 +1,4834 @@
+Customer ID:07bxqU0pqdFa0DTS3Htd
+Arrival Time:2023-05-08 13:52:30+00:00
+Process Time:18m 0s
+Priority:2
+Customer ID:0CZ8K9ArSZZh8pP6q73z
+Arrival Time:2023-03-28 00:41:15+00:00
+Process Time:2m 0s
+Priority:2
+Customer ID:0CeCFbfXLNnOSwzpEGWS
+Arrival Time:2023-05-12 17:29:15+00:00
+Process Time:44m 0s
+Priority:3
+Customer ID:0CmDJQ3aHmfo2pMzMo1z
+Arrival Time:2023-04-13 11:32:15+00:00
+Process Time:39m 15s
+Priority:2
+Customer ID:0DN3JH5pH6i2Tr2Nhi9n
+Arrival Time:2023-04-13 01:56:45+00:00
+Process Time:4m 45s
+Priority:2
+Customer ID:0EMa1ysdGH7Brdw3zAwf
+Arrival Time:2023-03-03 19:44:15+00:00
+Process Time:36m 30s
+Priority:2
+Customer ID:0HTANujO5jNT5SjOeLOr
+Arrival Time:2023-04-11 18:50:15+00:00
+Process Time:23m 45s
+Priority:3
+Customer ID:0gVPin5rxvNY8MRWbab8
+Arrival Time:2023-05-20 14:11:00+00:00
+Process Time:7m 15s
+Priority:2
+Customer ID:0kPOvzcNlJc0gzCyoV9V
+Arrival Time:2023-04-03 10:23:00+00:00
+Process Time:54m 0s
+Priority:2
+Customer ID:0kezG8lEO8Pd5f2N07Lv
+Arrival Time:2023-05-24 05:32:30+00:00
+Process Time:25m 15s
+Priority:2
+Customer ID:0mBVwyMfr61sCv1ZGDIS
+Arrival Time:2023-04-14 13:44:45+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:0qmuDzHcrTjaY5LBdU6s
+Arrival Time:2023-04-01 06:58:15+00:00
+Process Time:39m 30s
+Priority:2
+Customer ID:0rrmfwIBmV8uCbfzV2k9
+Arrival Time:2023-05-13 06:46:15+00:00
+Process Time:2m 15s
+Priority:3
+Customer ID:0tTCIEj6exBWC7Z44FGD
+Arrival Time:2023-03-10 08:22:00+00:00
+Process Time:34m 15s
+Priority:3
+Customer ID:0vabRQTwjcP55Bxw0MmZ
+Arrival Time:2023-04-24 07:45:30+00:00
+Process Time:58m 15s
+Priority:2
+Customer ID:0x6V6YLRF5lRjr7vzzJl
+Arrival Time:2023-03-09 21:50:15+00:00
+Process Time:40m 30s
+Priority:2
+Customer ID:0xkqFOgSBaOzr6FfgXpB
+Arrival Time:2023-05-04 18:08:15+00:00
+Process Time:54m 30s
+Priority:1
+Customer ID:104Qq4BcLpFgT2LUxmgX
+Arrival Time:2023-04-10 20:39:30+00:00
+Process Time:34m 0s
+Priority:2
+Customer ID:16K97TOszziE5lAL1LBn
+Arrival Time:2023-05-26 21:14:51.649000+00:00
+Process Time:11s
+Priority:1
+Customer ID:18CNQ6LARhAcGMKqhHCC
+Arrival Time:2023-05-12 15:07:30+00:00
+Process Time:50m 15s
+Priority:2
+Customer ID:1CSizA3cLi799Czbg0mh
+Arrival Time:2023-03-05 20:24:15+00:00
+Process Time:23m 0s
+Priority:2
+Customer ID:1EGRUJTFJrdqA4KwZzUE
+Arrival Time:2023-04-21 13:42:45+00:00
+Process Time:44m 45s
+Priority:3
+Customer ID:1Mr6g89FKeyOCFDK5Qls
+Arrival Time:2023-05-20 09:36:30+00:00
+Process Time:37m 45s
+Priority:1
+Customer ID:1P7flOoaWCD0OLRX4diL
+Arrival Time:2023-03-15 18:01:30+00:00
+Process Time:44m 0s
+Priority:1
+Customer ID:1PL6aaYnsNHKapk3CxuO
+Arrival Time:2023-03-21 18:24:30+00:00
+Process Time:5m 0s
+Priority:2
+Customer ID:1PwfeIve9tIKf3f0olq0
+Arrival Time:2023-04-03 23:45:45+00:00
+Process Time:4m 45s
+Priority:2
+Customer ID:1QUh6MINwtuD3sQeyMPk
+Arrival Time:2023-04-06 10:49:30+00:00
+Process Time:10m 15s
+Priority:3
+Customer ID:1Qmu7MuuumW9VHOZMBoH
+Arrival Time:2023-05-07 10:15:45+00:00
+Process Time:36m 30s
+Priority:3
+Customer ID:1aecMJD5FTq8DiikIscV
+Arrival Time:2023-05-26 19:25:04.639000+00:00
+Process Time:None
+Priority:1
+Customer ID:1cQgRckZB0naRAtOSoOi
+Arrival Time:2023-04-06 05:31:30+00:00
+Process Time:59m 45s
+Priority:3
+Customer ID:1fzLLJFShgBI6CzcTtpn
+Arrival Time:2023-04-30 23:31:30+00:00
+Process Time:53m 0s
+Priority:1
+Customer ID:1iW0vkS7sJVLSieE59qO
+Arrival Time:2023-04-28 08:52:00+00:00
+Process Time:39m 45s
+Priority:3
+Customer ID:1iWijnWZet97lYgPLXFy
+Arrival Time:2023-03-30 17:14:45+00:00
+Process Time:40m 30s
+Priority:2
+Customer ID:1jtGKmgLtKW1ZakaagqK
+Arrival Time:2023-04-07 15:08:45+00:00
+Process Time:36m 0s
+Priority:1
+Customer ID:1lopXweLwuWGmiOQPu2m
+Arrival Time:2023-05-07 16:05:15+00:00
+Process Time:30m 15s
+Priority:3
+Customer ID:1nUGT60Zg0FLwtU29G3Q
+Arrival Time:2023-03-31 08:33:15+00:00
+Process Time:51m 0s
+Priority:2
+Customer ID:1pXiG5ScIadEKsFdlePD
+Arrival Time:2023-03-26 09:45:30+00:00
+Process Time:27m 45s
+Priority:1
+Customer ID:1uq8s8Xdj9FTokLomKat
+Arrival Time:2023-04-09 15:43:30+00:00
+Process Time:4m 45s
+Priority:3
+Customer ID:1wzYQbmnjb3j6SepuEUw
+Arrival Time:2023-05-12 12:05:15+00:00
+Process Time:16m 15s
+Priority:1
+Customer ID:1zaz6IJCXIv4qWIiSLVN
+Arrival Time:2023-05-16 03:22:00+00:00
+Process Time:46m 45s
+Priority:3
+Customer ID:244EqNm9MmcAM16Miss5
+Arrival Time:2023-05-15 18:40:45+00:00
+Process Time:53m 0s
+Priority:3
+Customer ID:25OCfY0F7TfyvsHvSNnN
+Arrival Time:2023-05-24 04:28:30+00:00
+Process Time:14m 0s
+Priority:3
+Customer ID:2P5EI4UmEhbx3Ycubu5e
+Arrival Time:2023-03-17 00:34:45+00:00
+Process Time:22m 30s
+Priority:1
+Customer ID:2P82b7gjR0adujai2KCm
+Arrival Time:2023-03-10 17:01:30+00:00
+Process Time:44m 45s
+Priority:2
+Customer ID:2Pxt6ngfWdx9oGnPDQNa
+Arrival Time:2023-05-12 03:17:15+00:00
+Process Time:46m 30s
+Priority:3
+Customer ID:2RO8TA838irY64zIHucE
+Arrival Time:2023-03-13 23:44:45+00:00
+Process Time:59m 30s
+Priority:3
+Customer ID:2XN1BwObBSXPOwlAHmO0
+Arrival Time:2023-05-02 03:47:45+00:00
+Process Time:13m 0s
+Priority:1
+Customer ID:2dPnFeIP7T3E6LoplY4e
+Arrival Time:2023-05-16 15:29:15+00:00
+Process Time:43m 0s
+Priority:2
+Customer ID:2etJVvoH8euUK7QvNw5d
+Arrival Time:2023-04-11 12:14:45+00:00
+Process Time:59m 0s
+Priority:2
+Customer ID:2hUnRGLpx1HZfsEmwqxO
+Arrival Time:2023-03-23 02:18:00+00:00
+Process Time:24m 0s
+Priority:3
+Customer ID:2l1wl565kc4hsLYNsn7g
+Arrival Time:2023-05-12 00:20:45+00:00
+Process Time:56m 30s
+Priority:2
+Customer ID:2lC1gAwn1Ij7kwwOtzyB
+Arrival Time:2023-05-20 12:06:30+00:00
+Process Time:35m 30s
+Priority:2
+Customer ID:2mZwsnEAKaEZ8uXCSbm1
+Arrival Time:2023-03-08 04:19:45+00:00
+Process Time:22m 15s
+Priority:2
+Customer ID:2tyiIviVZwYYY8EnQV7N
+Arrival Time:2023-03-17 08:17:30+00:00
+Process Time:57m 30s
+Priority:2
+Customer ID:2y5ijBTwbshRfFeidDt1
+Arrival Time:2023-04-12 20:58:30+00:00
+Process Time:18m 0s
+Priority:1
+Customer ID:2zPcFHYzc979aUD2KLKI
+Arrival Time:2023-04-07 22:52:45+00:00
+Process Time:18m 30s
+Priority:1
+Customer ID:2zs3QsldFsj3rGie15g7
+Arrival Time:2023-03-31 18:43:45+00:00
+Process Time:12m 30s
+Priority:2
+Customer ID:36u4B5ATKt8vpI5R970e
+Arrival Time:2023-04-27 15:45:45+00:00
+Process Time:45m 15s
+Priority:3
+Customer ID:37r9visvN4fQhYH6InoF
+Arrival Time:2023-04-22 22:53:45+00:00
+Process Time:9m 45s
+Priority:3
+Customer ID:38m7GfdYVm1eEuz7rqYg
+Arrival Time:2023-03-16 05:22:15+00:00
+Process Time:31m 0s
+Priority:3
+Customer ID:39oWqc7i2MpataSFfXOq
+Arrival Time:2023-05-26 19:28:58.259000+00:00
+Process Time:None
+Priority:1
+Customer ID:3Fy3O6cDkd1ZARvY85eI
+Arrival Time:2023-05-11 01:04:30+00:00
+Process Time:21m 15s
+Priority:3
+Customer ID:3Hvii6p8Iow988o1ALra
+Arrival Time:2023-04-09 20:16:00+00:00
+Process Time:17m 0s
+Priority:2
+Customer ID:3aVlZgkVIe1JVuyNbZ2T
+Arrival Time:2023-03-09 05:59:45+00:00
+Process Time:37m 45s
+Priority:2
+Customer ID:3f6Me5twKHmkEw5lAx6A
+Arrival Time:2023-05-26 19:05:47.491000+00:00
+Process Time:None
+Priority:1
+Customer ID:3iDA6J1uhGeFoHqmhEn3
+Arrival Time:2023-05-05 03:16:00+00:00
+Process Time:16m 0s
+Priority:2
+Customer ID:3im6CJCRUvxLdQSP1SvE
+Arrival Time:2023-03-29 19:29:45+00:00
+Process Time:52m 15s
+Priority:3
+Customer ID:3mtSskN49k5aR0rEl3qg
+Arrival Time:2023-03-24 05:06:45+00:00
+Process Time:18m 15s
+Priority:3
+Customer ID:3ohsSXK3wPjhKoUt2JWQ
+Arrival Time:2023-05-05 23:27:30+00:00
+Process Time:8m 0s
+Priority:3
+Customer ID:3sSrxu2Q1rezyTwwkljO
+Arrival Time:2023-04-17 01:31:15+00:00
+Process Time:10m 45s
+Priority:3
+Customer ID:3u34T0tHKbTHQW3h3VIJ
+Arrival Time:2023-03-18 08:58:00+00:00
+Process Time:53m 15s
+Priority:3
+Customer ID:3yFbPzAR0tjAFb7OI7Vr
+Arrival Time:2023-05-09 00:42:30+00:00
+Process Time:49m 45s
+Priority:1
+Customer ID:44q6VaMSAq4xp0V0R9yK
+Arrival Time:2023-05-23 07:36:30+00:00
+Process Time:17m 15s
+Priority:3
+Customer ID:469fE17sFMDrMcTLTDiN
+Arrival Time:2023-04-03 08:53:15+00:00
+Process Time:11m 45s
+Priority:2
+Customer ID:48oiSjObIZZpaPNdex43
+Arrival Time:2023-04-01 08:10:15+00:00
+Process Time:49m 15s
+Priority:3
+Customer ID:4BuJnk3OnNCc18mSvmcY
+Arrival Time:2023-05-05 00:52:15+00:00
+Process Time:49m 30s
+Priority:3
+Customer ID:4EL5KgZXf02dpdDJCMOU
+Arrival Time:2023-05-15 00:14:45+00:00
+Process Time:31m 15s
+Priority:1
+Customer ID:4FRlmqbJv83BWpN1zKB8
+Arrival Time:2023-04-10 14:23:15+00:00
+Process Time:10m 15s
+Priority:2
+Customer ID:4GIiL9J2RoX0hnNaEU0N
+Arrival Time:2023-04-09 01:25:15+00:00
+Process Time:14m 45s
+Priority:1
+Customer ID:4HNc8lDk8H3w99c8g4U1
+Arrival Time:2023-03-28 21:35:30+00:00
+Process Time:36m 15s
+Priority:2
+Customer ID:4Jn4SL4iWTpkNAcvOav1
+Arrival Time:2023-03-05 07:06:30+00:00
+Process Time:21m 0s
+Priority:2
+Customer ID:4Mp74q0nPZHy78MCJGSk
+Arrival Time:2023-05-02 22:01:45+00:00
+Process Time:54m 15s
+Priority:3
+Customer ID:4P7RJcGdC7tYKlkgvOeZ
+Arrival Time:2023-05-13 06:17:15+00:00
+Process Time:33m 15s
+Priority:3
+Customer ID:4Px6xBU3mMCBkxtdl56v
+Arrival Time:2023-03-18 09:10:15+00:00
+Process Time:42m 30s
+Priority:2
+Customer ID:4VfJ8cJ24s9n5wJ0mrF1
+Arrival Time:2023-05-25 08:32:30+00:00
+Process Time:49m 30s
+Priority:3
+Customer ID:4WvNbNU2NxtD01sgNGqj
+Arrival Time:2023-05-01 19:21:00+00:00
+Process Time:23m 30s
+Priority:1
+Customer ID:4XnONaqSp1dHHTk4uG7c
+Arrival Time:2023-03-04 13:39:45+00:00
+Process Time:21m 30s
+Priority:1
+Customer ID:4YobatDOGFG1sGmiYzq9
+Arrival Time:2023-03-16 00:54:30+00:00
+Process Time:36m 45s
+Priority:3
+Customer ID:4dlZGFx9Z6GqWL1xmeOc
+Arrival Time:2023-04-13 05:13:45+00:00
+Process Time:28m 45s
+Priority:1
+Customer ID:4dsf3tZwzuaJnAXbFRPR
+Arrival Time:2023-03-19 16:05:00+00:00
+Process Time:20m 30s
+Priority:2
+Customer ID:4eAmIqR5cVDGnfsUoonf
+Arrival Time:2023-05-26 19:15:25.441000+00:00
+Process Time:None
+Priority:1
+Customer ID:4gNtjPi4H5zq2tM6KS5r
+Arrival Time:2023-05-10 12:38:00+00:00
+Process Time:31m 0s
+Priority:2
+Customer ID:4lM6mKimbrp3OaF46apo
+Arrival Time:2023-03-08 07:02:15+00:00
+Process Time:36m 0s
+Priority:2
+Customer ID:4mjQG86bIGHyDzZpymC7
+Arrival Time:2023-03-20 20:17:00+00:00
+Process Time:4m 30s
+Priority:1
+Customer ID:4od5pIuGY37I20kdGGVy
+Arrival Time:2023-05-04 21:19:45+00:00
+Process Time:40m 30s
+Priority:2
+Customer ID:4pCfShBU75LI2F7LCAoB
+Arrival Time:2023-04-19 11:51:15+00:00
+Process Time:10m 0s
+Priority:3
+Customer ID:4pqiY6Eb2RInFj3KHUXm
+Arrival Time:2023-04-22 23:46:00+00:00
+Process Time:45m 0s
+Priority:1
+Customer ID:4rO09cjYhT9s4tHEsyFt
+Arrival Time:2023-05-06 00:26:45+00:00
+Process Time:51m 15s
+Priority:2
+Customer ID:4w3v4VdqDRVhRPKduIj5
+Arrival Time:2023-03-25 19:51:15+00:00
+Process Time:29m 45s
+Priority:1
+Customer ID:4wGRmnhSG56Ij4BEde6L
+Arrival Time:2023-03-15 08:51:15+00:00
+Process Time:51m 45s
+Priority:3
+Customer ID:4x2ULGwUe7ln9UJ1NkdF
+Arrival Time:2023-04-15 11:59:30+00:00
+Process Time:52m 15s
+Priority:3
+Customer ID:52W0dYPeGfvYr7e9Nwlt
+Arrival Time:2023-03-18 06:20:45+00:00
+Process Time:38m 45s
+Priority:3
+Customer ID:55kXNaCgRvxSawbRTOMF
+Arrival Time:2023-05-01 09:28:45+00:00
+Process Time:26m 30s
+Priority:1
+Customer ID:56ppGUY0yDVsadE0RQij
+Arrival Time:2023-04-02 11:13:30+00:00
+Process Time:14m 30s
+Priority:3
+Customer ID:5BpOZHet5heyeA7Ezr03
+Arrival Time:2023-05-07 00:48:00+00:00
+Process Time:3m 45s
+Priority:2
+Customer ID:5DCbcriVeHachgDSELTt
+Arrival Time:2023-04-18 07:33:45+00:00
+Process Time:21m 0s
+Priority:1
+Customer ID:5FjzgaznwdWix37fhZ11
+Arrival Time:2023-03-05 01:20:45+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:5Fuuwynd1xtB4nqy5FZs
+Arrival Time:2023-05-26 19:03:26.476000+00:00
+Process Time:None
+Priority:1
+Customer ID:5G2wrnc4RQhswfWtjv0A
+Arrival Time:2023-03-06 09:51:00+00:00
+Process Time:5m 30s
+Priority:3
+Customer ID:5GrZEl590OFFr2ezNhm7
+Arrival Time:2023-04-09 03:51:15+00:00
+Process Time:58m 0s
+Priority:1
+Customer ID:5MJj3F8Kpl3RrV0ztT5D
+Arrival Time:2023-05-22 02:38:00+00:00
+Process Time:38m 0s
+Priority:3
+Customer ID:5MQy9RFwulvyQFEFGxYm
+Arrival Time:2023-03-04 13:22:30+00:00
+Process Time:5m 30s
+Priority:2
+Customer ID:5WPK3fblD9d5pEIi6iyE
+Arrival Time:2023-03-21 23:00:00+00:00
+Process Time:53m 0s
+Priority:2
+Customer ID:5YeUAaHVeR0aJHpoPRdA
+Arrival Time:2023-03-12 14:14:30+00:00
+Process Time:33m 15s
+Priority:3
+Customer ID:5auw8rgIYuZwat3phhvN
+Arrival Time:2023-03-16 20:39:45+00:00
+Process Time:42m 15s
+Priority:2
+Customer ID:5b2QzTupaRePscwcYcE6
+Arrival Time:2023-03-26 04:03:15+00:00
+Process Time:20m 45s
+Priority:3
+Customer ID:5ccJdb2joysxjptRvfPO
+Arrival Time:2023-03-10 13:36:00+00:00
+Process Time:54m 45s
+Priority:2
+Customer ID:5gQtZahOb5Uju9MtlPUr
+Arrival Time:2023-03-09 14:56:15+00:00
+Process Time:40m 15s
+Priority:2
+Customer ID:5nRGDQrXrxpvaSewSoKv
+Arrival Time:2023-04-25 08:46:15+00:00
+Process Time:29m 15s
+Priority:3
+Customer ID:5ssBluXnnckH7vR8wR8f
+Arrival Time:2023-04-18 03:35:00+00:00
+Process Time:7m 30s
+Priority:2
+Customer ID:659ZELPkPL9DKvfgmpY3
+Arrival Time:2023-05-26 18:42:14.386000+00:00
+Process Time:None
+Priority:1
+Customer ID:66RedG7vpMf5MazJ6AMe
+Arrival Time:2023-03-29 02:48:00+00:00
+Process Time:49m 45s
+Priority:2
+Customer ID:67aE3CPkiaoZI7GZY0Dg
+Arrival Time:2023-03-15 12:07:45+00:00
+Process Time:15m 0s
+Priority:2
+Customer ID:6DP1mae85tpG4tPsP1Ax
+Arrival Time:2023-03-13 07:23:15+00:00
+Process Time:49m 45s
+Priority:2
+Customer ID:6EAiZpAdoCjwUgK17GHX
+Arrival Time:2023-05-07 06:03:30+00:00
+Process Time:43m 45s
+Priority:2
+Customer ID:6GDNBQCzCRZ7MfXJhRiQ
+Arrival Time:2023-05-22 09:44:44.397000+00:00
+Process Time:4s
+Priority:1
+Customer ID:6KFQKEbQfRoUULAqfMy0
+Arrival Time:2023-03-04 15:17:00+00:00
+Process Time:48m 15s
+Priority:1
+Customer ID:6T37y9sEOBBFA86px4lB
+Arrival Time:2023-04-04 20:28:00+00:00
+Process Time:49m 45s
+Priority:1
+Customer ID:6Vhkj6sFpQH92CwOQDeS
+Arrival Time:2023-04-06 13:01:00+00:00
+Process Time:46m 0s
+Priority:2
+Customer ID:6dcsLXgi8w1dvEwvasxY
+Arrival Time:2023-03-04 00:02:45+00:00
+Process Time:57m 15s
+Priority:3
+Customer ID:6em0QM0iS7Ub8YnI3ynQ
+Arrival Time:2023-05-23 06:40:30+00:00
+Process Time:13m 45s
+Priority:1
+Customer ID:6fddEsMadFDNXaPNLP74
+Arrival Time:2023-04-06 18:20:30+00:00
+Process Time:55m 0s
+Priority:2
+Customer ID:6fmBgTUNpSzZRkguCdo0
+Arrival Time:2023-04-18 22:43:30+00:00
+Process Time:28m 0s
+Priority:3
+Customer ID:6hS4apBDaJ8K2jNlsWke
+Arrival Time:2023-03-07 23:25:30+00:00
+Process Time:38m 0s
+Priority:1
+Customer ID:6nI6BD0AlZmrKPQUrEZV
+Arrival Time:2023-04-02 22:06:45+00:00
+Process Time:50m 30s
+Priority:2
+Customer ID:6oFUViQfjqE69gmE3X4b
+Arrival Time:2023-05-26 21:02:37.089000+00:00
+Process Time:46s
+Priority:1
+Customer ID:6on7fZSX5V8n7tKTXzO1
+Arrival Time:2023-03-08 17:15:00+00:00
+Process Time:42m 30s
+Priority:3
+Customer ID:6qMXAQzprALUUzFMFJM6
+Arrival Time:2023-05-10 19:44:30+00:00
+Process Time:50m 0s
+Priority:2
+Customer ID:6rOTHQb3gyY7OLGEpgIm
+Arrival Time:2023-04-24 09:35:45+00:00
+Process Time:23m 45s
+Priority:2
+Customer ID:708Uk98KbFxWe77Hgacs
+Arrival Time:2023-05-09 15:19:45+00:00
+Process Time:44m 15s
+Priority:3
+Customer ID:71GEr6Uf1kGz68W4TDtq
+Arrival Time:2023-05-03 13:48:45+00:00
+Process Time:33m 30s
+Priority:2
+Customer ID:71w15gxWKyRalUxSkEEI
+Arrival Time:2023-05-14 01:44:30+00:00
+Process Time:4m 45s
+Priority:1
+Customer ID:7CniKwBgjqhcxEqedMRP
+Arrival Time:2023-05-16 02:56:30+00:00
+Process Time:22m 15s
+Priority:1
+Customer ID:7DmwyYahZk4y1HSHmDl2
+Arrival Time:2023-05-19 15:10:15+00:00
+Process Time:53m 30s
+Priority:1
+Customer ID:7IZWOjavJcecMOr23IP9
+Arrival Time:2023-04-27 22:07:15+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:7JJvEdTXUV5TIvsrKCle
+Arrival Time:2023-04-01 20:32:00+00:00
+Process Time:53m 30s
+Priority:1
+Customer ID:7SE2TT11jWY7Ji2RaMs4
+Arrival Time:2023-04-19 03:34:00+00:00
+Process Time:38m 0s
+Priority:3
+Customer ID:7VmIiPR3SH94wag0I20k
+Arrival Time:2023-05-19 16:48:30+00:00
+Process Time:39m 45s
+Priority:3
+Customer ID:7Vvb2OrBrjErpq5rWBlr
+Arrival Time:2023-05-26 19:28:02.754000+00:00
+Process Time:4s
+Priority:1
+Customer ID:7fevJ9GM7xuQgyjn3CT9
+Arrival Time:2023-03-03 05:44:15+00:00
+Process Time:20m 45s
+Priority:1
+Customer ID:7mQLbhCvQeUI9KGRSgwe
+Arrival Time:2023-05-17 00:06:30+00:00
+Process Time:25m 0s
+Priority:3
+Customer ID:7qv1LHxaBXMepat5LOJe
+Arrival Time:2023-05-22 21:40:00+00:00
+Process Time:54m 45s
+Priority:1
+Customer ID:7qvbAM8zKqRhOFq05rPe
+Arrival Time:2023-05-05 00:58:15+00:00
+Process Time:45m 45s
+Priority:2
+Customer ID:7vdhtHTj0WzJjcshOBQS
+Arrival Time:2023-04-29 08:12:30+00:00
+Process Time:28m 30s
+Priority:2
+Customer ID:7zyMGmhfzaydnlg76SIg
+Arrival Time:2023-03-23 23:07:00+00:00
+Process Time:57m 45s
+Priority:1
+Customer ID:81ciD9HrG7aEhnITZ2m9
+Arrival Time:2023-04-03 16:31:15+00:00
+Process Time:57m 0s
+Priority:2
+Customer ID:82sAhgAe3kpUQozNXrjU
+Arrival Time:2023-04-16 01:44:45+00:00
+Process Time:31m 15s
+Priority:3
+Customer ID:83t61s0mcRuqcdiZqxGD
+Arrival Time:2023-05-22 02:08:30+00:00
+Process Time:27m 0s
+Priority:2
+Customer ID:843UuwvuXsxjJhotvL0U
+Arrival Time:2023-04-11 01:37:45+00:00
+Process Time:32m 15s
+Priority:3
+Customer ID:84l0jsFHlsVXpTeXrg9S
+Arrival Time:2023-05-12 09:15:00+00:00
+Process Time:21m 15s
+Priority:3
+Customer ID:861DkPn5nzIkf96TsWGE
+Arrival Time:2023-04-07 03:26:00+00:00
+Process Time:44m 0s
+Priority:3
+Customer ID:86nsVwJ2ZGPmCO7Mq9XC
+Arrival Time:2023-05-12 16:12:15+00:00
+Process Time:20m 30s
+Priority:2
+Customer ID:875n8VgREnSix0PnnPiV
+Arrival Time:2023-05-22 03:16:00+00:00
+Process Time:11m 0s
+Priority:2
+Customer ID:881B03hLraKDejJSV2A7
+Arrival Time:2023-03-19 07:55:15+00:00
+Process Time:20m 45s
+Priority:1
+Customer ID:88KbV04Y9NEIN0FXrPaH
+Arrival Time:2023-04-09 21:52:15+00:00
+Process Time:58m 30s
+Priority:2
+Customer ID:89N9g5iD5jmJ0jCdHeio
+Arrival Time:2023-05-13 16:39:00+00:00
+Process Time:50m 15s
+Priority:2
+Customer ID:8AgGx9O4QHgFxODV043o
+Arrival Time:2023-04-01 05:19:15+00:00
+Process Time:11m 45s
+Priority:1
+Customer ID:8ESFPbFq35nQsgIWuoYz
+Arrival Time:2023-04-06 15:48:00+00:00
+Process Time:46m 15s
+Priority:3
+Customer ID:8GYaLcGc4Klh62PXAkdf
+Arrival Time:2023-03-29 16:24:00+00:00
+Process Time:51m 15s
+Priority:3
+Customer ID:8HxRyA3SPqkZxeafxTbN
+Arrival Time:2023-05-16 15:57:45+00:00
+Process Time:22m 0s
+Priority:3
+Customer ID:8SBEMMuRK8vWyMpImHcd
+Arrival Time:2023-04-21 21:10:45+00:00
+Process Time:59m 45s
+Priority:2
+Customer ID:8WQn4chVlsHG0nDvWAxj
+Arrival Time:2023-04-17 22:58:00+00:00
+Process Time:10m 0s
+Priority:3
+Customer ID:8c92IWwRBWbqq4ygf2dP
+Arrival Time:2023-04-02 20:05:45+00:00
+Process Time:9m 15s
+Priority:2
+Customer ID:8dGmfBOoIxYN1a2R7I4r
+Arrival Time:2023-03-07 18:42:00+00:00
+Process Time:8m 30s
+Priority:2
+Customer ID:8gXcFh1aYiE3HPbgq4zd
+Arrival Time:2023-04-13 04:55:45+00:00
+Process Time:45m 30s
+Priority:3
+Customer ID:8kuF9TfeHhSRXiDfTBR4
+Arrival Time:2023-03-09 01:45:00+00:00
+Process Time:18m 0s
+Priority:2
+Customer ID:8qRJGaBVHwP4odyMLh6W
+Arrival Time:2023-03-24 06:35:30+00:00
+Process Time:16m 0s
+Priority:3
+Customer ID:8rpqMuHyv2voLP7FbI9p
+Arrival Time:2023-03-10 20:03:45+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:8rszFGBsYW8sTRc5lLW5
+Arrival Time:2023-05-22 14:49:15+00:00
+Process Time:14m 45s
+Priority:3
+Customer ID:8uFsVVC2oKyMNdzIEbt3
+Arrival Time:2023-05-02 12:41:30+00:00
+Process Time:12m 45s
+Priority:1
+Customer ID:8ucXQ2Yznf1INTkxXsr1
+Arrival Time:2023-03-29 00:46:30+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:8vlmVhPg7opJe9rrohhc
+Arrival Time:2023-03-09 18:56:00+00:00
+Process Time:51m 30s
+Priority:2
+Customer ID:8zBBr93YxHsgy7iiSvXG
+Arrival Time:2023-05-05 21:37:30+00:00
+Process Time:42m 45s
+Priority:2
+Customer ID:960w4baL787QrX1G9GXv
+Arrival Time:2023-03-27 21:53:15+00:00
+Process Time:6m 45s
+Priority:3
+Customer ID:99Bq1RhmdArUSe0izpkk
+Arrival Time:2023-03-16 04:27:15+00:00
+Process Time:14m 30s
+Priority:1
+Customer ID:9BSfvUGIU2ygF7sncNsP
+Arrival Time:2023-05-05 01:47:00+00:00
+Process Time:51m 0s
+Priority:2
+Customer ID:9EFhF4PlkmVZpuCX9nma
+Arrival Time:2023-04-07 04:54:45+00:00
+Process Time:49m 0s
+Priority:3
+Customer ID:9FIXjZjUNMSx1vTahIig
+Arrival Time:2023-04-22 18:02:45+00:00
+Process Time:41m 45s
+Priority:3
+Customer ID:9L4g31jKKoZfUdij6xKJ
+Arrival Time:2023-04-24 22:50:45+00:00
+Process Time:58m 45s
+Priority:2
+Customer ID:9aYl20MSkTIRmKUqpNCV
+Arrival Time:2023-03-06 08:40:15+00:00
+Process Time:41m 15s
+Priority:1
+Customer ID:9bslLtovhZsETqtfg4LI
+Arrival Time:2023-04-24 22:27:15+00:00
+Process Time:22m 45s
+Priority:3
+Customer ID:9cEhrPAQHlcPKpZhXoA0
+Arrival Time:2023-05-26 21:20:54.326000+00:00
+Process Time:None
+Priority:1
+Customer ID:9cSA8a69dLnLsAx2SR6L
+Arrival Time:2023-04-26 22:31:45+00:00
+Process Time:13m 0s
+Priority:2
+Customer ID:9gMTec21UlLjdS1FxIuj
+Arrival Time:2023-05-12 07:47:15+00:00
+Process Time:34m 45s
+Priority:3
+Customer ID:9gNjRWAfNPTLe3oSGb6Y
+Arrival Time:2023-04-26 13:12:45+00:00
+Process Time:39m 45s
+Priority:3
+Customer ID:9k6zw01Nh2YrsZxUsWWp
+Arrival Time:2023-04-27 01:24:45+00:00
+Process Time:26m 15s
+Priority:1
+Customer ID:9oQit1tVhP56YIFDZiKF
+Arrival Time:2023-04-19 17:53:30+00:00
+Process Time:27m 15s
+Priority:1
+Customer ID:9p3cCX9lOO2vfTrzfTNC
+Arrival Time:2023-04-10 05:57:00+00:00
+Process Time:35m 0s
+Priority:1
+Customer ID:9qCvkyOaL2kgLWgESj1m
+Arrival Time:2023-04-19 03:05:00+00:00
+Process Time:8m 0s
+Priority:1
+Customer ID:9zBqExxZwc8ChbvFDPIe
+Arrival Time:2023-03-27 23:37:15+00:00
+Process Time:11m 30s
+Priority:2
+Customer ID:A09OzWUPUIYWYsh96M0L
+Arrival Time:2023-05-17 19:02:00+00:00
+Process Time:54m 15s
+Priority:2
+Customer ID:A2BuenjXwSF7c5vJwiEr
+Arrival Time:2023-04-14 05:10:30+00:00
+Process Time:40m 30s
+Priority:3
+Customer ID:A6WRGWu88bbOf7PNbHJo
+Arrival Time:2023-05-06 12:19:15+00:00
+Process Time:55m 30s
+Priority:3
+Customer ID:A8iDT3CB0VIcAkm7X95f
+Arrival Time:2023-04-05 00:55:45+00:00
+Process Time:54m 15s
+Priority:3
+Customer ID:A8knzmQ6OMMldGVfICxb
+Arrival Time:2023-04-24 04:28:15+00:00
+Process Time:55m 0s
+Priority:2
+Customer ID:AAFsVSWMiqZNJt6qLAkD
+Arrival Time:2023-03-05 03:40:30+00:00
+Process Time:29m 15s
+Priority:2
+Customer ID:AFgUv4urs5ZQLhPqvTIa
+Arrival Time:2023-04-18 16:57:45+00:00
+Process Time:22m 0s
+Priority:2
+Customer ID:AGcL349jb9qzY8Ky8oh9
+Arrival Time:2023-03-28 18:38:00+00:00
+Process Time:43m 0s
+Priority:3
+Customer ID:AHHyJE2KHcxQyx38RFOm
+Arrival Time:2023-04-12 23:18:15+00:00
+Process Time:40m 0s
+Priority:3
+Customer ID:AHUUqN42k9utwnHxVr4A
+Arrival Time:2023-05-06 02:58:45+00:00
+Process Time:29m 0s
+Priority:2
+Customer ID:AHyW2DpJ2EU1qHYT7qP0
+Arrival Time:2023-04-23 00:41:00+00:00
+Process Time:32m 30s
+Priority:2
+Customer ID:AI8ClYnkfwXmc197RX2u
+Arrival Time:2023-04-19 17:49:30+00:00
+Process Time:26m 15s
+Priority:3
+Customer ID:AKgfOd3jXpWoacdmnqGU
+Arrival Time:2023-04-03 21:35:00+00:00
+Process Time:8m 45s
+Priority:2
+Customer ID:AduoP4nwsuMwd0dG6hr1
+Arrival Time:2023-04-20 02:02:30+00:00
+Process Time:48m 30s
+Priority:1
+Customer ID:AiOrtnsugbTm7Y8JHnqB
+Arrival Time:2023-04-01 21:27:45+00:00
+Process Time:36m 45s
+Priority:1
+Customer ID:Ajrd4uqL5uyBcrWtY6e2
+Arrival Time:2023-04-26 20:11:30+00:00
+Process Time:22m 45s
+Priority:1
+Customer ID:AkNqWI6KgDPqdsqdgPaT
+Arrival Time:2023-03-26 18:00:30+00:00
+Process Time:45m 15s
+Priority:2
+Customer ID:Ar6EJCksTqxXyk5F9fPh
+Arrival Time:2023-05-25 07:34:00+00:00
+Process Time:60m 0s
+Priority:3
+Customer ID:AtNtr6VDsxllW75DQ5CQ
+Arrival Time:2023-05-20 21:28:00+00:00
+Process Time:19m 0s
+Priority:1
+Customer ID:Aw7booodYPEukVEg9GhN
+Arrival Time:2023-03-23 17:37:00+00:00
+Process Time:45m 15s
+Priority:3
+Customer ID:AxewOvIOkZQqkmFqTcMl
+Arrival Time:2023-05-26 18:55:24.299000+00:00
+Process Time:None
+Priority:1
+Customer ID:Ay7O1nV4td9Bl5GQZes7
+Arrival Time:2023-04-30 22:54:45+00:00
+Process Time:47m 45s
+Priority:3
+Customer ID:B6p5qFI6E4quO4ey4ZgY
+Arrival Time:2023-05-15 15:40:15+00:00
+Process Time:46m 45s
+Priority:2
+Customer ID:B7iTfTiq8nwXIjg8CLO6
+Arrival Time:2023-04-06 20:46:30+00:00
+Process Time:33m 15s
+Priority:3
+Customer ID:BCtlf8v3Ygiw87SfcpsQ
+Arrival Time:2023-03-06 04:08:30+00:00
+Process Time:12m 30s
+Priority:2
+Customer ID:BDG0lkjL33IeFqpoiNWE
+Arrival Time:2023-05-26 21:23:46.742000+00:00
+Process Time:None
+Priority:1
+Customer ID:BFMdajhnRalxK70sSFlB
+Arrival Time:2023-05-26 19:25:17.325000+00:00
+Process Time:1m 24s
+Priority:1
+Customer ID:BI8k48nckoEbZuxjMKAf
+Arrival Time:2023-03-31 11:43:00+00:00
+Process Time:38m 45s
+Priority:2
+Customer ID:BO4G3Fw58zsEWPwrH37c
+Arrival Time:2023-05-26 19:27:07.010000+00:00
+Process Time:None
+Priority:1
+Customer ID:BUg2m8uAbr3lErLHNQmU
+Arrival Time:2023-03-12 07:42:30+00:00
+Process Time:54m 30s
+Priority:3
+Customer ID:BZNgaZPcXkX4OPN4yTAh
+Arrival Time:2023-04-19 14:42:45+00:00
+Process Time:29m 45s
+Priority:2
+Customer ID:BbJjBwmIokNvhGfd0oQm
+Arrival Time:2023-05-19 11:36:15+00:00
+Process Time:59m 0s
+Priority:2
+Customer ID:Bf5NUHkDzzq5z0usfxxP
+Arrival Time:2023-05-12 06:09:30+00:00
+Process Time:58m 15s
+Priority:3
+Customer ID:Bh1tRP2X0Bk8hR8yE8pw
+Arrival Time:2023-03-03 15:19:15+00:00
+Process Time:16m 45s
+Priority:1
+Customer ID:BpI4DOMPDSN9ZLkRwsaB
+Arrival Time:2023-04-08 23:39:30+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:BpZ7ZkxyY5yHiiWMCdho
+Arrival Time:2023-04-10 06:59:45+00:00
+Process Time:47m 30s
+Priority:2
+Customer ID:Bw6Ql5xGENpdG5HAtGo4
+Arrival Time:2023-05-25 01:58:45+00:00
+Process Time:37m 0s
+Priority:2
+Customer ID:Bw7InwANpLDpa2h0LDBr
+Arrival Time:2023-03-06 14:49:30+00:00
+Process Time:36m 45s
+Priority:2
+Customer ID:BxFqsr5MtPX8BxmTJQAT
+Arrival Time:2023-05-05 21:07:45+00:00
+Process Time:8m 45s
+Priority:2
+Customer ID:Byqmy5AtjRzzTlH47jqj
+Arrival Time:2023-03-07 21:47:45+00:00
+Process Time:10m 45s
+Priority:2
+Customer ID:BzItjnQMT6MrvdshPNS2
+Arrival Time:2023-05-05 20:51:00+00:00
+Process Time:41m 0s
+Priority:1
+Customer ID:C0fzxYyPFlBtUISqHpYa
+Arrival Time:2023-05-26 19:27:01.553000+00:00
+Process Time:None
+Priority:1
+Customer ID:C1habXcDwMvdIELNZFue
+Arrival Time:2023-03-21 00:59:45+00:00
+Process Time:49m 30s
+Priority:2
+Customer ID:C5ARHHuGTgdwwfKdWr1b
+Arrival Time:2023-03-21 04:30:30+00:00
+Process Time:10m 30s
+Priority:2
+Customer ID:C6hHdLzIl2EraUiITO1d
+Arrival Time:2023-05-16 16:44:45+00:00
+Process Time:45m 0s
+Priority:2
+Customer ID:CDorhefToUTeGn8aiHy5
+Arrival Time:2023-04-02 09:47:15+00:00
+Process Time:8m 15s
+Priority:3
+Customer ID:CIVyy56lDhMP4mppzIem
+Arrival Time:2023-03-31 17:32:00+00:00
+Process Time:44m 30s
+Priority:2
+Customer ID:CMCdn2d7Jcz9kfEy0RTM
+Arrival Time:2023-04-13 21:16:00+00:00
+Process Time:7m 15s
+Priority:2
+Customer ID:CMS2jP5jdhQbe2fK41q5
+Arrival Time:2023-05-26 18:37:10.149000+00:00
+Process Time:None
+Priority:1
+Customer ID:CSKtcLSfPiCAsPTjG688
+Arrival Time:2023-05-15 13:09:45+00:00
+Process Time:33m 30s
+Priority:2
+Customer ID:CTMEMzSxYBS0t0J50aem
+Arrival Time:2023-04-15 18:28:15+00:00
+Process Time:9m 0s
+Priority:2
+Customer ID:CYb6625oyiajfIenu4Bg
+Arrival Time:2023-04-29 20:22:45+00:00
+Process Time:19m 45s
+Priority:2
+Customer ID:CZDwk7nokYGBe47krqI8
+Arrival Time:2023-04-23 20:47:30+00:00
+Process Time:11m 15s
+Priority:3
+Customer ID:CaMsGbT7XVYA8kNNEoim
+Arrival Time:2023-04-10 20:04:00+00:00
+Process Time:13m 15s
+Priority:1
+Customer ID:CcwlAjmeXIPOJJR6Pfee
+Arrival Time:2023-05-26 21:01:08.208000+00:00
+Process Time:32s
+Priority:1
+Customer ID:CepCzqljaklTxBN2lSkx
+Arrival Time:2023-05-11 05:27:00+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:CnfgJkiGkj16LPWg9vn7
+Arrival Time:2023-04-23 22:58:45+00:00
+Process Time:16m 15s
+Priority:1
+Customer ID:CvBCaHm3vdU4n9SlyUos
+Arrival Time:2023-05-03 19:54:15+00:00
+Process Time:54m 0s
+Priority:3
+Customer ID:CvyB4S5wRnX5Lowf1qPw
+Arrival Time:2023-04-17 15:19:00+00:00
+Process Time:28m 0s
+Priority:2
+Customer ID:D2h1imnvOnbOG8tEa87S
+Arrival Time:2023-05-21 12:09:45+00:00
+Process Time:56m 15s
+Priority:2
+Customer ID:D5kVX3VgemRR8BBo5D10
+Arrival Time:2023-04-18 09:15:45+00:00
+Process Time:28m 30s
+Priority:3
+Customer ID:D8j5FYABRkKFN1IDGhp5
+Arrival Time:2023-04-01 17:02:00+00:00
+Process Time:13m 30s
+Priority:2
+Customer ID:D97FdfRiBEgVOe0KkADZ
+Arrival Time:2023-03-24 06:20:30+00:00
+Process Time:58m 45s
+Priority:2
+Customer ID:D9K1MrOyUhx0xBwI6vhn
+Arrival Time:2023-04-28 19:07:00+00:00
+Process Time:10m 0s
+Priority:2
+Customer ID:DCU1puz0OkQxCqgUJTsk
+Arrival Time:2023-04-13 11:04:15+00:00
+Process Time:25m 15s
+Priority:2
+Customer ID:DHAovD7ZII0ee7FbohoB
+Arrival Time:2023-04-08 02:30:30+00:00
+Process Time:45m 45s
+Priority:1
+Customer ID:DIRemfoSV6xAtVf6OQmy
+Arrival Time:2023-05-26 19:03:48.652000+00:00
+Process Time:None
+Priority:1
+Customer ID:DOJs23EFOcciaOmtYbCV
+Arrival Time:2023-03-05 21:26:30+00:00
+Process Time:41m 15s
+Priority:2
+Customer ID:DSxKF3nMJy2GE5SEt8PZ
+Arrival Time:2023-05-18 10:28:15+00:00
+Process Time:16m 45s
+Priority:3
+Customer ID:DVe4InhzOzR0f60rzk09
+Arrival Time:2023-03-12 16:15:45+00:00
+Process Time:41m 45s
+Priority:3
+Customer ID:DYfp57In5ObtNswPmbUo
+Arrival Time:2023-05-14 17:04:45+00:00
+Process Time:13m 30s
+Priority:1
+Customer ID:DZPrGSt1VCY4yKP5lCJ5
+Arrival Time:2023-03-09 15:23:00+00:00
+Process Time:43m 15s
+Priority:2
+Customer ID:DewilVSAHpOMyIL7NTpc
+Arrival Time:2023-05-13 19:23:45+00:00
+Process Time:34m 0s
+Priority:2
+Customer ID:Dn9x1HnfcEdy559oRI3J
+Arrival Time:2023-03-14 17:23:15+00:00
+Process Time:13m 0s
+Priority:2
+Customer ID:DnbuRNj1xXF4QXTdIPhg
+Arrival Time:2023-04-09 14:42:15+00:00
+Process Time:2m 0s
+Priority:1
+Customer ID:Dqf26uhu6C7VUYx2LpSG
+Arrival Time:2023-05-14 17:36:15+00:00
+Process Time:25m 0s
+Priority:3
+Customer ID:DqyGmHhSxmFAr0vR0sCD
+Arrival Time:2023-03-26 09:56:45+00:00
+Process Time:8m 15s
+Priority:3
+Customer ID:DuYtLnet2U8lTRwYn2zj
+Arrival Time:2023-03-03 21:17:45+00:00
+Process Time:18m 0s
+Priority:2
+Customer ID:DzLcoyzrLVM8VtYocMq8
+Arrival Time:2023-04-14 08:25:45+00:00
+Process Time:2m 0s
+Priority:1
+Customer ID:E308ccVjepriU5fPwEoI
+Arrival Time:2023-05-13 18:47:30+00:00
+Process Time:29m 0s
+Priority:2
+Customer ID:E7tlywi54HHsTXd1asM6
+Arrival Time:2023-03-19 03:45:00+00:00
+Process Time:32m 15s
+Priority:2
+Customer ID:ECaxXAicWysQ7LnC2tbj
+Arrival Time:2023-04-03 02:15:00+00:00
+Process Time:3m 15s
+Priority:1
+Customer ID:EI9WKubuJBHZ86lfJPve
+Arrival Time:2023-05-09 17:44:00+00:00
+Process Time:41m 15s
+Priority:3
+Customer ID:EJACHSyigJzGFTGSvwwd
+Arrival Time:2023-05-26 19:14:53.887000+00:00
+Process Time:9s
+Priority:1
+Customer ID:EJyrVuLXLm3dAaF3i6EO
+Arrival Time:2023-05-21 09:40:00+00:00
+Process Time:34m 30s
+Priority:2
+Customer ID:ENngWVQPA3QxJUWNqnLR
+Arrival Time:2023-04-27 10:50:45+00:00
+Process Time:20m 0s
+Priority:2
+Customer ID:EO9Y7hUGaLtKqmjrf1N4
+Arrival Time:2023-05-06 00:13:15+00:00
+Process Time:45m 30s
+Priority:3
+Customer ID:EQEndet5fJ5m63EGBCwg
+Arrival Time:2023-03-23 01:37:00+00:00
+Process Time:52m 45s
+Priority:1
+Customer ID:EQLlWNg0tvhXKmhWo93U
+Arrival Time:2023-03-16 15:51:45+00:00
+Process Time:11m 15s
+Priority:3
+Customer ID:EcgrTwJTHcrTe2xdo4TQ
+Arrival Time:2023-03-27 19:58:45+00:00
+Process Time:36m 45s
+Priority:1
+Customer ID:EchJntDIjowkrvgvQba2
+Arrival Time:2023-05-17 07:17:45+00:00
+Process Time:35m 30s
+Priority:1
+Customer ID:EiOex4Hujeh9e0gysZKw
+Arrival Time:2023-05-03 06:02:15+00:00
+Process Time:6m 30s
+Priority:3
+Customer ID:El8B9rABJeKEkQMbUKOY
+Arrival Time:2023-05-12 18:23:45+00:00
+Process Time:15m 0s
+Priority:2
+Customer ID:Ely2NroCG1IC6Xzf7UYY
+Arrival Time:2023-05-22 16:46:15+00:00
+Process Time:37m 30s
+Priority:3
+Customer ID:EsUaOU21MwDLLkIrefFF
+Arrival Time:2023-04-26 21:23:00+00:00
+Process Time:54m 0s
+Priority:2
+Customer ID:F1jp5SNezHykBoB9aCZP
+Arrival Time:2023-03-07 14:44:00+00:00
+Process Time:5m 15s
+Priority:3
+Customer ID:F25C06Je8yrVnMFoEWlO
+Arrival Time:2023-05-26 21:00:15.394000+00:00
+Process Time:2s
+Priority:1
+Customer ID:F4294hzyI1O2sbRGhb5K
+Arrival Time:2023-05-09 06:08:45+00:00
+Process Time:54m 30s
+Priority:3
+Customer ID:F4F1PQiB7vHfThEwYGRP
+Arrival Time:2023-04-09 02:26:45+00:00
+Process Time:46m 15s
+Priority:2
+Customer ID:FB7eQ4Zt7TgpxtfP38dc
+Arrival Time:2023-05-24 18:33:15+00:00
+Process Time:33m 0s
+Priority:2
+Customer ID:FGUMd16F6cawsiPHSnXu
+Arrival Time:2023-04-16 05:17:15+00:00
+Process Time:5m 15s
+Priority:1
+Customer ID:FIPd4rysOiqRImIONNyT
+Arrival Time:2023-03-28 13:44:30+00:00
+Process Time:40m 0s
+Priority:2
+Customer ID:FMHuaeSqKSks29fx1zLj
+Arrival Time:2023-04-06 08:48:00+00:00
+Process Time:46m 45s
+Priority:2
+Customer ID:FPLdILiGnyXJAyLCI4Ue
+Arrival Time:2023-05-26 21:21:20.872000+00:00
+Process Time:37s
+Priority:1
+Customer ID:FXd6Q0hnkpObJFpi7g9A
+Arrival Time:2023-04-16 11:36:15+00:00
+Process Time:35m 0s
+Priority:1
+Customer ID:FZ5BtC1N0ctQCJnBZrOM
+Arrival Time:2023-05-24 11:19:30+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:FdwYBbMxZEGzHSzrw8mQ
+Arrival Time:2023-04-11 06:07:45+00:00
+Process Time:52m 15s
+Priority:3
+Customer ID:Fe5gVJl5SgrMtgKpagOH
+Arrival Time:2023-04-19 10:06:30+00:00
+Process Time:33m 0s
+Priority:1
+Customer ID:FfZ5ma4eiFAyd1hq84eu
+Arrival Time:2023-03-15 12:26:30+00:00
+Process Time:31m 15s
+Priority:3
+Customer ID:FhQI0YSVe2gtWXtgV3pp
+Arrival Time:2023-05-15 06:08:30+00:00
+Process Time:16m 45s
+Priority:3
+Customer ID:Fr6Gc4wQwGMeMxcneQWO
+Arrival Time:2023-04-29 14:20:45+00:00
+Process Time:35m 0s
+Priority:2
+Customer ID:G073OYz6MI0tJgWg8rwP
+Arrival Time:2023-03-31 22:25:00+00:00
+Process Time:37m 45s
+Priority:3
+Customer ID:G1CFXAztTLxyrbwpCklk
+Arrival Time:2023-04-15 12:29:30+00:00
+Process Time:51m 15s
+Priority:2
+Customer ID:G8hvQYlNAqTA7evZzl2L
+Arrival Time:2023-04-24 01:33:45+00:00
+Process Time:49m 45s
+Priority:2
+Customer ID:GBAilW7W7KBCh1Cpqf51
+Arrival Time:2023-03-27 03:38:15+00:00
+Process Time:19m 15s
+Priority:2
+Customer ID:GDQ2DMPtT1RvEIuFWYbK
+Arrival Time:2023-04-09 19:15:15+00:00
+Process Time:47m 30s
+Priority:3
+Customer ID:GFJKB9wkvvldUq2Jrg6j
+Arrival Time:2023-05-16 09:24:45+00:00
+Process Time:10m 45s
+Priority:3
+Customer ID:GFqFC2XWOJr7QYeBiN20
+Arrival Time:2023-04-14 01:05:00+00:00
+Process Time:46m 15s
+Priority:3
+Customer ID:GHRRAqt9BhGGczU1arGl
+Arrival Time:2023-03-19 02:45:00+00:00
+Process Time:19m 0s
+Priority:3
+Customer ID:GIC6pPH77RP3Ghbl2ApS
+Arrival Time:2023-04-22 04:53:45+00:00
+Process Time:50m 30s
+Priority:2
+Customer ID:GLVs82PMS2uYSrMsg6Kc
+Arrival Time:2023-04-21 02:45:15+00:00
+Process Time:39m 15s
+Priority:1
+Customer ID:GX8eoNXTk0YBeS6mzU3o
+Arrival Time:2023-04-24 07:47:30+00:00
+Process Time:54m 45s
+Priority:2
+Customer ID:GjayGi6ITvmEhaAZmQfE
+Arrival Time:2023-05-13 15:56:30+00:00
+Process Time:58m 0s
+Priority:2
+Customer ID:GmUtsAgvUa8NbVBfkWXI
+Arrival Time:2023-05-13 17:18:30+00:00
+Process Time:40m 15s
+Priority:3
+Customer ID:Gn4DBJUwZFruXhtaiujg
+Arrival Time:2023-05-17 14:08:45+00:00
+Process Time:2m 15s
+Priority:3
+Customer ID:Gv91H9WsADV7kghQ2JrQ
+Arrival Time:2023-03-19 07:20:15+00:00
+Process Time:20m 0s
+Priority:3
+Customer ID:GytxHnsmyFXQPywFhsdH
+Arrival Time:2023-05-06 12:01:15+00:00
+Process Time:24m 0s
+Priority:3
+Customer ID:HBZFl3h9kwaRaOsQvqnR
+Arrival Time:2023-03-04 19:19:30+00:00
+Process Time:21m 0s
+Priority:2
+Customer ID:HEbsYknjZfjBDdvOKkre
+Arrival Time:2023-04-27 05:35:45+00:00
+Process Time:43m 15s
+Priority:2
+Customer ID:HKMjWyjDbO8s1DV01Fwi
+Arrival Time:2023-05-09 04:44:45+00:00
+Process Time:49m 0s
+Priority:2
+Customer ID:HKWL1cKPNMKKgWNOSpNV
+Arrival Time:2023-03-09 12:48:15+00:00
+Process Time:13m 0s
+Priority:1
+Customer ID:HMeR09ATsghjMt0PmGwO
+Arrival Time:2023-03-12 08:01:15+00:00
+Process Time:58m 15s
+Priority:2
+Customer ID:HU4trelvzNaJ4UePsDFn
+Arrival Time:2023-03-13 14:51:45+00:00
+Process Time:5m 0s
+Priority:2
+Customer ID:HW9W4nS7lrieT9XB8Lc3
+Arrival Time:2023-03-06 14:17:15+00:00
+Process Time:19m 0s
+Priority:1
+Customer ID:HWpuFGHn5r8iIHZB2tUr
+Arrival Time:2023-04-04 15:02:45+00:00
+Process Time:24m 0s
+Priority:3
+Customer ID:HYinVIczrhRjc3kk2v2J
+Arrival Time:2023-03-15 03:38:30+00:00
+Process Time:18m 45s
+Priority:2
+Customer ID:HZEF1GsFjuVmcnEaQLg4
+Arrival Time:2023-03-20 22:01:30+00:00
+Process Time:35m 45s
+Priority:3
+Customer ID:HhoMeIRMWiNjUXOHR3Wz
+Arrival Time:2023-03-05 01:13:15+00:00
+Process Time:28m 30s
+Priority:2
+Customer ID:HsU08nlSod2CrnTb76hr
+Arrival Time:2023-05-12 07:17:00+00:00
+Process Time:14m 0s
+Priority:1
+Customer ID:Htp2xlxGWngzkfxJBIFE
+Arrival Time:2023-05-16 21:12:00+00:00
+Process Time:5m 45s
+Priority:1
+Customer ID:Hw1vgE00Zq0zZ7m5GOxx
+Arrival Time:2023-04-23 09:27:15+00:00
+Process Time:28m 45s
+Priority:3
+Customer ID:HwmuYNEmn0osAMIasaHX
+Arrival Time:2023-04-06 08:24:15+00:00
+Process Time:46m 0s
+Priority:2
+Customer ID:HxuMxg8fjNIJp7193CHj
+Arrival Time:2023-03-21 18:19:30+00:00
+Process Time:56m 15s
+Priority:1
+Customer ID:Hy1zxLCOeYDHkB2TtUX4
+Arrival Time:2023-04-12 03:33:30+00:00
+Process Time:42m 45s
+Priority:2
+Customer ID:Hy3doFHoZGrDaoRl5RBg
+Arrival Time:2023-03-16 14:15:45+00:00
+Process Time:4m 45s
+Priority:1
+Customer ID:I2CgZ3tvr35tqJFwJE0E
+Arrival Time:2023-05-08 11:40:45+00:00
+Process Time:32m 15s
+Priority:2
+Customer ID:IDc9eFxUqm5VjqWnpqqo
+Arrival Time:2023-04-12 12:48:30+00:00
+Process Time:22m 30s
+Priority:1
+Customer ID:IE6cd1j6nfrwdZKpAJ7Z
+Arrival Time:2023-05-26 18:58:14.585000+00:00
+Process Time:None
+Priority:1
+Customer ID:IEoXIOB5UbDiB2Zto1SP
+Arrival Time:2023-04-19 17:46:45+00:00
+Process Time:18m 45s
+Priority:3
+Customer ID:IEy0245RWw1krDwjHnDJ
+Arrival Time:2023-04-02 00:25:15+00:00
+Process Time:51m 45s
+Priority:3
+Customer ID:ILOUL2FynpK5wDXCG3Xb
+Arrival Time:2023-05-26 21:20:47.074000+00:00
+Process Time:None
+Priority:1
+Customer ID:ILS1ut3h78VNZb9R02MN
+Arrival Time:2023-04-16 02:52:00+00:00
+Process Time:34m 0s
+Priority:1
+Customer ID:ILqfM7oeyL9w3YF0hrFL
+Arrival Time:2023-03-13 21:52:30+00:00
+Process Time:58m 0s
+Priority:3
+Customer ID:IO09yDYEGb9i2J1mV2Do
+Arrival Time:2023-04-12 12:56:00+00:00
+Process Time:21m 30s
+Priority:2
+Customer ID:IQPK0AzfG2DOqTkNtMcb
+Arrival Time:2023-04-21 03:12:45+00:00
+Process Time:8m 0s
+Priority:3
+Customer ID:IUE1OfWYlI4kxlZvrx5P
+Arrival Time:2023-03-21 18:48:00+00:00
+Process Time:26m 0s
+Priority:3
+Customer ID:IUGugCeJsU4vm9AYmJBa
+Arrival Time:2023-04-21 19:04:30+00:00
+Process Time:44m 45s
+Priority:1
+Customer ID:IcqfUXKILr50wgrmQV8P
+Arrival Time:2023-04-25 08:40:45+00:00
+Process Time:34m 30s
+Priority:2
+Customer ID:IdJQkZGbJarEGJvls5GU
+Arrival Time:2023-03-29 09:24:15+00:00
+Process Time:15m 15s
+Priority:3
+Customer ID:IelTMvpl432YYMFToDMd
+Arrival Time:2023-03-22 10:03:45+00:00
+Process Time:12m 15s
+Priority:3
+Customer ID:IfM2B9ooNAriUuf7GvLA
+Arrival Time:2023-05-11 12:17:30+00:00
+Process Time:55m 0s
+Priority:3
+Customer ID:IgWFkLraLHMLKFnXF6hE
+Arrival Time:2023-03-31 18:35:30+00:00
+Process Time:54m 15s
+Priority:2
+Customer ID:IjFpegsl3lpRewWyvNof
+Arrival Time:2023-04-24 08:00:15+00:00
+Process Time:5m 45s
+Priority:2
+Customer ID:IrTfZLevaYMYGDmNvFJW
+Arrival Time:2023-03-19 17:19:00+00:00
+Process Time:29m 0s
+Priority:2
+Customer ID:IsH3NVWw0kwVVARsTpGV
+Arrival Time:2023-04-03 01:08:45+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:Ivs9UUDY0psmI29ZEHcg
+Arrival Time:2023-04-21 14:11:00+00:00
+Process Time:6m 0s
+Priority:1
+Customer ID:J0NGYgdURD72TtK0KH9S
+Arrival Time:2023-03-24 09:34:30+00:00
+Process Time:58m 45s
+Priority:3
+Customer ID:J2Gu6U2VK2XwPAMYa2Kl
+Arrival Time:2023-05-08 03:02:30+00:00
+Process Time:15m 45s
+Priority:3
+Customer ID:J4nIBEjFpiWpcZaW30r7
+Arrival Time:2023-04-24 16:09:45+00:00
+Process Time:14m 15s
+Priority:2
+Customer ID:J9g8fgQ3yvgNoLUWTbnZ
+Arrival Time:2023-05-12 23:59:15+00:00
+Process Time:44m 0s
+Priority:3
+Customer ID:JAaLNjOoXkAMCQt0vbNi
+Arrival Time:2023-04-05 12:34:00+00:00
+Process Time:5m 30s
+Priority:2
+Customer ID:JAsvucxNG54biNZL5bBm
+Arrival Time:2023-03-12 10:35:15+00:00
+Process Time:50m 30s
+Priority:3
+Customer ID:JRAv3WIINviR0IoceTyb
+Arrival Time:2023-05-17 07:11:30+00:00
+Process Time:52m 15s
+Priority:2
+Customer ID:JRbgyA0Z3K8ipl5Yxf5w
+Arrival Time:2023-04-24 19:25:00+00:00
+Process Time:22m 45s
+Priority:3
+Customer ID:JVJSmGxaYeBQYSdrM9NP
+Arrival Time:2023-03-13 11:37:00+00:00
+Process Time:54m 45s
+Priority:2
+Customer ID:JZJYWgNPhuN8HCyM540W
+Arrival Time:2023-03-18 18:39:15+00:00
+Process Time:4m 0s
+Priority:3
+Customer ID:JbmtnpgoJnKRLQvRPGKS
+Arrival Time:2023-05-26 18:36:11.764000+00:00
+Process Time:None
+Priority:1
+Customer ID:JgcT7qoECVo6pFjVqmjx
+Arrival Time:2023-04-25 09:52:45+00:00
+Process Time:58m 0s
+Priority:2
+Customer ID:JiseG8wTYKcgdpsSLsWY
+Arrival Time:2023-05-06 09:15:15+00:00
+Process Time:3m 30s
+Priority:2
+Customer ID:JoPYpoi28IeBDfKOz6Ra
+Arrival Time:2023-03-09 18:19:15+00:00
+Process Time:48m 15s
+Priority:2
+Customer ID:JyFl8NE9b2fci3cWs4gn
+Arrival Time:2023-04-26 23:58:15+00:00
+Process Time:17m 0s
+Priority:2
+Customer ID:K0zQyviifadGZMI7gp29
+Arrival Time:2023-05-26 19:27:11.999000+00:00
+Process Time:5s
+Priority:1
+Customer ID:K50XB9LWhjpi3M12E3vL
+Arrival Time:2023-04-19 17:28:30+00:00
+Process Time:42m 30s
+Priority:3
+Customer ID:K6DqdttsvpY8XQu2VZxj
+Arrival Time:2023-05-01 13:26:45+00:00
+Process Time:25m 0s
+Priority:2
+Customer ID:K6bAreIV9pbAO8KBHMEx
+Arrival Time:2023-03-15 11:30:30+00:00
+Process Time:34m 15s
+Priority:1
+Customer ID:K7PDzvthywJRAd8dkSER
+Arrival Time:2023-04-04 15:50:00+00:00
+Process Time:59m 15s
+Priority:3
+Customer ID:KCI8MiK68ZsoZejJNljr
+Arrival Time:2023-05-01 23:30:30+00:00
+Process Time:25m 30s
+Priority:2
+Customer ID:KDz1qCCEpIYN7cHV4CDy
+Arrival Time:2023-04-14 01:00:45+00:00
+Process Time:42m 30s
+Priority:1
+Customer ID:KFu81TIQAfPOcgmwvtSv
+Arrival Time:2023-04-12 15:00:45+00:00
+Process Time:22m 45s
+Priority:2
+Customer ID:KGY88RrTszbjFGZcaKmE
+Arrival Time:2023-04-25 04:18:45+00:00
+Process Time:11m 15s
+Priority:3
+Customer ID:KKexAwmqy0HRaOcgyffa
+Arrival Time:2023-05-03 20:28:00+00:00
+Process Time:46m 30s
+Priority:3
+Customer ID:KMIxjrvGgc1VAJmUvRej
+Arrival Time:2023-05-18 17:00:00+00:00
+Process Time:59m 15s
+Priority:2
+Customer ID:KP45X3Y9IQQcjYYaPeT6
+Arrival Time:2023-04-18 03:53:30+00:00
+Process Time:20m 0s
+Priority:2
+Customer ID:KSksX3FdqFjLIWFhk7dU
+Arrival Time:2023-05-19 02:48:15+00:00
+Process Time:47m 30s
+Priority:3
+Customer ID:KVPBxQkh7iAw4hHFn29i
+Arrival Time:2023-04-14 18:36:00+00:00
+Process Time:12m 0s
+Priority:2
+Customer ID:KYFHMIJH56YdNMBNnqb3
+Arrival Time:2023-04-07 02:36:15+00:00
+Process Time:10m 15s
+Priority:2
+Customer ID:KaV4woZMzFXsCSlFzzuQ
+Arrival Time:2023-03-12 21:48:15+00:00
+Process Time:45m 15s
+Priority:2
+Customer ID:KadOQvA0YIZtISuOf8M6
+Arrival Time:2023-03-17 09:04:15+00:00
+Process Time:55m 30s
+Priority:3
+Customer ID:Kcj9KsoH2Nr1MsvyQZWt
+Arrival Time:2023-04-11 01:06:00+00:00
+Process Time:50m 0s
+Priority:1
+Customer ID:KfnryCBVicDeqZdnuivA
+Arrival Time:2023-04-27 07:33:15+00:00
+Process Time:60m 0s
+Priority:2
+Customer ID:Kg7vFXYKuT5yAAmxAteq
+Arrival Time:2023-05-05 04:03:00+00:00
+Process Time:46m 45s
+Priority:2
+Customer ID:KiRk0jGxK2GEna3cRa4Q
+Arrival Time:2023-03-25 05:51:00+00:00
+Process Time:22m 30s
+Priority:2
+Customer ID:KlWkrh0UsJLXhTqPRR2S
+Arrival Time:2023-05-20 15:33:45+00:00
+Process Time:47m 30s
+Priority:2
+Customer ID:KmKWkSGdxtd1rvRcHB9K
+Arrival Time:2023-05-16 15:16:45+00:00
+Process Time:25m 0s
+Priority:2
+Customer ID:KmR1YOcAgByPc0H0MCfX
+Arrival Time:2023-03-06 14:42:15+00:00
+Process Time:33m 0s
+Priority:3
+Customer ID:Kn5EzcfU878jpCrdH7rh
+Arrival Time:2023-05-24 20:00:00+00:00
+Process Time:24m 30s
+Priority:2
+Customer ID:KngjWlUqyLyKYMiGqhty
+Arrival Time:2023-03-15 17:54:30+00:00
+Process Time:55m 30s
+Priority:1
+Customer ID:KqcPlgcKBNZsfk6TazPz
+Arrival Time:2023-04-25 00:01:45+00:00
+Process Time:59m 30s
+Priority:3
+Customer ID:Kr8PjCQSs4K9ZydX4XUC
+Arrival Time:2023-03-26 08:19:45+00:00
+Process Time:9m 30s
+Priority:3
+Customer ID:KvHTq9KZjfbdvM08VA5L
+Arrival Time:2023-04-21 10:17:45+00:00
+Process Time:40m 15s
+Priority:2
+Customer ID:Kz1cdh6k48BfqJKbuY6q
+Arrival Time:2023-04-19 04:58:15+00:00
+Process Time:15m 30s
+Priority:1
+Customer ID:L5EHw5aS0h1lYt3uuqTz
+Arrival Time:2023-05-05 17:53:15+00:00
+Process Time:52m 0s
+Priority:2
+Customer ID:L8dVQbDRyEYx5dGm6GxS
+Arrival Time:2023-05-08 18:23:00+00:00
+Process Time:17m 45s
+Priority:2
+Customer ID:LCLkgDStCtS6C3hhNO89
+Arrival Time:2023-03-25 13:18:30+00:00
+Process Time:20m 30s
+Priority:1
+Customer ID:LOa2SQ6VlmgJZ9atrk4k
+Arrival Time:2023-03-24 17:45:15+00:00
+Process Time:29m 15s
+Priority:1
+Customer ID:LQAmtF46sHA79TUB1hLx
+Arrival Time:2023-05-16 08:16:15+00:00
+Process Time:23m 45s
+Priority:3
+Customer ID:LSvMG9QDgLFAcDmMTx21
+Arrival Time:2023-05-23 06:02:00+00:00
+Process Time:2m 0s
+Priority:2
+Customer ID:LVyKt8Cm7kRKB5uPa6Bn
+Arrival Time:2023-04-04 10:11:45+00:00
+Process Time:54m 15s
+Priority:2
+Customer ID:LYEqnzYxwnKkDajvQ7eI
+Arrival Time:2023-04-10 04:37:00+00:00
+Process Time:12m 0s
+Priority:3
+Customer ID:LZGeIlV3kM7vTRueiZyV
+Arrival Time:2023-05-06 11:59:00+00:00
+Process Time:19m 30s
+Priority:3
+Customer ID:LaVS6pl3BT34141h3a7z
+Arrival Time:2023-04-02 20:18:15+00:00
+Process Time:26m 15s
+Priority:3
+Customer ID:Lbw6YyaLZDJm6QaQn5Ol
+Arrival Time:2023-05-26 18:35:00.987000+00:00
+Process Time:None
+Priority:1
+Customer ID:Ljnn7TdtzT9n68kubQH5
+Arrival Time:2023-04-05 22:40:00+00:00
+Process Time:37m 45s
+Priority:2
+Customer ID:LmEsFB0Dv5BEiijx0JnM
+Arrival Time:2023-05-05 12:38:00+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:LwnxC7bCcefmBGYqOrB8
+Arrival Time:2023-04-03 02:47:00+00:00
+Process Time:49m 0s
+Priority:3
+Customer ID:M3B7HViqgTHrdjWGykS2
+Arrival Time:2023-04-17 10:59:15+00:00
+Process Time:6m 15s
+Priority:3
+Customer ID:M8YUYxRWqTMBhays99qG
+Arrival Time:2023-05-21 03:29:45+00:00
+Process Time:9m 45s
+Priority:1
+Customer ID:MCRhoYGuZoFcunBTxivH
+Arrival Time:2023-04-26 17:42:00+00:00
+Process Time:21m 30s
+Priority:2
+Customer ID:MD44rU0DS0gkUEIGTGFD
+Arrival Time:2023-03-31 20:12:15+00:00
+Process Time:6m 30s
+Priority:2
+Customer ID:ME5XtHPheC5ViPYfrTzQ
+Arrival Time:2023-05-20 14:52:30+00:00
+Process Time:16m 30s
+Priority:1
+Customer ID:MEhlBpvay24gztPhgXqT
+Arrival Time:2023-03-21 12:08:15+00:00
+Process Time:9m 15s
+Priority:1
+Customer ID:MFyftZRPT34R8PL64NDS
+Arrival Time:2023-03-25 17:35:45+00:00
+Process Time:11m 15s
+Priority:1
+Customer ID:MJXoBiCg6WdgR4gobORp
+Arrival Time:2023-04-18 04:13:00+00:00
+Process Time:36m 15s
+Priority:1
+Customer ID:MJmrlM1pdZpEINO3SFnv
+Arrival Time:2023-03-25 19:03:00+00:00
+Process Time:33m 15s
+Priority:1
+Customer ID:MJtXXOXosG8H9MbSwBOi
+Arrival Time:2023-05-04 00:45:30+00:00
+Process Time:19m 45s
+Priority:2
+Customer ID:MNNN4PUCk6nN07WhGPGk
+Arrival Time:2023-04-28 20:47:30+00:00
+Process Time:12m 0s
+Priority:3
+Customer ID:MOe464VZLYSEfYF0v7bN
+Arrival Time:2023-03-09 18:23:30+00:00
+Process Time:27m 15s
+Priority:3
+Customer ID:MSNfS4BoQs41oe4S1OU7
+Arrival Time:2023-03-31 02:53:30+00:00
+Process Time:56m 0s
+Priority:1
+Customer ID:MUgZVp2PM7aO1C5vLXnI
+Arrival Time:2023-03-23 02:58:45+00:00
+Process Time:9m 15s
+Priority:2
+Customer ID:MaI2KOCzJz3aUCsLfrAI
+Arrival Time:2023-03-07 21:00:45+00:00
+Process Time:44m 0s
+Priority:2
+Customer ID:McNB40GGiAzSEAbPS8ZW
+Arrival Time:2023-04-06 22:01:15+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:MeLxPdXHpzkEJ1B4MNlv
+Arrival Time:2023-05-23 21:46:00+00:00
+Process Time:36m 15s
+Priority:3
+Customer ID:MgP19qHlyacDhWFhfmSE
+Arrival Time:2023-05-17 03:43:30+00:00
+Process Time:43m 15s
+Priority:2
+Customer ID:MkTmb9OozOHfTCHrqu6E
+Arrival Time:2023-04-26 11:22:00+00:00
+Process Time:57m 15s
+Priority:2
+Customer ID:Ms46K4RdSV16Pbkv1CTA
+Arrival Time:2023-03-23 07:14:15+00:00
+Process Time:37m 0s
+Priority:3
+Customer ID:MtYMoDk2DpI1e76VWyjI
+Arrival Time:2023-03-03 14:00:00+00:00
+Process Time:59m 15s
+Priority:1
+Customer ID:MuqCSAWRIq1p3ONHCLfB
+Arrival Time:2023-05-13 16:18:15+00:00
+Process Time:14m 0s
+Priority:2
+Customer ID:MwnCmoAYY1LF1kxyXaXs
+Arrival Time:2023-05-17 07:29:30+00:00
+Process Time:34m 30s
+Priority:2
+Customer ID:N0MxK0sC3l24cpCpBCTi
+Arrival Time:2023-04-07 21:12:00+00:00
+Process Time:51m 0s
+Priority:2
+Customer ID:NAM8FPjPoIVjvMKNOXX8
+Arrival Time:2023-04-30 03:20:30+00:00
+Process Time:5m 30s
+Priority:1
+Customer ID:NDL417JtGnK6hoxo0Eh9
+Arrival Time:2023-03-28 03:56:30+00:00
+Process Time:23m 0s
+Priority:1
+Customer ID:NDz7QAhRii6VK021p5WI
+Arrival Time:2023-03-22 03:17:00+00:00
+Process Time:38m 15s
+Priority:2
+Customer ID:NHRNszx9o7hcWzWvRCp7
+Arrival Time:2023-03-28 23:11:15+00:00
+Process Time:40m 0s
+Priority:1
+Customer ID:NJYyrpOe5ZZdJvdMaPRI
+Arrival Time:2023-05-24 13:27:30+00:00
+Process Time:25m 0s
+Priority:2
+Customer ID:NJadcJCQNHJZswSRzRFy
+Arrival Time:2023-03-06 05:17:30+00:00
+Process Time:13m 0s
+Priority:1
+Customer ID:NJrPMrNCqtvIRp2ja8pz
+Arrival Time:2023-03-27 08:01:45+00:00
+Process Time:52m 0s
+Priority:2
+Customer ID:NPiZoW0P5xMhCA8sk2Fp
+Arrival Time:2023-03-07 04:59:15+00:00
+Process Time:36m 0s
+Priority:1
+Customer ID:NPq2VuA4aCxbAl9q8cMA
+Arrival Time:2023-03-08 13:21:30+00:00
+Process Time:2m 30s
+Priority:3
+Customer ID:NQQ0DwdqTDPHJcVBzZXZ
+Arrival Time:2023-04-12 12:21:15+00:00
+Process Time:19m 30s
+Priority:2
+Customer ID:NV6p7O8Jpb8hipx5rkUX
+Arrival Time:2023-05-19 09:26:45+00:00
+Process Time:44m 15s
+Priority:1
+Customer ID:NYyEWB5XoNFFHXXa64qp
+Arrival Time:2023-03-18 06:37:00+00:00
+Process Time:14m 15s
+Priority:1
+Customer ID:Nbf3G9zWmzo1wM1JtGqW
+Arrival Time:2023-04-25 17:21:45+00:00
+Process Time:33m 30s
+Priority:2
+Customer ID:Ncu0ofwerwAlHRt804Kx
+Arrival Time:2023-05-14 12:59:45+00:00
+Process Time:21m 0s
+Priority:3
+Customer ID:NdNyWRlPqqW1XZv46OmJ
+Arrival Time:2023-05-11 22:00:00+00:00
+Process Time:7m 15s
+Priority:2
+Customer ID:NefjTgbsEFQnrCX1dOMR
+Arrival Time:2023-04-12 04:03:30+00:00
+Process Time:19m 15s
+Priority:3
+Customer ID:NkLMcF5OtEMs4nJ3wjV1
+Arrival Time:2023-03-15 12:19:30+00:00
+Process Time:44m 30s
+Priority:3
+Customer ID:Nka2WxTrQUUZ1xZIEhQc
+Arrival Time:2023-04-25 06:04:00+00:00
+Process Time:12m 15s
+Priority:2
+Customer ID:NkmrmkyjmCOEBHThICzS
+Arrival Time:2023-03-11 03:43:30+00:00
+Process Time:55m 0s
+Priority:3
+Customer ID:NoOwQSq0sjZlo5NnqHQK
+Arrival Time:2023-04-04 12:34:15+00:00
+Process Time:16m 0s
+Priority:1
+Customer ID:NrivwBdZf4DFO3FFtNzu
+Arrival Time:2023-05-03 04:42:15+00:00
+Process Time:49m 0s
+Priority:2
+Customer ID:NwkysEyjcAMLFz4yZNdj
+Arrival Time:2023-04-18 14:25:45+00:00
+Process Time:35m 30s
+Priority:3
+Customer ID:NzKxZCnpYuSGf7xOBclX
+Arrival Time:2023-05-24 17:15:00+00:00
+Process Time:34m 15s
+Priority:3
+Customer ID:O2gJHPk3XzYYlC4SDlea
+Arrival Time:2023-04-25 19:25:15+00:00
+Process Time:40m 45s
+Priority:3
+Customer ID:OCEU5j8iUhXD3WH2sVAe
+Arrival Time:2023-03-24 07:38:00+00:00
+Process Time:34m 30s
+Priority:2
+Customer ID:OFXBGaVSAXF5wbJsFCAd
+Arrival Time:2023-05-11 22:39:45+00:00
+Process Time:43m 15s
+Priority:2
+Customer ID:OHOnYjM2UfC0bVcF3KjZ
+Arrival Time:2023-04-26 22:38:30+00:00
+Process Time:47m 30s
+Priority:2
+Customer ID:OMZ7noQVlZMx7hs8uX9B
+Arrival Time:2023-05-26 21:24:14.156000+00:00
+Process Time:None
+Priority:1
+Customer ID:ONPVsIWBXBX1nfV22WHI
+Arrival Time:2023-03-04 04:08:15+00:00
+Process Time:9m 45s
+Priority:2
+Customer ID:OdjOwdXDehSYIFtNvE6E
+Arrival Time:2023-04-23 10:11:15+00:00
+Process Time:39m 30s
+Priority:3
+Customer ID:OgtSIYYGVJEyWOsxpHZ2
+Arrival Time:2023-04-19 12:59:30+00:00
+Process Time:27m 30s
+Priority:2
+Customer ID:OhyvNSOlvWd5jo49leBA
+Arrival Time:2023-05-02 22:38:00+00:00
+Process Time:3m 0s
+Priority:3
+Customer ID:Oou8lC2Vi3mLFlwezr2K
+Arrival Time:2023-03-05 16:00:00+00:00
+Process Time:51m 45s
+Priority:3
+Customer ID:Op4eV1CHKvH4HfwDRkso
+Arrival Time:2023-04-18 17:22:30+00:00
+Process Time:47m 30s
+Priority:3
+Customer ID:OphUb06hg6JKidl5ek72
+Arrival Time:2023-05-02 09:18:15+00:00
+Process Time:55m 0s
+Priority:2
+Customer ID:OrsMCM4triiw8Sq6wkhm
+Arrival Time:2023-04-06 17:46:30+00:00
+Process Time:39m 45s
+Priority:2
+Customer ID:OtqS0BrPfe7giB4plo1s
+Arrival Time:2023-03-08 05:25:15+00:00
+Process Time:21m 30s
+Priority:2
+Customer ID:OxPpgl2T1itlaGreVGQn
+Arrival Time:2023-05-02 05:06:15+00:00
+Process Time:24m 0s
+Priority:2
+Customer ID:Oxl4GjCTAKGtjlpcdlec
+Arrival Time:2023-05-03 09:24:00+00:00
+Process Time:42m 45s
+Priority:2
+Customer ID:P02uzXxribCBcNSODlsP
+Arrival Time:2023-04-13 06:41:15+00:00
+Process Time:10m 45s
+Priority:2
+Customer ID:P7K5qNUyf1wkT9vrJePV
+Arrival Time:2023-05-22 09:23:00+00:00
+Process Time:46m 0s
+Priority:3
+Customer ID:P8Kl4eK19ZKB2B3J5CDK
+Arrival Time:2023-04-01 18:43:15+00:00
+Process Time:8m 30s
+Priority:3
+Customer ID:P9F3Awvy8eDnZMQ8Ow3I
+Arrival Time:2023-03-11 14:52:00+00:00
+Process Time:11m 30s
+Priority:1
+Customer ID:P9iL8PDEddoeojPPZmJe
+Arrival Time:2023-03-08 09:53:00+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:P9sqsb8vSe4cJsCNAhGD
+Arrival Time:2023-03-04 23:51:00+00:00
+Process Time:44m 15s
+Priority:2
+Customer ID:PFxfTtlHsM4XNOYHhIu1
+Arrival Time:2023-03-06 20:52:00+00:00
+Process Time:50m 45s
+Priority:1
+Customer ID:PMLNy8t3frdRhBHPQf8p
+Arrival Time:2023-03-14 00:34:00+00:00
+Process Time:10m 15s
+Priority:3
+Customer ID:POOsOiyUT2CRKV2kGA2P
+Arrival Time:2023-04-06 01:09:30+00:00
+Process Time:40m 45s
+Priority:2
+Customer ID:PQNwQuKtVGz6j2XRKJxL
+Arrival Time:2023-05-12 20:11:45+00:00
+Process Time:10m 30s
+Priority:1
+Customer ID:PVqL0Jwn59TjAEiEb9ok
+Arrival Time:2023-04-07 12:03:30+00:00
+Process Time:30m 45s
+Priority:3
+Customer ID:PYt4KaI8ROZTzOnb6tR3
+Arrival Time:2023-04-19 02:39:45+00:00
+Process Time:30m 45s
+Priority:3
+Customer ID:Pp6VPpa0TTsxBOJ6TGIJ
+Arrival Time:2023-03-05 12:00:15+00:00
+Process Time:9m 15s
+Priority:2
+Customer ID:Puog4obUjF14Jemq5SoE
+Arrival Time:2023-03-15 12:53:00+00:00
+Process Time:4m 45s
+Priority:2
+Customer ID:PwZXwQd7mxMZfeazIgcf
+Arrival Time:2023-04-20 14:13:45+00:00
+Process Time:38m 30s
+Priority:2
+Customer ID:Q0OFm1xdq5GH2pv9XPla
+Arrival Time:2023-03-13 12:52:30+00:00
+Process Time:14m 15s
+Priority:1
+Customer ID:Q1GTOE9We3Twt63O2dFT
+Arrival Time:2023-05-26 19:24:59.886000+00:00
+Process Time:None
+Priority:1
+Customer ID:Q94fjvqSFZqfuelRvlJ7
+Arrival Time:2023-04-12 22:18:30+00:00
+Process Time:50m 15s
+Priority:1
+Customer ID:QD1mBUWxkxAVlqzFom54
+Arrival Time:2023-03-22 16:07:15+00:00
+Process Time:17m 0s
+Priority:2
+Customer ID:QFZtE29ADdeOOspP9r2b
+Arrival Time:2023-05-10 17:53:30+00:00
+Process Time:23m 30s
+Priority:2
+Customer ID:QHk0b5rqsQxSPTCYBaPV
+Arrival Time:2023-04-23 02:54:30+00:00
+Process Time:18m 15s
+Priority:3
+Customer ID:QIBhiTPk2bGZevhT8UAe
+Arrival Time:2023-04-26 20:33:45+00:00
+Process Time:3m 15s
+Priority:1
+Customer ID:QIW4wtXnAV7EAfG0wLWI
+Arrival Time:2023-05-13 21:44:30+00:00
+Process Time:33m 45s
+Priority:1
+Customer ID:QOgjIVPhiEYt7AGychbb
+Arrival Time:2023-05-26 19:11:00.239000+00:00
+Process Time:None
+Priority:1
+Customer ID:QVyY7XT6KSdZLRe8iXWh
+Arrival Time:2023-03-19 09:56:30+00:00
+Process Time:44m 0s
+Priority:3
+Customer ID:QW39DVZsbm0svigrkHQQ
+Arrival Time:2023-03-05 11:24:15+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:QbfPDNFDTwId11oaEUw7
+Arrival Time:2023-04-19 10:13:45+00:00
+Process Time:30m 45s
+Priority:2
+Customer ID:QcmxGaxNi33MBNKoa3cF
+Arrival Time:2023-04-15 23:56:45+00:00
+Process Time:21m 0s
+Priority:2
+Customer ID:QloFJyPPf1Xp83b6YTI2
+Arrival Time:2023-03-29 19:29:45+00:00
+Process Time:40m 0s
+Priority:2
+Customer ID:Qs0lrNSm3H8p63X0MBKt
+Arrival Time:2023-04-25 07:17:30+00:00
+Process Time:39m 0s
+Priority:3
+Customer ID:QsRrG0LWXuuIGlkFivac
+Arrival Time:2023-03-15 06:25:00+00:00
+Process Time:9m 15s
+Priority:3
+Customer ID:Qtne3h4q3hOtmkmtyU9g
+Arrival Time:2023-03-17 21:57:30+00:00
+Process Time:16m 45s
+Priority:2
+Customer ID:R1XmGmshCvtluxeXtBjw
+Arrival Time:2023-05-15 06:06:15+00:00
+Process Time:5m 15s
+Priority:1
+Customer ID:R4KbcRaNCm5vdIhd1HDB
+Arrival Time:2023-05-08 01:34:15+00:00
+Process Time:11m 0s
+Priority:3
+Customer ID:R8GeG2lPTMp97m4FYFtO
+Arrival Time:2023-03-18 02:06:30+00:00
+Process Time:2m 0s
+Priority:2
+Customer ID:REHuM50AOt5EAE0LaTZl
+Arrival Time:2023-04-17 15:13:45+00:00
+Process Time:52m 30s
+Priority:1
+Customer ID:REL4WITDUPW0EvAolG7w
+Arrival Time:2023-03-03 16:53:00+00:00
+Process Time:34m 15s
+Priority:2
+Customer ID:RGeLjCYcJYTRx8nJViYa
+Arrival Time:2023-04-17 10:40:30+00:00
+Process Time:15m 15s
+Priority:2
+Customer ID:RIz8nre6F1J9BIuf0qdV
+Arrival Time:2023-04-17 06:10:15+00:00
+Process Time:3m 15s
+Priority:3
+Customer ID:RLMw7gSwJbJtxjcQHlLb
+Arrival Time:2023-03-17 04:36:15+00:00
+Process Time:35m 15s
+Priority:1
+Customer ID:RNy69nQAt7VimN2Klft4
+Arrival Time:2023-05-22 03:40:15+00:00
+Process Time:34m 45s
+Priority:2
+Customer ID:RONZehHK7yLqUofduV0c
+Arrival Time:2023-05-06 09:57:00+00:00
+Process Time:38m 0s
+Priority:3
+Customer ID:RV5P8mfz9vR6aFRRjTvG
+Arrival Time:2023-04-14 16:25:30+00:00
+Process Time:51m 0s
+Priority:3
+Customer ID:RVJDZDMD7PIVsn1FOD8P
+Arrival Time:2023-05-11 19:45:30+00:00
+Process Time:24m 15s
+Priority:3
+Customer ID:ReTRgQU3qAQqRkushNRb
+Arrival Time:2023-03-23 02:12:45+00:00
+Process Time:9m 45s
+Priority:3
+Customer ID:RfRAimwjF7XBdcBqC4xs
+Arrival Time:2023-04-02 10:51:45+00:00
+Process Time:32m 30s
+Priority:2
+Customer ID:Rhe69DQnFjFmTkakxgIu
+Arrival Time:2023-03-07 15:01:45+00:00
+Process Time:34m 15s
+Priority:2
+Customer ID:RoXMrw2POWIwnKaNRRLC
+Arrival Time:2023-04-02 07:04:00+00:00
+Process Time:16m 30s
+Priority:2
+Customer ID:RonNsRUtxELQnTKhWGFl
+Arrival Time:2023-04-14 10:02:00+00:00
+Process Time:59m 30s
+Priority:2
+Customer ID:RqqVo8OBCGV4Bjeq1Mdy
+Arrival Time:2023-03-19 19:23:15+00:00
+Process Time:3m 15s
+Priority:3
+Customer ID:RtVbEhwX9clV6h42dRWq
+Arrival Time:2023-04-09 07:15:00+00:00
+Process Time:21m 45s
+Priority:2
+Customer ID:RxSZZrtv4Qhlayu7MWAj
+Arrival Time:2023-04-25 23:47:30+00:00
+Process Time:7m 45s
+Priority:1
+Customer ID:RyHEPL3PCqmn3bfAR6Uk
+Arrival Time:2023-05-07 21:02:00+00:00
+Process Time:53m 45s
+Priority:3
+Customer ID:S3YDaUG4JL7ANUqbQLUk
+Arrival Time:2023-05-14 10:23:00+00:00
+Process Time:45m 45s
+Priority:2
+Customer ID:S7sbRmNdTVJprJL9zNZu
+Arrival Time:2023-03-14 02:16:45+00:00
+Process Time:4m 30s
+Priority:3
+Customer ID:SCk5xTuDc8CmtjIsn0Vo
+Arrival Time:2023-03-17 21:57:00+00:00
+Process Time:46m 30s
+Priority:1
+Customer ID:SIVGI9yLvITfYbSmGzdv
+Arrival Time:2023-04-12 23:14:00+00:00
+Process Time:27m 30s
+Priority:1
+Customer ID:SU9tVBFGKceOQO9Pdtdq
+Arrival Time:2023-05-11 11:30:00+00:00
+Process Time:39m 0s
+Priority:2
+Customer ID:SUCxAmkzVqGrQ4kQ1yfI
+Arrival Time:2023-03-03 10:03:30+00:00
+Process Time:32m 15s
+Priority:2
+Customer ID:SWUWpMku1P8LInMJp2jP
+Arrival Time:2023-05-11 18:32:15+00:00
+Process Time:27m 0s
+Priority:3
+Customer ID:Sc01VIc6mJg4GGCaAh5S
+Arrival Time:2023-04-19 02:27:15+00:00
+Process Time:50m 15s
+Priority:3
+Customer ID:ScpOs64CgquzfGdta7Fb
+Arrival Time:2023-05-10 08:40:00+00:00
+Process Time:43m 30s
+Priority:2
+Customer ID:SfcPwC9tJUmukkEFFEuL
+Arrival Time:2023-04-29 14:41:30+00:00
+Process Time:49m 0s
+Priority:2
+Customer ID:SgsDKeCBbmglEhkHXH5s
+Arrival Time:2023-05-21 21:02:15+00:00
+Process Time:12m 45s
+Priority:3
+Customer ID:ShDDy6uNswI4jFSMN0G2
+Arrival Time:2023-04-03 09:59:00+00:00
+Process Time:45m 0s
+Priority:2
+Customer ID:SiDBddJ8aGsDwGEJQPHw
+Arrival Time:2023-05-15 11:50:15+00:00
+Process Time:34m 30s
+Priority:3
+Customer ID:Sq1wMgUNXGRN4XaX9a14
+Arrival Time:2023-05-24 01:30:00+00:00
+Process Time:60m 0s
+Priority:2
+Customer ID:SxBRsNZWsoI6EBNnXMCf
+Arrival Time:2023-03-26 10:57:45+00:00
+Process Time:56m 0s
+Priority:3
+Customer ID:SxZTukg4KuNSPIP5kRJO
+Arrival Time:2023-03-29 09:40:15+00:00
+Process Time:34m 0s
+Priority:3
+Customer ID:SzB4OuhtQ8Znzo9lWOa9
+Arrival Time:2023-05-08 04:56:15+00:00
+Process Time:48m 15s
+Priority:3
+Customer ID:T1MOto5TiEYfIvfP317K
+Arrival Time:2023-03-20 23:38:30+00:00
+Process Time:5m 45s
+Priority:1
+Customer ID:T5NqZAjWg7RbojjncVgI
+Arrival Time:2023-03-19 17:24:15+00:00
+Process Time:58m 30s
+Priority:3
+Customer ID:T6oKIicZ2Vp7Mm7dqMD8
+Arrival Time:2023-04-16 19:16:45+00:00
+Process Time:23m 45s
+Priority:3
+Customer ID:T9ex71mr7SYv4YOFBZdj
+Arrival Time:2023-04-21 13:58:00+00:00
+Process Time:7m 30s
+Priority:3
+Customer ID:TB3TIThrD6kV5iJiPoJu
+Arrival Time:2023-03-18 12:08:00+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:TF4YmivJ3PF3ASr7cj8D
+Arrival Time:2023-03-16 06:01:45+00:00
+Process Time:50m 45s
+Priority:1
+Customer ID:TJ2OJkth0lqoUhlMr0Lj
+Arrival Time:2023-05-07 09:16:15+00:00
+Process Time:16m 30s
+Priority:3
+Customer ID:TRmMwIdXi2ptGOKExtpt
+Arrival Time:2023-03-13 17:55:00+00:00
+Process Time:56m 0s
+Priority:2
+Customer ID:TWxo4Og29MeqX5HDCNOK
+Arrival Time:2023-04-18 18:26:30+00:00
+Process Time:50m 0s
+Priority:3
+Customer ID:Tcug6ducOeLG2JVhSNEE
+Arrival Time:2023-04-21 15:14:15+00:00
+Process Time:28m 45s
+Priority:2
+Customer ID:Tj1ulYwc1JsDKfdLYYsg
+Arrival Time:2023-04-18 09:50:00+00:00
+Process Time:12m 15s
+Priority:2
+Customer ID:TndGnIuAxsruDQvlDkoW
+Arrival Time:2023-04-13 04:10:00+00:00
+Process Time:25m 15s
+Priority:1
+Customer ID:TpUKoayoKbuNg8CAWle5
+Arrival Time:2023-05-23 11:31:00+00:00
+Process Time:44m 30s
+Priority:2
+Customer ID:TrGR75MTfI2kLVDWybDL
+Arrival Time:2023-04-28 16:51:15+00:00
+Process Time:32m 30s
+Priority:1
+Customer ID:TxaUPgmMGA0xGzBEXB7v
+Arrival Time:2023-04-04 10:13:45+00:00
+Process Time:5m 15s
+Priority:2
+Customer ID:U7LnMbvd84FpHDBMCa8W
+Arrival Time:2023-03-25 14:33:30+00:00
+Process Time:44m 15s
+Priority:1
+Customer ID:UB1feVEmcfPT3N3lLJtg
+Arrival Time:2023-04-26 09:08:15+00:00
+Process Time:33m 30s
+Priority:3
+Customer ID:UFB0jm2ze5R6OoF1w9RE
+Arrival Time:2023-03-12 04:22:30+00:00
+Process Time:25m 30s
+Priority:1
+Customer ID:UGkOFiu2x0g9LKDiuhpo
+Arrival Time:2023-04-20 03:15:15+00:00
+Process Time:34m 45s
+Priority:2
+Customer ID:UMCg8zDfFuxQwtuWzofM
+Arrival Time:2023-03-20 09:20:15+00:00
+Process Time:10m 45s
+Priority:3
+Customer ID:UOCYIFd0WXHlZB5zRgDb
+Arrival Time:2023-03-08 08:52:30+00:00
+Process Time:53m 0s
+Priority:3
+Customer ID:UQsnt3wagcr0IwaUOzWJ
+Arrival Time:2023-05-17 01:09:15+00:00
+Process Time:25m 15s
+Priority:2
+Customer ID:UUViMZ0G9zlZw0My2mSj
+Arrival Time:2023-04-20 16:46:45+00:00
+Process Time:48m 15s
+Priority:2
+Customer ID:UWi2B2BKScuPjm2OzdCM
+Arrival Time:2023-05-05 01:14:45+00:00
+Process Time:3m 45s
+Priority:3
+Customer ID:UYfbDn7ZTFY0MhRooDIu
+Arrival Time:2023-05-03 21:55:45+00:00
+Process Time:45m 15s
+Priority:1
+Customer ID:UdiZVvdKyD4rIbxaHl4w
+Arrival Time:2023-04-03 06:57:00+00:00
+Process Time:6m 30s
+Priority:3
+Customer ID:Uhd1nSx8guNguGtzCIUb
+Arrival Time:2023-03-15 16:36:15+00:00
+Process Time:49m 15s
+Priority:3
+Customer ID:UjAmsS51YFFDt8Gc39Oz
+Arrival Time:2023-05-17 01:59:30+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:UliN53uh6VxirM1rnzx5
+Arrival Time:2023-03-29 05:35:15+00:00
+Process Time:44m 15s
+Priority:2
+Customer ID:UpTLz34bAXYyxeetdxpC
+Arrival Time:2023-03-25 23:54:45+00:00
+Process Time:4m 15s
+Priority:3
+Customer ID:UsTTeajvuzsTCpzi7CJ0
+Arrival Time:2023-03-30 01:16:45+00:00
+Process Time:55m 30s
+Priority:2
+Customer ID:UtGjsvVtCJXcucrh9QID
+Arrival Time:2023-05-04 02:22:30+00:00
+Process Time:15m 45s
+Priority:2
+Customer ID:UzlJgQYmjkpAEMF409wD
+Arrival Time:2023-03-11 04:29:45+00:00
+Process Time:30m 15s
+Priority:2
+Customer ID:V09gFwTELNZNX0Wv76QV
+Arrival Time:2023-03-25 07:38:30+00:00
+Process Time:13m 45s
+Priority:2
+Customer ID:V0dfhHgdw4jmCovtKP4x
+Arrival Time:2023-04-29 10:04:30+00:00
+Process Time:40m 30s
+Priority:3
+Customer ID:V2cbOiFTeFO9IuINNjK9
+Arrival Time:2023-04-08 02:43:45+00:00
+Process Time:42m 30s
+Priority:3
+Customer ID:V3tGqOVI8GdsUZyLOSIg
+Arrival Time:2023-04-26 13:57:30+00:00
+Process Time:52m 45s
+Priority:2
+Customer ID:V4xQ7iUcdj8nlbc7QjWN
+Arrival Time:2023-03-04 17:59:30+00:00
+Process Time:42m 0s
+Priority:3
+Customer ID:V7GiUDAtXB5SADunSk5J
+Arrival Time:2023-04-01 23:29:45+00:00
+Process Time:31m 0s
+Priority:3
+Customer ID:V7d2Pxc402u6eEcIr9t7
+Arrival Time:2023-04-20 15:48:15+00:00
+Process Time:25m 30s
+Priority:1
+Customer ID:VBblifnAFcW4wmH2OQiY
+Arrival Time:2023-03-21 11:46:15+00:00
+Process Time:22m 45s
+Priority:2
+Customer ID:VHwhtPJQBGgS34Twie4z
+Arrival Time:2023-05-26 19:03:35.115000+00:00
+Process Time:None
+Priority:1
+Customer ID:VSzNQdCMn52zLPntHmXs
+Arrival Time:2023-03-14 11:49:15+00:00
+Process Time:45m 30s
+Priority:1
+Customer ID:VVvGDXlu38ak8OsweBiI
+Arrival Time:2023-03-21 19:18:15+00:00
+Process Time:32m 15s
+Priority:1
+Customer ID:VcQjCO8IuFEKe3BlwBVA
+Arrival Time:2023-03-28 05:14:00+00:00
+Process Time:25m 30s
+Priority:3
+Customer ID:VdMfEAqdu9nnoE8Wjb5n
+Arrival Time:2023-04-20 09:49:30+00:00
+Process Time:59m 15s
+Priority:2
+Customer ID:VfAmz059RC8QERvbfLwB
+Arrival Time:2023-03-10 09:47:00+00:00
+Process Time:46m 30s
+Priority:3
+Customer ID:VpX856MjcTni0EKjYQhb
+Arrival Time:2023-04-11 07:09:30+00:00
+Process Time:58m 30s
+Priority:3
+Customer ID:VskrzPmfe14gkRYEEgvT
+Arrival Time:2023-05-26 19:08:37.254000+00:00
+Process Time:None
+Priority:1
+Customer ID:Vuc3hFfVIttNXMlDwGeR
+Arrival Time:2023-04-09 11:21:45+00:00
+Process Time:35m 30s
+Priority:2
+Customer ID:VvcOhLvkHtHERy0z2qyU
+Arrival Time:2023-03-24 21:40:45+00:00
+Process Time:37m 45s
+Priority:3
+Customer ID:VwWZyIPHMGD9euicfbUg
+Arrival Time:2023-03-26 11:45:00+00:00
+Process Time:43m 45s
+Priority:3
+Customer ID:W7aBcfiFEqHm7HQDa993
+Arrival Time:2023-04-23 10:07:30+00:00
+Process Time:36m 15s
+Priority:1
+Customer ID:WDWo1oTl1kPpSNEAWrNJ
+Arrival Time:2023-03-09 09:01:00+00:00
+Process Time:22m 30s
+Priority:2
+Customer ID:WH5PMLPjJkTZBjoH8s4g
+Arrival Time:2023-05-12 21:06:30+00:00
+Process Time:44m 30s
+Priority:1
+Customer ID:WJQyB8gpH9qbKs4tBZFC
+Arrival Time:2023-04-23 20:04:15+00:00
+Process Time:13m 15s
+Priority:2
+Customer ID:WO6KhFlDEXwocMtpgKfe
+Arrival Time:2023-04-26 05:52:15+00:00
+Process Time:13m 45s
+Priority:2
+Customer ID:WR4NXwYvmeDSkONInsAK
+Arrival Time:2023-03-21 20:21:00+00:00
+Process Time:58m 45s
+Priority:3
+Customer ID:WSBJyOHPS6EQE8omSu0f
+Arrival Time:2023-03-20 07:52:00+00:00
+Process Time:38m 15s
+Priority:3
+Customer ID:WT4Uwh5f0s1GBfRAXHvi
+Arrival Time:2023-04-30 07:15:30+00:00
+Process Time:8m 0s
+Priority:2
+Customer ID:WUioDcre2V3TTd9reJgI
+Arrival Time:2023-04-25 21:29:00+00:00
+Process Time:56m 45s
+Priority:2
+Customer ID:WfnJ2F2bABLuZb0iaVeO
+Arrival Time:2023-05-01 22:27:15+00:00
+Process Time:48m 45s
+Priority:3
+Customer ID:WgUkEUB1bWdR06skIMu0
+Arrival Time:2023-05-10 12:47:45+00:00
+Process Time:4m 0s
+Priority:3
+Customer ID:WlkT7KQQmMPgyMjSOO7c
+Arrival Time:2023-05-23 07:10:00+00:00
+Process Time:19m 15s
+Priority:1
+Customer ID:Wpp35NaWZJ5MIAtwnxmM
+Arrival Time:2023-03-18 13:52:45+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:WvVjV6MWFY39jCqYgbbw
+Arrival Time:2023-04-10 13:47:45+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:WzDg36QUtbgkh6i24OaA
+Arrival Time:2023-03-30 03:02:15+00:00
+Process Time:23m 0s
+Priority:3
+Customer ID:WzWo5hpig0yvoP1KgEby
+Arrival Time:2023-04-02 03:42:30+00:00
+Process Time:55m 45s
+Priority:3
+Customer ID:X038uq2KPedWNy0yLiqG
+Arrival Time:2023-05-05 01:36:30+00:00
+Process Time:15m 0s
+Priority:3
+Customer ID:X2DKKjCT3f0boRSbtRgQ
+Arrival Time:2023-04-09 03:23:15+00:00
+Process Time:19m 0s
+Priority:3
+Customer ID:X3MFqBUBWrAWvdsNMl80
+Arrival Time:2023-04-08 03:33:15+00:00
+Process Time:37m 15s
+Priority:2
+Customer ID:X5lggnC2809x6EtSOv3M
+Arrival Time:2023-04-09 15:15:45+00:00
+Process Time:5m 30s
+Priority:3
+Customer ID:X91IkEBhYJjniw4EF5rs
+Arrival Time:2023-04-13 01:35:15+00:00
+Process Time:47m 0s
+Priority:3
+Customer ID:X9LDWjbDKUmRG0AeFAJ3
+Arrival Time:2023-04-14 05:22:15+00:00
+Process Time:57m 30s
+Priority:1
+Customer ID:X9eDARFeKiGM3VZYV7TE
+Arrival Time:2023-03-31 18:14:45+00:00
+Process Time:14m 15s
+Priority:1
+Customer ID:XHZLpqhQ5dvwX2MVy5Fg
+Arrival Time:2023-04-18 03:01:30+00:00
+Process Time:5m 15s
+Priority:3
+Customer ID:XNDIE1fmeDf2rbWSLMCg
+Arrival Time:2023-03-10 00:43:15+00:00
+Process Time:19m 45s
+Priority:1
+Customer ID:XSmkXCILK2rA9HdlEZr6
+Arrival Time:2023-03-06 02:24:00+00:00
+Process Time:7m 45s
+Priority:2
+Customer ID:XWSTyleVuv7YaluPhvPk
+Arrival Time:2023-03-30 09:07:30+00:00
+Process Time:29m 0s
+Priority:3
+Customer ID:XZIpsnkzxieJxahquMJO
+Arrival Time:2023-03-24 03:38:45+00:00
+Process Time:6m 30s
+Priority:1
+Customer ID:XlhUDH784fNwZ2FGrb7w
+Arrival Time:2023-03-15 11:52:30+00:00
+Process Time:57m 30s
+Priority:2
+Customer ID:XltqbMFmz7DNvgMlZ1qL
+Arrival Time:2023-05-02 00:07:00+00:00
+Process Time:6m 45s
+Priority:3
+Customer ID:XmOy5pbMGRc5X8EUMikF
+Arrival Time:2023-05-06 12:15:15+00:00
+Process Time:12m 0s
+Priority:2
+Customer ID:Xr2B2zGr7PhiA3IdegTT
+Arrival Time:2023-03-18 22:45:15+00:00
+Process Time:45m 30s
+Priority:2
+Customer ID:XrX0CDZmfgPWvYhS3TLP
+Arrival Time:2023-04-21 14:38:00+00:00
+Process Time:43m 15s
+Priority:2
+Customer ID:XuAiFhDyCSb7gqPH3pCM
+Arrival Time:2023-05-12 21:17:00+00:00
+Process Time:45m 45s
+Priority:3
+Customer ID:XwQm9ToWMeoh5shzLh5G
+Arrival Time:2023-03-18 17:06:15+00:00
+Process Time:20m 45s
+Priority:3
+Customer ID:Y2wHJHzFuva5esxk2zK2
+Arrival Time:2023-04-03 15:42:15+00:00
+Process Time:43m 45s
+Priority:3
+Customer ID:Y5aGLgaZbfehyk2NiWpc
+Arrival Time:2023-03-25 21:07:45+00:00
+Process Time:7m 0s
+Priority:3
+Customer ID:Y75lJZ3hOAjW0StyVsUa
+Arrival Time:2023-05-18 00:27:45+00:00
+Process Time:38m 30s
+Priority:1
+Customer ID:YAhxoVUe9dWdPnGJ1ytg
+Arrival Time:2023-03-13 06:26:30+00:00
+Process Time:23m 0s
+Priority:1
+Customer ID:YC9agR1xZVHzJPGQdT5u
+Arrival Time:2023-03-20 05:48:45+00:00
+Process Time:39m 45s
+Priority:3
+Customer ID:YFDUF4K2JsNN51OUPOLH
+Arrival Time:2023-04-10 09:13:45+00:00
+Process Time:22m 45s
+Priority:3
+Customer ID:YGJ8QYsMtlDgljjMIM1u
+Arrival Time:2023-05-24 02:15:15+00:00
+Process Time:55m 0s
+Priority:3
+Customer ID:YHt2wn9egafYVHnqA8ku
+Arrival Time:2023-05-14 13:16:45+00:00
+Process Time:16m 15s
+Priority:1
+Customer ID:YI5FsXhJQHKDdwZoDbew
+Arrival Time:2023-03-07 14:19:15+00:00
+Process Time:3m 0s
+Priority:3
+Customer ID:YKl3tjzudIzc34y9WHQK
+Arrival Time:2023-04-22 06:37:00+00:00
+Process Time:15m 45s
+Priority:3
+Customer ID:YPnRsYdFwospqAWpMqW1
+Arrival Time:2023-05-02 07:46:15+00:00
+Process Time:29m 15s
+Priority:2
+Customer ID:YW2llRoWL65HdLEexEEZ
+Arrival Time:2023-03-21 15:28:30+00:00
+Process Time:22m 30s
+Priority:3
+Customer ID:YX1oK6gA7dIjIRCyjb2a
+Arrival Time:2023-05-05 08:40:15+00:00
+Process Time:14m 15s
+Priority:2
+Customer ID:YgppwpWLfFxgKbg7tqhH
+Arrival Time:2023-03-04 04:19:00+00:00
+Process Time:11m 15s
+Priority:2
+Customer ID:Yi8kjtYMNNucgVmER7vb
+Arrival Time:2023-04-12 12:18:15+00:00
+Process Time:54m 15s
+Priority:3
+Customer ID:Yk2UDtcjiGGTS3eFRtwW
+Arrival Time:2023-03-31 19:30:45+00:00
+Process Time:33m 0s
+Priority:1
+Customer ID:YkJTyBn96vJ5M8G9GrGJ
+Arrival Time:2023-03-19 23:16:15+00:00
+Process Time:44m 15s
+Priority:1
+Customer ID:YnEXJd8kQtQbgECc215S
+Arrival Time:2023-03-13 15:08:30+00:00
+Process Time:42m 30s
+Priority:2
+Customer ID:Yns6y7wY07JupympVRv9
+Arrival Time:2023-04-15 15:45:15+00:00
+Process Time:53m 45s
+Priority:2
+Customer ID:YqcHLyZrgMoYGuXNLxSQ
+Arrival Time:2023-04-04 01:58:45+00:00
+Process Time:16m 15s
+Priority:3
+Customer ID:Z5SyiU6ZnaiNvGWvK26q
+Arrival Time:2023-03-05 18:48:30+00:00
+Process Time:2m 30s
+Priority:1
+Customer ID:Z5m4Mj5DXCiDGHIJdqe3
+Arrival Time:2023-03-28 05:12:00+00:00
+Process Time:21m 45s
+Priority:3
+Customer ID:Z5mJt0lI5smCxQJcYm0z
+Arrival Time:2023-05-18 04:50:45+00:00
+Process Time:31m 15s
+Priority:3
+Customer ID:Z94oZ4uW22ozUSHq8gPu
+Arrival Time:2023-04-27 02:59:00+00:00
+Process Time:54m 30s
+Priority:3
+Customer ID:ZCS5wew9V5CvcywH7hE4
+Arrival Time:2023-05-11 22:39:15+00:00
+Process Time:59m 45s
+Priority:1
+Customer ID:ZET9PbZR7r6ecF2g1qIv
+Arrival Time:2023-03-12 06:20:00+00:00
+Process Time:49m 30s
+Priority:3
+Customer ID:ZIYPcZwetlaYEg5fyZEn
+Arrival Time:2023-04-02 00:00:00+00:00
+Process Time:35m 15s
+Priority:2
+Customer ID:ZJAfFncJ6sQkQjW7q150
+Arrival Time:2023-04-29 01:39:30+00:00
+Process Time:26m 30s
+Priority:3
+Customer ID:ZPfRSwlSurYJb0OoUiOp
+Arrival Time:2023-05-05 12:09:15+00:00
+Process Time:26m 15s
+Priority:1
+Customer ID:ZShNyicq4wflGHgOz2WD
+Arrival Time:2023-05-05 23:01:00+00:00
+Process Time:10m 0s
+Priority:3
+Customer ID:ZV7JEp4dIy8NyksHBKLr
+Arrival Time:2023-05-03 12:35:00+00:00
+Process Time:12m 0s
+Priority:3
+Customer ID:ZZDfz8fCjjU602PCSiHk
+Arrival Time:2023-03-18 09:28:45+00:00
+Process Time:39m 30s
+Priority:2
+Customer ID:Zd57CegXpfuXzXoKmYYa
+Arrival Time:2023-05-11 13:33:00+00:00
+Process Time:51m 30s
+Priority:3
+Customer ID:Zn0Ve5BNShRKWu7QpnQV
+Arrival Time:2023-03-25 04:59:15+00:00
+Process Time:20m 0s
+Priority:3
+Customer ID:ZnlwDmmwjb8qkROY4tE5
+Arrival Time:2023-04-27 17:28:00+00:00
+Process Time:21m 45s
+Priority:3
+Customer ID:ZpyJwkbnlLEQZlP8aRIr
+Arrival Time:2023-04-13 18:04:00+00:00
+Process Time:50m 30s
+Priority:1
+Customer ID:ZsGnPtlpYIilbX5pGjCF
+Arrival Time:2023-05-22 04:24:45+00:00
+Process Time:9m 15s
+Priority:3
+Customer ID:ZsK1Sb2BtEE4sWEr7xlO
+Arrival Time:2023-05-07 12:17:30+00:00
+Process Time:2m 15s
+Priority:2
+Customer ID:a3oDslSR0UNXIG2WunnD
+Arrival Time:2023-03-29 13:53:00+00:00
+Process Time:28m 15s
+Priority:2
+Customer ID:a63AOpZWHyJ9hsrBXPOL
+Arrival Time:2023-03-22 12:54:45+00:00
+Process Time:56m 15s
+Priority:2
+Customer ID:a63HW6gnVWwT6lkaOeiQ
+Arrival Time:2023-03-20 08:26:15+00:00
+Process Time:58m 15s
+Priority:2
+Customer ID:a6OURt60GRns2U7rSbiP
+Arrival Time:2023-05-24 22:21:45+00:00
+Process Time:38m 45s
+Priority:2
+Customer ID:a88GvxWdaKINh7qfi2iG
+Arrival Time:2023-05-01 08:39:15+00:00
+Process Time:28m 30s
+Priority:2
+Customer ID:a9ZQuJhSHdTpxKF00gRX
+Arrival Time:2023-04-11 08:50:30+00:00
+Process Time:38m 30s
+Priority:3
+Customer ID:aC07EyxigoWYJ5EiwG9t
+Arrival Time:2023-03-27 05:06:15+00:00
+Process Time:8m 30s
+Priority:3
+Customer ID:aCLSqSMAywJPzHKIPswu
+Arrival Time:2023-05-23 03:08:45+00:00
+Process Time:54m 45s
+Priority:3
+Customer ID:aFsleP3D6hONs2Z9e7tf
+Arrival Time:2023-05-21 23:29:00+00:00
+Process Time:8m 30s
+Priority:1
+Customer ID:aJOVkcfRleivig2RIfFo
+Arrival Time:2023-03-25 03:04:15+00:00
+Process Time:3m 0s
+Priority:3
+Customer ID:aMbAWiuJKde6qn4hOkY6
+Arrival Time:2023-03-17 11:58:00+00:00
+Process Time:18m 0s
+Priority:3
+Customer ID:aOVU6gbBp04GaGKRTYgm
+Arrival Time:2023-04-04 12:03:30+00:00
+Process Time:33m 45s
+Priority:3
+Customer ID:aPoKkQfZcBP7u56AUM9R
+Arrival Time:2023-03-07 21:48:45+00:00
+Process Time:57m 15s
+Priority:2
+Customer ID:aRC3YDDqFAnjNM5p3ClY
+Arrival Time:2023-04-23 15:08:15+00:00
+Process Time:41m 0s
+Priority:1
+Customer ID:aW1132SfD65EsTeyxlMj
+Arrival Time:2023-05-20 11:16:45+00:00
+Process Time:26m 15s
+Priority:3
+Customer ID:ajSfBV7l7D179VNdpaaR
+Arrival Time:2023-05-06 21:58:00+00:00
+Process Time:58m 0s
+Priority:3
+Customer ID:alWVF39EfMdHn6mmn5E8
+Arrival Time:2023-05-18 03:09:15+00:00
+Process Time:2m 0s
+Priority:1
+Customer ID:antnMVs2ldaNM1h8Ds1s
+Arrival Time:2023-03-14 12:12:00+00:00
+Process Time:15m 0s
+Priority:1
+Customer ID:aoIcH74DkB6xCC8nvu1z
+Arrival Time:2023-03-17 02:19:45+00:00
+Process Time:23m 15s
+Priority:1
+Customer ID:ar7hzkTyQrMCpw4lZ8dA
+Arrival Time:2023-05-13 09:58:30+00:00
+Process Time:55m 0s
+Priority:2
+Customer ID:atINvtPW34Ng27e8CuuJ
+Arrival Time:2023-04-05 05:31:15+00:00
+Process Time:23m 0s
+Priority:3
+Customer ID:awlsfsDP8u6rFsh1sxUz
+Arrival Time:2023-04-23 15:27:00+00:00
+Process Time:19m 30s
+Priority:3
+Customer ID:ax1s4WX0EV1uEkxi9fPp
+Arrival Time:2023-04-07 06:24:45+00:00
+Process Time:53m 15s
+Priority:2
+Customer ID:az9COta80EVAGpA9qY51
+Arrival Time:2023-04-26 02:12:30+00:00
+Process Time:39m 15s
+Priority:2
+Customer ID:b2bJUPGISjmOVtigdyR9
+Arrival Time:2023-03-16 04:54:30+00:00
+Process Time:20m 15s
+Priority:2
+Customer ID:b4yAHYV3rQao7KGiKiDS
+Arrival Time:2023-03-18 13:51:00+00:00
+Process Time:27m 45s
+Priority:2
+Customer ID:bAuATwi8RTnG4TQQx9tR
+Arrival Time:2023-05-24 21:25:15+00:00
+Process Time:46m 15s
+Priority:2
+Customer ID:bHx9Qu0w9KwkQR8ovt8w
+Arrival Time:2023-05-05 15:04:45+00:00
+Process Time:16m 30s
+Priority:1
+Customer ID:bJNGPVOFIyI2kd4OhUf5
+Arrival Time:2023-03-09 12:59:00+00:00
+Process Time:8m 15s
+Priority:2
+Customer ID:bJYj9ll1g5PCkvzv9fJS
+Arrival Time:2023-04-01 17:25:30+00:00
+Process Time:6m 0s
+Priority:2
+Customer ID:bLKcWUHuIyvlAoITnR5j
+Arrival Time:2023-03-10 15:27:30+00:00
+Process Time:23m 0s
+Priority:2
+Customer ID:bPYVeDFIgapGGMcOkjnW
+Arrival Time:2023-05-08 17:41:30+00:00
+Process Time:50m 0s
+Priority:2
+Customer ID:bWWBJOakkVrSCrnBDvld
+Arrival Time:2023-03-31 23:11:45+00:00
+Process Time:33m 30s
+Priority:2
+Customer ID:bfG0a5GcmkW2Mr0J4JMt
+Arrival Time:2023-03-16 22:12:00+00:00
+Process Time:42m 30s
+Priority:2
+Customer ID:biyb9qxANrGSSlnrwUch
+Arrival Time:2023-04-08 23:01:45+00:00
+Process Time:40m 0s
+Priority:3
+Customer ID:bliyMq6j26LbgdzcYBzw
+Arrival Time:2023-04-30 21:04:00+00:00
+Process Time:27m 15s
+Priority:2
+Customer ID:bmS5XzEoZ5hhUGDHRorg
+Arrival Time:2023-03-29 18:23:00+00:00
+Process Time:49m 45s
+Priority:1
+Customer ID:bntKbCcRn6g5w1k0cNRz
+Arrival Time:2023-03-04 08:41:00+00:00
+Process Time:35m 0s
+Priority:1
+Customer ID:buOv3qZiZtLuP6XKlcc9
+Arrival Time:2023-05-14 07:54:00+00:00
+Process Time:18m 15s
+Priority:2
+Customer ID:buyGdfw89BQ91xsv00NQ
+Arrival Time:2023-05-14 13:07:45+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:bvqFu11JQjXNdsJJ1axK
+Arrival Time:2023-03-05 20:54:30+00:00
+Process Time:38m 15s
+Priority:2
+Customer ID:bxVzalFhaOTZhMgnGiUl
+Arrival Time:2023-03-17 16:27:00+00:00
+Process Time:56m 45s
+Priority:3
+Customer ID:c2sdE4ef2JHkQGRKNfIq
+Arrival Time:2023-04-21 13:05:45+00:00
+Process Time:31m 15s
+Priority:2
+Customer ID:c5dHSXwzeWObpV7lyiVh
+Arrival Time:2023-04-17 21:58:15+00:00
+Process Time:44m 15s
+Priority:2
+Customer ID:c6QFZS5RggUHV2UzZpgF
+Arrival Time:2023-04-03 02:44:15+00:00
+Process Time:20m 0s
+Priority:3
+Customer ID:cET6g0mJxMDJHy2QeSQG
+Arrival Time:2023-03-30 17:33:45+00:00
+Process Time:55m 45s
+Priority:1
+Customer ID:cFHwC2o617kWsfn0TAL7
+Arrival Time:2023-04-30 23:13:45+00:00
+Process Time:45m 30s
+Priority:2
+Customer ID:cHNbpA733ZlXJYzFoPX9
+Arrival Time:2023-03-09 01:44:00+00:00
+Process Time:22m 45s
+Priority:2
+Customer ID:cJFUMgbFgGd7qofdXOic
+Arrival Time:2023-03-07 18:20:30+00:00
+Process Time:33m 45s
+Priority:1
+Customer ID:cNzGDNWk4KYvjRTHlVER
+Arrival Time:2023-05-13 11:13:30+00:00
+Process Time:19m 0s
+Priority:2
+Customer ID:cPJ6V3vvVEh3OsWud9oW
+Arrival Time:2023-03-18 16:53:15+00:00
+Process Time:29m 0s
+Priority:2
+Customer ID:cQMmM00ClSUOO7rqp0Dm
+Arrival Time:2023-03-14 05:59:45+00:00
+Process Time:46m 15s
+Priority:1
+Customer ID:cRBfkrQtmdxvz0vjayu9
+Arrival Time:2023-05-13 13:48:00+00:00
+Process Time:40m 0s
+Priority:2
+Customer ID:cWAcUNSyVPZSKYpmbMyB
+Arrival Time:2023-04-26 08:26:15+00:00
+Process Time:34m 15s
+Priority:2
+Customer ID:cYXjmbh32BC57woawWb4
+Arrival Time:2023-04-06 23:30:30+00:00
+Process Time:29m 0s
+Priority:2
+Customer ID:caqXfFsPaw1slUCWy3th
+Arrival Time:2023-05-21 11:34:00+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:cg2T5glbuWjfbXJgBBCq
+Arrival Time:2023-05-14 16:32:15+00:00
+Process Time:13m 0s
+Priority:2
+Customer ID:clg1FFqQHp18pfKn6y67
+Arrival Time:2023-03-11 23:48:45+00:00
+Process Time:39m 0s
+Priority:3
+Customer ID:cp8dHOZ4DlUwoBEJy6nG
+Arrival Time:2023-03-04 07:35:30+00:00
+Process Time:50m 45s
+Priority:3
+Customer ID:cph8mZ1a7TJT1B5LLbry
+Arrival Time:2023-04-22 16:37:00+00:00
+Process Time:24m 45s
+Priority:1
+Customer ID:cqQ0lPUoqfOao5Ta2WKU
+Arrival Time:2023-03-31 11:30:15+00:00
+Process Time:9m 15s
+Priority:3
+Customer ID:ctBBGEiH02i81IQqTGzG
+Arrival Time:2023-05-26 19:09:04.118000+00:00
+Process Time:None
+Priority:1
+Customer ID:d4NHG9kvagwmHXMlzrCV
+Arrival Time:2023-04-22 00:50:00+00:00
+Process Time:23m 15s
+Priority:3
+Customer ID:d5G6YToGQkyUg3HtkBpl
+Arrival Time:2023-04-11 23:48:30+00:00
+Process Time:39m 30s
+Priority:2
+Customer ID:d9fDcybiYXVY4AzL9I6o
+Arrival Time:2023-04-30 04:01:00+00:00
+Process Time:25m 30s
+Priority:3
+Customer ID:dAOqXfj0HiHz7GYGQsNC
+Arrival Time:2023-04-25 15:20:00+00:00
+Process Time:54m 45s
+Priority:1
+Customer ID:dCH60KmO25ArzJ1L8juC
+Arrival Time:2023-03-24 13:16:15+00:00
+Process Time:8m 45s
+Priority:1
+Customer ID:dIxqSPyQKWL49WFaRmZk
+Arrival Time:2023-05-04 20:27:00+00:00
+Process Time:50m 30s
+Priority:3
+Customer ID:dKFdMIePSExJlp3GmhHM
+Arrival Time:2023-03-12 14:36:30+00:00
+Process Time:23m 15s
+Priority:2
+Customer ID:dTM4zpj2p9V4EgdkFXaN
+Arrival Time:2023-04-14 16:09:15+00:00
+Process Time:59m 15s
+Priority:2
+Customer ID:dYyn8Ru1nAtZVKFV6rUs
+Arrival Time:2023-03-18 22:11:00+00:00
+Process Time:45m 30s
+Priority:1
+Customer ID:dZJxgjIthbLnDS8ozPT6
+Arrival Time:2023-04-16 13:26:15+00:00
+Process Time:26m 45s
+Priority:1
+Customer ID:dZZbcaszpCe9yNgwoCNa
+Arrival Time:2023-03-31 17:51:30+00:00
+Process Time:27m 45s
+Priority:2
+Customer ID:dcFSATtzlHzuCLT0rG88
+Arrival Time:2023-04-20 05:30:30+00:00
+Process Time:33m 30s
+Priority:1
+Customer ID:dcT70cNs3lhKurXlc62K
+Arrival Time:2023-03-15 06:35:45+00:00
+Process Time:21m 15s
+Priority:2
+Customer ID:deB84biSGTKpOeTeH84X
+Arrival Time:2023-05-17 11:29:15+00:00
+Process Time:13m 0s
+Priority:2
+Customer ID:dgtAGo3RLzH9slTalhCp
+Arrival Time:2023-05-02 19:50:30+00:00
+Process Time:39m 15s
+Priority:1
+Customer ID:dq1QSiwWYmnr21FzCsDc
+Arrival Time:2023-03-14 20:38:30+00:00
+Process Time:17m 45s
+Priority:2
+Customer ID:dqcW5GPexDLyGAMYMVm9
+Arrival Time:2023-05-19 15:49:30+00:00
+Process Time:57m 45s
+Priority:3
+Customer ID:dszIKroSAuyBQyO9DJnd
+Arrival Time:2023-03-06 21:50:15+00:00
+Process Time:60m 0s
+Priority:2
+Customer ID:duOEQagGDV7ZIOTDIlMl
+Arrival Time:2023-05-10 04:47:00+00:00
+Process Time:29m 30s
+Priority:3
+Customer ID:dvqBzyx7P5ZdmIG6g14B
+Arrival Time:2023-03-07 08:45:15+00:00
+Process Time:29m 30s
+Priority:2
+Customer ID:e5ZvHmsCspXIKwLTuu0M
+Arrival Time:2023-03-30 01:19:30+00:00
+Process Time:17m 45s
+Priority:1
+Customer ID:e9SiYiuAYHptaPrvipmv
+Arrival Time:2023-03-22 11:43:30+00:00
+Process Time:43m 45s
+Priority:3
+Customer ID:eBj1gjBY5d3YOAocUt6X
+Arrival Time:2023-05-11 12:36:30+00:00
+Process Time:19m 45s
+Priority:2
+Customer ID:eDkabQt3jpPkudtYFcWg
+Arrival Time:2023-05-22 18:03:45+00:00
+Process Time:32m 30s
+Priority:3
+Customer ID:eF3TCLf2949p168DvDMd
+Arrival Time:2023-03-26 02:28:45+00:00
+Process Time:45m 45s
+Priority:3
+Customer ID:eHOC6rbS9ufVEGPLOCF5
+Arrival Time:2023-03-21 22:45:15+00:00
+Process Time:47m 0s
+Priority:2
+Customer ID:eQXA5KmJVJkcqhtMUIE5
+Arrival Time:2023-04-01 19:08:30+00:00
+Process Time:42m 30s
+Priority:1
+Customer ID:eR1XI33V8RIVUrGRhPZI
+Arrival Time:2023-03-22 12:58:30+00:00
+Process Time:9m 30s
+Priority:3
+Customer ID:eV6GpbX322Hzyee9MTtO
+Arrival Time:2023-05-04 08:56:30+00:00
+Process Time:21m 15s
+Priority:2
+Customer ID:eXb3ANzYVIzUHdMdmpms
+Arrival Time:2023-03-10 23:10:15+00:00
+Process Time:38m 0s
+Priority:2
+Customer ID:egnP7E25WzsOenzz9veh
+Arrival Time:2023-05-17 08:20:45+00:00
+Process Time:25m 0s
+Priority:2
+Customer ID:epWrvzusncxpXkxAjS6H
+Arrival Time:2023-03-13 14:54:15+00:00
+Process Time:3m 45s
+Priority:1
+Customer ID:etVCf92IX0ziA6waJNol
+Arrival Time:2023-05-13 22:18:45+00:00
+Process Time:54m 15s
+Priority:3
+Customer ID:eudR72h2d69iHdMeR7CE
+Arrival Time:2023-04-23 11:25:15+00:00
+Process Time:57m 15s
+Priority:3
+Customer ID:ewl91Gufzmf9WcnpJR7q
+Arrival Time:2023-05-15 10:07:00+00:00
+Process Time:2m 30s
+Priority:2
+Customer ID:ezMHtZHiM9MQMhr8SbtS
+Arrival Time:2023-04-11 10:06:00+00:00
+Process Time:23m 45s
+Priority:1
+Customer ID:f8qEHoyo6f5qT2hUCVp3
+Arrival Time:2023-04-16 08:57:45+00:00
+Process Time:59m 15s
+Priority:1
+Customer ID:fCFyfbSC6TsVNa8UxSCc
+Arrival Time:2023-04-22 07:21:15+00:00
+Process Time:10m 0s
+Priority:3
+Customer ID:fCn7XCqRvIApr2WLg3JB
+Arrival Time:2023-04-02 16:45:30+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:fEQ9UDf1ClOfSHXmparJ
+Arrival Time:2023-04-04 15:19:15+00:00
+Process Time:42m 0s
+Priority:1
+Customer ID:fETHwylOyL9Lh1SSxvty
+Arrival Time:2023-05-06 05:22:00+00:00
+Process Time:51m 0s
+Priority:1
+Customer ID:fLxsWODnw6dMIS4KCUxf
+Arrival Time:2023-05-25 02:46:30+00:00
+Process Time:20m 15s
+Priority:3
+Customer ID:fNS3O7uc3kF3npyV9nmk
+Arrival Time:2023-05-19 10:27:15+00:00
+Process Time:31m 15s
+Priority:2
+Customer ID:fOgeF3qaoNWZ3PMJrgz8
+Arrival Time:2023-05-02 22:29:45+00:00
+Process Time:29m 0s
+Priority:1
+Customer ID:fPSkCA8veDXfYapGFp5I
+Arrival Time:2023-05-17 04:58:30+00:00
+Process Time:32m 45s
+Priority:3
+Customer ID:fSY30fV74iwarFHCcdxz
+Arrival Time:2023-05-11 10:49:00+00:00
+Process Time:37m 30s
+Priority:3
+Customer ID:fZXb12PB6xd83k8qGCnJ
+Arrival Time:2023-04-04 12:02:30+00:00
+Process Time:39m 45s
+Priority:2
+Customer ID:fZnBk1PuT1tHj8HSkNoz
+Arrival Time:2023-03-17 15:38:45+00:00
+Process Time:42m 15s
+Priority:2
+Customer ID:fcrPbn1SrjORi7amEKXj
+Arrival Time:2023-04-19 13:38:30+00:00
+Process Time:2m 0s
+Priority:3
+Customer ID:fdhV4Ng789n8kxz7rrY9
+Arrival Time:2023-05-14 06:02:15+00:00
+Process Time:2m 45s
+Priority:1
+Customer ID:flD78h0qAj0sdzhK61zd
+Arrival Time:2023-03-16 11:27:00+00:00
+Process Time:56m 0s
+Priority:2
+Customer ID:fmOKU6lHSjN0VET8gs6v
+Arrival Time:2023-04-27 01:06:15+00:00
+Process Time:42m 30s
+Priority:3
+Customer ID:fne41OwVr1b7X0W9JjqO
+Arrival Time:2023-03-16 02:07:45+00:00
+Process Time:27m 0s
+Priority:1
+Customer ID:fuZ0FHRI5NOvcsnYoKhb
+Arrival Time:2023-04-10 16:42:45+00:00
+Process Time:41m 30s
+Priority:3
+Customer ID:fuxrpuD5INdigeboZBdC
+Arrival Time:2023-04-02 13:35:15+00:00
+Process Time:8m 0s
+Priority:1
+Customer ID:fwAXacLxgX2drGF3Y0w7
+Arrival Time:2023-03-03 16:54:15+00:00
+Process Time:45m 45s
+Priority:2
+Customer ID:fy5EeVw3x1VAWVW1dQ5o
+Arrival Time:2023-03-21 22:30:45+00:00
+Process Time:43m 45s
+Priority:1
+Customer ID:fzC9kfw1gXcotPKIwHYW
+Arrival Time:2023-05-12 10:21:00+00:00
+Process Time:2m 45s
+Priority:3
+Customer ID:g2zM8TA2KyTr69eZBHLW
+Arrival Time:2023-03-30 18:32:00+00:00
+Process Time:55m 45s
+Priority:3
+Customer ID:gEmMOiat8JS7OACLkf7o
+Arrival Time:2023-04-23 07:38:15+00:00
+Process Time:19m 15s
+Priority:1
+Customer ID:gFu2itMKD8fwN1zaEaLq
+Arrival Time:2023-03-23 04:14:00+00:00
+Process Time:31m 0s
+Priority:3
+Customer ID:gG8VFUxJzzKLLtlSMU9x
+Arrival Time:2023-03-31 18:56:45+00:00
+Process Time:10m 15s
+Priority:2
+Customer ID:gGaPcbjXBMSKB7vLWzhl
+Arrival Time:2023-05-20 03:47:30+00:00
+Process Time:30m 45s
+Priority:1
+Customer ID:gKt0s4anAprNEdg3Lwdx
+Arrival Time:2023-03-31 07:29:30+00:00
+Process Time:53m 30s
+Priority:3
+Customer ID:gUq0T7ECxGGuG8pg9CWj
+Arrival Time:2023-04-24 17:29:45+00:00
+Process Time:58m 0s
+Priority:1
+Customer ID:gXALQinE9BsuKUJZ50pk
+Arrival Time:2023-03-31 15:31:45+00:00
+Process Time:45m 30s
+Priority:2
+Customer ID:gZa15PTQVF8RK9bUQ6RQ
+Arrival Time:2023-04-18 15:10:30+00:00
+Process Time:23m 15s
+Priority:2
+Customer ID:gay0MHAIFciF7aXGkqU4
+Arrival Time:2023-04-06 15:07:45+00:00
+Process Time:12m 15s
+Priority:3
+Customer ID:gcihgBYXuJFOzXl0U4re
+Arrival Time:2023-03-17 09:11:15+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:ggDATPwas59oAW2LHioi
+Arrival Time:2023-03-26 18:53:00+00:00
+Process Time:12m 15s
+Priority:1
+Customer ID:gr2F38x6YjuBPmJiXVt2
+Arrival Time:2023-04-19 01:38:00+00:00
+Process Time:16m 15s
+Priority:1
+Customer ID:gtrVozXsGWRDD1lS6zVi
+Arrival Time:2023-04-23 08:36:45+00:00
+Process Time:45m 30s
+Priority:1
+Customer ID:gvztzu9q8sAQwrOwbyu3
+Arrival Time:2023-03-18 09:21:00+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:gy2SjccQuCKidVkQbWnS
+Arrival Time:2023-04-09 06:45:00+00:00
+Process Time:54m 15s
+Priority:1
+Customer ID:gz9TCg1DP6oyeQonMaJw
+Arrival Time:2023-05-06 01:07:00+00:00
+Process Time:8m 15s
+Priority:2
+Customer ID:gzV46Ib6ZZ7ADHpyxilJ
+Arrival Time:2023-05-26 18:39:20.567000+00:00
+Process Time:None
+Priority:1
+Customer ID:h1ANirYSLaUjeyucgkzS
+Arrival Time:2023-04-18 01:45:30+00:00
+Process Time:4m 0s
+Priority:2
+Customer ID:h2bquvTba3V3AcxWLnam
+Arrival Time:2023-04-04 07:28:45+00:00
+Process Time:37m 15s
+Priority:1
+Customer ID:h4U4431qBdIWKjdxvPoL
+Arrival Time:2023-03-22 14:41:15+00:00
+Process Time:20m 15s
+Priority:3
+Customer ID:hCQLpP7lNb7RvBI5Hore
+Arrival Time:2023-05-22 05:41:45+00:00
+Process Time:7m 45s
+Priority:2
+Customer ID:hRhf0WKTbbBLbOJHk73z
+Arrival Time:2023-03-08 05:28:45+00:00
+Process Time:50m 15s
+Priority:3
+Customer ID:hYunHbqbJ8wzfyuW7j73
+Arrival Time:2023-05-02 19:24:45+00:00
+Process Time:38m 30s
+Priority:2
+Customer ID:hZJEHOCn2Q4hlHCXZjtx
+Arrival Time:2023-05-09 20:32:45+00:00
+Process Time:30m 45s
+Priority:1
+Customer ID:hawlAYlcWZsi97xBm3cL
+Arrival Time:2023-04-08 03:22:00+00:00
+Process Time:2m 30s
+Priority:3
+Customer ID:hdfAI7y7uAxPU0YjgKLd
+Arrival Time:2023-04-10 00:01:30+00:00
+Process Time:49m 0s
+Priority:1
+Customer ID:hfUkGZbEpOtLP6vNzdBQ
+Arrival Time:2023-03-09 03:47:30+00:00
+Process Time:28m 15s
+Priority:2
+Customer ID:hjnQLzDls7RKVejVzMq4
+Arrival Time:2023-03-19 22:54:15+00:00
+Process Time:46m 45s
+Priority:1
+Customer ID:hmhRjbG32JKH24r9Uis8
+Arrival Time:2023-04-22 12:06:15+00:00
+Process Time:51m 45s
+Priority:3
+Customer ID:hmqFkZK0LrElMm9jhsyX
+Arrival Time:2023-04-12 19:45:30+00:00
+Process Time:31m 30s
+Priority:2
+Customer ID:hmtQK2K9qQntE74bfzxx
+Arrival Time:2023-03-09 02:49:15+00:00
+Process Time:51m 0s
+Priority:2
+Customer ID:hqGMJ6ycz5ilKhzxrz12
+Arrival Time:2023-03-14 15:35:30+00:00
+Process Time:52m 45s
+Priority:3
+Customer ID:huJwbeGostgjK13PgSol
+Arrival Time:2023-05-09 01:55:30+00:00
+Process Time:13m 15s
+Priority:1
+Customer ID:huLtPL9lPYOqq8uHlPSN
+Arrival Time:2023-03-17 14:42:30+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:hwz9KQsIYpMNMQe1bAar
+Arrival Time:2023-05-10 06:54:15+00:00
+Process Time:49m 30s
+Priority:1
+Customer ID:hzXaOGefirXmUilVw1iJ
+Arrival Time:2023-04-08 16:04:00+00:00
+Process Time:38m 0s
+Priority:1
+Customer ID:hzzSPVPvxCQu0OdSH8C6
+Arrival Time:2023-04-19 14:00:45+00:00
+Process Time:35m 45s
+Priority:2
+Customer ID:i02JBGgoU89UMbsSdlVi
+Arrival Time:2023-04-23 02:25:45+00:00
+Process Time:6m 0s
+Priority:2
+Customer ID:i0kfEaivX01rNI6016VB
+Arrival Time:2023-04-01 19:02:45+00:00
+Process Time:49m 30s
+Priority:3
+Customer ID:i36Z4qRqHzuxsvzAgV3p
+Arrival Time:2023-04-21 20:20:00+00:00
+Process Time:52m 30s
+Priority:2
+Customer ID:i4YXo89PU0Vwe0GTun9Z
+Arrival Time:2023-04-04 05:39:45+00:00
+Process Time:24m 0s
+Priority:3
+Customer ID:iBQaP1nehul6kcG80JTs
+Arrival Time:2023-04-08 21:36:00+00:00
+Process Time:25m 0s
+Priority:3
+Customer ID:iF62XQViA3YMgzi6Ky0H
+Arrival Time:2023-03-03 22:00:00+00:00
+Process Time:41m 0s
+Priority:2
+Customer ID:iFRCt7jiDEcRUWNMu1c4
+Arrival Time:2023-04-28 04:53:30+00:00
+Process Time:27m 30s
+Priority:2
+Customer ID:iJxx6vCLedlW1qGSAuP2
+Arrival Time:2023-05-25 04:17:30+00:00
+Process Time:53m 30s
+Priority:2
+Customer ID:iKOO2CJQxBuTvMIMWwmK
+Arrival Time:2023-05-22 09:47:35.692000+00:00
+Process Time:2s
+Priority:1
+Customer ID:iN4GKqjsraqrqoVGhPc3
+Arrival Time:2023-05-04 01:35:30+00:00
+Process Time:2m 45s
+Priority:2
+Customer ID:iNGEZXU7HT4oh7NOQohP
+Arrival Time:2023-04-25 21:00:30+00:00
+Process Time:33m 30s
+Priority:1
+Customer ID:iNlsF8iKmgOVnVeVChU3
+Arrival Time:2023-04-26 10:28:15+00:00
+Process Time:34m 0s
+Priority:1
+Customer ID:iR7cfOrYN89Jgg3Boupc
+Arrival Time:2023-04-20 11:44:30+00:00
+Process Time:42m 0s
+Priority:2
+Customer ID:iREMuB3qmN750fEsZorg
+Arrival Time:2023-05-13 08:57:00+00:00
+Process Time:10m 0s
+Priority:2
+Customer ID:iaO72RwYIaF9oxk8DHTE
+Arrival Time:2023-05-07 16:38:15+00:00
+Process Time:3m 30s
+Priority:3
+Customer ID:idmf07g9rXcblToQtp4r
+Arrival Time:2023-05-04 13:08:15+00:00
+Process Time:32m 45s
+Priority:2
+Customer ID:ijrn2aIGfUqCyuzLB2vk
+Arrival Time:2023-03-22 04:54:30+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:imBPj3czg6Q0blY7hs5F
+Arrival Time:2023-05-11 08:08:15+00:00
+Process Time:40m 15s
+Priority:3
+Customer ID:ioHcIGqSiS3YCyre38mU
+Arrival Time:2023-03-11 19:53:15+00:00
+Process Time:29m 15s
+Priority:2
+Customer ID:ipaIS6zAIcaiGy8Oiy3F
+Arrival Time:2023-05-11 12:43:00+00:00
+Process Time:8m 30s
+Priority:2
+Customer ID:itozN6iSxaPd0RpIrW3n
+Arrival Time:2023-04-09 14:31:15+00:00
+Process Time:5m 30s
+Priority:2
+Customer ID:iubzRnbDxn3jSaZQlGRh
+Arrival Time:2023-04-17 16:02:45+00:00
+Process Time:25m 30s
+Priority:3
+Customer ID:ix6ApNxwk7gH5JrfyVvZ
+Arrival Time:2023-03-28 04:35:00+00:00
+Process Time:45m 45s
+Priority:3
+Customer ID:j2yBlzNWmzLMRa1Jcxp4
+Arrival Time:2023-05-26 21:18:03.979000+00:00
+Process Time:None
+Priority:1
+Customer ID:jBgbWszQiXHtzF6VP0g2
+Arrival Time:2023-05-22 01:34:00+00:00
+Process Time:21m 30s
+Priority:2
+Customer ID:jHbyjp8fiAkbWj5SS2xs
+Arrival Time:2023-05-04 00:41:15+00:00
+Process Time:8m 30s
+Priority:3
+Customer ID:jJanYr2i5FDQEhyiQ6ez
+Arrival Time:2023-03-28 00:00:15+00:00
+Process Time:25m 45s
+Priority:2
+Customer ID:jL9M11TTsVqR1R9l4lPR
+Arrival Time:2023-05-20 07:12:45+00:00
+Process Time:35m 15s
+Priority:2
+Customer ID:jPv6ZvMTfkcadYAQ5tRX
+Arrival Time:2023-03-06 01:52:15+00:00
+Process Time:53m 45s
+Priority:1
+Customer ID:jVZHexW77qqcviNbzAsV
+Arrival Time:2023-03-16 03:29:15+00:00
+Process Time:29m 0s
+Priority:3
+Customer ID:jYXz6G86XZvxUO5CONIp
+Arrival Time:2023-03-13 08:09:15+00:00
+Process Time:17m 45s
+Priority:3
+Customer ID:jaI8xRCPEEDyCUiOcRxc
+Arrival Time:2023-04-09 00:47:30+00:00
+Process Time:57m 30s
+Priority:2
+Customer ID:jbLHhxtlzuuJTaTY5sID
+Arrival Time:2023-05-24 11:48:45+00:00
+Process Time:18m 0s
+Priority:2
+Customer ID:jexNYAUCrxEMukT9lDIj
+Arrival Time:2023-03-27 13:19:45+00:00
+Process Time:15m 30s
+Priority:2
+Customer ID:jffMKfaNpbnU6XKhBv1Z
+Arrival Time:2023-04-26 06:21:15+00:00
+Process Time:3m 45s
+Priority:1
+Customer ID:jflhlO5xPQzn9Z5R1no3
+Arrival Time:2023-03-07 22:20:30+00:00
+Process Time:27m 45s
+Priority:1
+Customer ID:ji3bpwX1pgHjlIOGjO56
+Arrival Time:2023-04-16 23:19:15+00:00
+Process Time:28m 30s
+Priority:1
+Customer ID:jl0wPp8k8erFs5FDJwJf
+Arrival Time:2023-04-09 23:18:15+00:00
+Process Time:50m 0s
+Priority:3
+Customer ID:jnpPGof6B5XpyACVFdV0
+Arrival Time:2023-03-03 12:59:15+00:00
+Process Time:29m 15s
+Priority:3
+Customer ID:jv2uGBX6oEHsGOI0Giu5
+Arrival Time:2023-03-25 13:57:15+00:00
+Process Time:20m 15s
+Priority:3
+Customer ID:jy55ik3otmyDuoIOtHmf
+Arrival Time:2023-04-05 07:00:00+00:00
+Process Time:24m 30s
+Priority:2
+Customer ID:k2SzGhFDLx7zMs5eNgPQ
+Arrival Time:2023-03-14 19:17:15+00:00
+Process Time:51m 0s
+Priority:1
+Customer ID:k9HNbGGioVeIvjtD1qdy
+Arrival Time:2023-03-21 05:09:30+00:00
+Process Time:46m 0s
+Priority:3
+Customer ID:kBYVJWl4DRM4DSUKgxb1
+Arrival Time:2023-05-22 03:58:15+00:00
+Process Time:33m 45s
+Priority:3
+Customer ID:kCbBCAXHihp4iiqD5w9L
+Arrival Time:2023-03-26 19:00:45+00:00
+Process Time:24m 30s
+Priority:3
+Customer ID:kGHiwT0SirONNjkddrnJ
+Arrival Time:2023-03-30 07:22:45+00:00
+Process Time:13m 45s
+Priority:2
+Customer ID:kHMwdjMn8bgzDODuUyzZ
+Arrival Time:2023-03-22 09:36:00+00:00
+Process Time:29m 15s
+Priority:3
+Customer ID:kLdbnOWOJzWdTlxbxQvc
+Arrival Time:2023-04-03 19:13:00+00:00
+Process Time:15m 45s
+Priority:3
+Customer ID:kMHydPeDJ7LvezI9RyNh
+Arrival Time:2023-03-05 00:18:15+00:00
+Process Time:19m 15s
+Priority:2
+Customer ID:kPih5ybjd9e0Yc7O5uZJ
+Arrival Time:2023-04-22 09:39:45+00:00
+Process Time:59m 0s
+Priority:2
+Customer ID:kTCk9iUyqNDdKgY6vwpf
+Arrival Time:2023-05-17 08:31:30+00:00
+Process Time:16m 30s
+Priority:1
+Customer ID:kTT2Z1Nk9vDEnMPPBEZr
+Arrival Time:2023-04-15 04:34:30+00:00
+Process Time:15m 0s
+Priority:2
+Customer ID:kfqposgZKZ8Yr2RdrQyh
+Arrival Time:2023-05-26 19:05:05.370000+00:00
+Process Time:None
+Priority:1
+Customer ID:ki0dt6NnDd3olefU9T0K
+Arrival Time:2023-05-22 09:49:35.483000+00:00
+Process Time:2s
+Priority:1
+Customer ID:kkde4CLHAcB0CBbHLl3U
+Arrival Time:2023-04-15 05:21:30+00:00
+Process Time:4m 15s
+Priority:3
+Customer ID:kmujWFoZCE9MCPO8x9TV
+Arrival Time:2023-04-17 10:38:00+00:00
+Process Time:30m 0s
+Priority:1
+Customer ID:kq07PasXT6IsWxTMIdq3
+Arrival Time:2023-05-03 15:05:45+00:00
+Process Time:52m 30s
+Priority:2
+Customer ID:ksoLOZWNQ5flDO5Wm0pQ
+Arrival Time:2023-04-02 00:26:00+00:00
+Process Time:23m 30s
+Priority:3
+Customer ID:ktLixoBUHy8GzD602Nv2
+Arrival Time:2023-03-07 06:34:30+00:00
+Process Time:34m 45s
+Priority:3
+Customer ID:kuWLOnRRQNmunfrejqfK
+Arrival Time:2023-05-03 18:56:15+00:00
+Process Time:28m 0s
+Priority:3
+Customer ID:kvHx8QoQd4w14R5CmuhP
+Arrival Time:2023-03-21 04:27:00+00:00
+Process Time:20m 0s
+Priority:2
+Customer ID:kxoHOoDWXi6dSRneCq2d
+Arrival Time:2023-04-02 01:55:00+00:00
+Process Time:9m 15s
+Priority:2
+Customer ID:l1Pg1bMPSGWwBfftwB5U
+Arrival Time:2023-03-03 03:06:45+00:00
+Process Time:13m 15s
+Priority:2
+Customer ID:l1q79GUeYdPYkzPYx8u8
+Arrival Time:2023-05-21 04:40:30+00:00
+Process Time:46m 30s
+Priority:3
+Customer ID:l5yDWDeJAvr3HBpqr8oV
+Arrival Time:2023-05-19 04:08:45+00:00
+Process Time:20m 15s
+Priority:1
+Customer ID:l7xiJs1zt1e9bWaO266F
+Arrival Time:2023-04-09 04:05:00+00:00
+Process Time:24m 45s
+Priority:2
+Customer ID:l8hvLsNLbokPoTtGw2Ug
+Arrival Time:2023-03-12 19:21:45+00:00
+Process Time:17m 30s
+Priority:2
+Customer ID:lAiII1BdwHNBjzWh2bQg
+Arrival Time:2023-03-15 15:23:30+00:00
+Process Time:47m 0s
+Priority:2
+Customer ID:lAkrgCvGd5XJGt712lYG
+Arrival Time:2023-03-27 05:46:15+00:00
+Process Time:20m 15s
+Priority:1
+Customer ID:lBFzatoHlfWzAJfEkrDS
+Arrival Time:2023-04-18 10:36:00+00:00
+Process Time:16m 0s
+Priority:2
+Customer ID:lDvVq7nsIeUHOIWMaAJK
+Arrival Time:2023-05-16 21:24:00+00:00
+Process Time:11m 0s
+Priority:3
+Customer ID:lJtCLJXWkOZ1PSOVIsm7
+Arrival Time:2023-03-09 07:14:15+00:00
+Process Time:18m 45s
+Priority:2
+Customer ID:lQUwDayUaepWqGZera5v
+Arrival Time:2023-05-13 10:10:00+00:00
+Process Time:5m 30s
+Priority:3
+Customer ID:lRIulF9Js8IHP55nyrvQ
+Arrival Time:2023-05-13 05:13:00+00:00
+Process Time:10m 15s
+Priority:2
+Customer ID:lTZTECOCuS9b2iA63XjG
+Arrival Time:2023-03-18 03:07:15+00:00
+Process Time:30m 15s
+Priority:3
+Customer ID:lUOHptzLh46V2NZB5w6C
+Arrival Time:2023-05-20 21:08:30+00:00
+Process Time:45m 0s
+Priority:2
+Customer ID:lXRdtUJa8T1pHQ2oHjSl
+Arrival Time:2023-04-14 23:16:30+00:00
+Process Time:43m 30s
+Priority:2
+Customer ID:le2sp2gelPGD0RsHIW7N
+Arrival Time:2023-04-20 00:49:30+00:00
+Process Time:48m 15s
+Priority:3
+Customer ID:lfYor3yZ7kZxLBgiRuGk
+Arrival Time:2023-05-20 02:59:15+00:00
+Process Time:15m 15s
+Priority:1
+Customer ID:lfhME7BWnM1ZFxyF3TP4
+Arrival Time:2023-05-26 21:21:00.724000+00:00
+Process Time:None
+Priority:1
+Customer ID:lhjHitHNBbQJlku4HNov
+Arrival Time:2023-03-21 01:33:00+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:likE916BrMkUiicVtTsq
+Arrival Time:2023-04-08 09:58:00+00:00
+Process Time:43m 30s
+Priority:3
+Customer ID:lju34T3UDgmQMIWOt2PH
+Arrival Time:2023-05-25 10:51:45+00:00
+Process Time:2m 30s
+Priority:2
+Customer ID:lotwBJcLc3cBRoxq8sEV
+Arrival Time:2023-04-17 02:08:15+00:00
+Process Time:59m 30s
+Priority:1
+Customer ID:lxrf5UJXmFS2FcXFXuyT
+Arrival Time:2023-04-18 00:23:00+00:00
+Process Time:31m 30s
+Priority:1
+Customer ID:m4BYSkc1UekXD30BSho8
+Arrival Time:2023-03-19 20:00:15+00:00
+Process Time:8m 30s
+Priority:3
+Customer ID:m4bt5poJQ2vzhMIGlllc
+Arrival Time:2023-03-03 15:59:30+00:00
+Process Time:28m 15s
+Priority:2
+Customer ID:mLuLcPeFBLo7Z4E0t0uy
+Arrival Time:2023-04-06 10:36:30+00:00
+Process Time:40m 30s
+Priority:3
+Customer ID:mP6xGhQlJbDbyuKeEqKB
+Arrival Time:2023-04-14 12:26:45+00:00
+Process Time:2m 0s
+Priority:3
+Customer ID:mPxlvyyPmR4ch5iq1bQG
+Arrival Time:2023-03-18 02:43:15+00:00
+Process Time:8m 0s
+Priority:2
+Customer ID:mVOYWN3tXpWgmIHVEDhN
+Arrival Time:2023-04-13 12:26:45+00:00
+Process Time:23m 0s
+Priority:2
+Customer ID:mfIjRq8W84unjEEbKkjE
+Arrival Time:2023-05-07 19:31:00+00:00
+Process Time:58m 15s
+Priority:2
+Customer ID:mkZoiOgurx7R6NzIPCmf
+Arrival Time:2023-05-06 22:01:00+00:00
+Process Time:30m 15s
+Priority:3
+Customer ID:mlBnShh2fW3zuwSPw1Qy
+Arrival Time:2023-05-22 20:56:00+00:00
+Process Time:60m 0s
+Priority:2
+Customer ID:mmJaVGutPgGCtNGMCkPp
+Arrival Time:2023-03-19 08:38:30+00:00
+Process Time:60m 0s
+Priority:3
+Customer ID:msW9BZMj6HUVrLzU8qoe
+Arrival Time:2023-05-26 21:22:25.843000+00:00
+Process Time:None
+Priority:1
+Customer ID:mtsK4WxzJLUxU5s4U9Dp
+Arrival Time:2023-04-07 16:00:00+00:00
+Process Time:26m 15s
+Priority:3
+Customer ID:mxx3Hf4U6L8SgS0DK9CQ
+Arrival Time:2023-03-28 11:36:45+00:00
+Process Time:41m 30s
+Priority:3
+Customer ID:n1MBZwE44NPW2SShJzSG
+Arrival Time:2023-03-29 21:04:30+00:00
+Process Time:31m 0s
+Priority:2
+Customer ID:nK04p0N1zSDrT6SrMnmC
+Arrival Time:2023-03-29 13:19:15+00:00
+Process Time:11m 15s
+Priority:3
+Customer ID:nMczIkG55m2HMk4KMxV2
+Arrival Time:2023-05-01 06:23:45+00:00
+Process Time:30m 30s
+Priority:2
+Customer ID:nMi2q8MRhyE844ClqBAT
+Arrival Time:2023-05-01 21:38:15+00:00
+Process Time:12m 45s
+Priority:1
+Customer ID:nQRCKvwUELFIEpxKwS7C
+Arrival Time:2023-05-26 21:15:28.153000+00:00
+Process Time:None
+Priority:1
+Customer ID:nRW46UVzro6Y3S3kGd0l
+Arrival Time:2023-03-27 09:25:00+00:00
+Process Time:4m 45s
+Priority:3
+Customer ID:nTtmyf0yQtDjqMC5ww5D
+Arrival Time:2023-03-21 13:42:30+00:00
+Process Time:30m 0s
+Priority:2
+Customer ID:nUdVktW2C9bribz7FeN9
+Arrival Time:2023-03-16 00:01:15+00:00
+Process Time:46m 0s
+Priority:1
+Customer ID:nVSXTBrAmTU0gf2w4cFh
+Arrival Time:2023-05-21 19:52:00+00:00
+Process Time:35m 45s
+Priority:1
+Customer ID:nVUOzpMsD3uauaPGrivs
+Arrival Time:2023-03-14 22:48:45+00:00
+Process Time:5m 45s
+Priority:2
+Customer ID:nVZC1MhaBJpfD6KuBgh8
+Arrival Time:2023-03-16 19:38:30+00:00
+Process Time:25m 30s
+Priority:3
+Customer ID:nXUhfdk4PL4eBNxeIwJz
+Arrival Time:2023-03-10 16:36:45+00:00
+Process Time:53m 0s
+Priority:3
+Customer ID:nZqKyheFR051XmEBgOcv
+Arrival Time:2023-04-19 14:06:45+00:00
+Process Time:8m 45s
+Priority:3
+Customer ID:nats52w85EPKHoVaO8HK
+Arrival Time:2023-04-20 10:42:45+00:00
+Process Time:10m 0s
+Priority:2
+Customer ID:ngFP1OQYBSfSDc6e98Gy
+Arrival Time:2023-04-14 00:12:00+00:00
+Process Time:38m 45s
+Priority:3
+Customer ID:nn8fvxnj0MF5o971WDT8
+Arrival Time:2023-05-23 23:28:45+00:00
+Process Time:6m 15s
+Priority:3
+Customer ID:nnNndaXESWM96TMh51qq
+Arrival Time:2023-05-13 14:13:30+00:00
+Process Time:15m 15s
+Priority:3
+Customer ID:nuNVxGc8XRpkkeOvGh8D
+Arrival Time:2023-04-27 16:20:00+00:00
+Process Time:46m 15s
+Priority:2
+Customer ID:nzjCH8h7dUt5EUeaZcd2
+Arrival Time:2023-03-09 19:10:45+00:00
+Process Time:55m 45s
+Priority:3
+Customer ID:o4PhrYlonS9t5PDtAmZp
+Arrival Time:2023-03-05 22:56:00+00:00
+Process Time:39m 15s
+Priority:3
+Customer ID:o6JhLpr0I7UwkySWT3XC
+Arrival Time:2023-04-01 21:00:45+00:00
+Process Time:2m 15s
+Priority:3
+Customer ID:o6O9sgZOyhvca2Mq0gbN
+Arrival Time:2023-04-15 18:12:00+00:00
+Process Time:14m 45s
+Priority:1
+Customer ID:o6Zcgf4n2ZtFlAAVzk28
+Arrival Time:2023-05-08 01:08:00+00:00
+Process Time:29m 15s
+Priority:3
+Customer ID:oCoXML8aPyMWPeymifTd
+Arrival Time:2023-05-25 01:05:00+00:00
+Process Time:14m 15s
+Priority:2
+Customer ID:oFND4SeL29BSXWoQUFla
+Arrival Time:2023-03-24 08:23:45+00:00
+Process Time:45m 30s
+Priority:3
+Customer ID:oGskLwXVg4zPNH8hJRSq
+Arrival Time:2023-03-13 07:31:45+00:00
+Process Time:8m 0s
+Priority:1
+Customer ID:oKNLelkbiJHeb1CrAYKh
+Arrival Time:2023-03-13 01:31:45+00:00
+Process Time:21m 30s
+Priority:3
+Customer ID:oLjxQzNCtxa8QUfzvBaa
+Arrival Time:2023-05-11 12:37:15+00:00
+Process Time:37m 15s
+Priority:1
+Customer ID:oM0xkiA0v182uA8DgFrc
+Arrival Time:2023-05-24 20:55:45+00:00
+Process Time:40m 45s
+Priority:1
+Customer ID:oPcvO80tZpNS3QFIk4rh
+Arrival Time:2023-04-20 18:14:30+00:00
+Process Time:9m 45s
+Priority:3
+Customer ID:oT2ho0Ulbb2TeAF5EuZg
+Arrival Time:2023-03-08 08:05:30+00:00
+Process Time:49m 0s
+Priority:1
+Customer ID:oWWIrLKwYUioXY6JTDyP
+Arrival Time:2023-04-03 23:43:15+00:00
+Process Time:53m 0s
+Priority:1
+Customer ID:oav8EYs6FEb6vgenYCxx
+Arrival Time:2023-04-09 05:53:30+00:00
+Process Time:9m 45s
+Priority:2
+Customer ID:ohofAmoyUFczK2SGc6hS
+Arrival Time:2023-04-06 13:45:00+00:00
+Process Time:39m 45s
+Priority:3
+Customer ID:olv9k7JVPtehSAWVsMwd
+Arrival Time:2023-05-01 08:41:30+00:00
+Process Time:4m 45s
+Priority:3
+Customer ID:opJ47OPEuy2hlzq5NPA1
+Arrival Time:2023-04-23 02:45:45+00:00
+Process Time:17m 30s
+Priority:3
+Customer ID:oplhc7AsfBIpcnKdPdfV
+Arrival Time:2023-04-19 14:11:15+00:00
+Process Time:18m 15s
+Priority:3
+Customer ID:owdkf8kDorkcUwmUmfPC
+Arrival Time:2023-04-22 18:36:45+00:00
+Process Time:31m 15s
+Priority:2
+Customer ID:p2JeeYsp2GYdEXudyEWc
+Arrival Time:2023-03-28 07:14:45+00:00
+Process Time:41m 0s
+Priority:3
+Customer ID:p75Vr0UDNgZxLL5CcjmB
+Arrival Time:2023-03-15 09:12:15+00:00
+Process Time:11m 15s
+Priority:1
+Customer ID:p7No77n4u1pDQfqrmsBi
+Arrival Time:2023-03-25 10:09:30+00:00
+Process Time:40m 15s
+Priority:1
+Customer ID:p8QqgW1bSXayYHmlr518
+Arrival Time:2023-04-10 21:17:15+00:00
+Process Time:22m 45s
+Priority:2
+Customer ID:p8pUthq95dd4T3uT1254
+Arrival Time:2023-03-11 13:26:15+00:00
+Process Time:54m 15s
+Priority:1
+Customer ID:p9TIl8KFRRSabdm0CMqX
+Arrival Time:2023-05-23 04:38:30+00:00
+Process Time:2m 45s
+Priority:2
+Customer ID:pABmWmLNV7jHNeok3daZ
+Arrival Time:2023-04-14 12:51:00+00:00
+Process Time:55m 15s
+Priority:2
+Customer ID:pBfxrgUpzYt83g8g9x6N
+Arrival Time:2023-05-10 22:59:00+00:00
+Process Time:2m 45s
+Priority:1
+Customer ID:pHBdroWYRPvtRwdmIwoZ
+Arrival Time:2023-05-12 09:24:00+00:00
+Process Time:57m 0s
+Priority:3
+Customer ID:pLrqzDeONvNUDkcBx5pK
+Arrival Time:2023-05-21 21:50:45+00:00
+Process Time:29m 30s
+Priority:2
+Customer ID:pMglUI1FLDVXlLBurEdg
+Arrival Time:2023-05-06 23:16:00+00:00
+Process Time:18m 30s
+Priority:2
+Customer ID:pNGBYAkN8nA4NOmnfTCj
+Arrival Time:2023-04-24 09:38:30+00:00
+Process Time:30m 15s
+Priority:1
+Customer ID:pObtZ74hiZGLDkl7pWgn
+Arrival Time:2023-03-16 19:55:00+00:00
+Process Time:27m 30s
+Priority:2
+Customer ID:pT42BbORnDAF4i8MXXTU
+Arrival Time:2023-03-15 01:37:30+00:00
+Process Time:57m 15s
+Priority:2
+Customer ID:pUHmUqphdC1RCUlxDbkp
+Arrival Time:2023-04-26 05:55:45+00:00
+Process Time:55m 30s
+Priority:2
+Customer ID:pVsRnTQyejyQAHDkEFhd
+Arrival Time:2023-05-12 02:37:15+00:00
+Process Time:52m 30s
+Priority:3
+Customer ID:pWBW6X7gbUaePNTdL4dL
+Arrival Time:2023-05-03 13:17:00+00:00
+Process Time:5m 0s
+Priority:2
+Customer ID:pYB7TfbS9FjAKAbzet6y
+Arrival Time:2023-05-03 08:32:15+00:00
+Process Time:57m 45s
+Priority:2
+Customer ID:peaooqA13qkmVUkBIsg2
+Arrival Time:2023-04-01 22:14:45+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:phsurUZSrSBgfGLGKUu0
+Arrival Time:2023-04-10 09:59:15+00:00
+Process Time:28m 0s
+Priority:1
+Customer ID:phuajyOmaz9AWaoBOSls
+Arrival Time:2023-03-17 12:28:00+00:00
+Process Time:3m 45s
+Priority:1
+Customer ID:piA8YmLc9z9Ssv03HqqV
+Arrival Time:2023-05-26 19:25:10.518000+00:00
+Process Time:None
+Priority:1
+Customer ID:pjYOcfFD5zHv9HamHRQx
+Arrival Time:2023-03-19 04:49:45+00:00
+Process Time:21m 30s
+Priority:1
+Customer ID:ppOD4V8X3nSXJgFpMlfl
+Arrival Time:2023-05-16 17:41:45+00:00
+Process Time:49m 30s
+Priority:2
+Customer ID:prFiYu1AR4wYuvvZAAea
+Arrival Time:2023-03-27 13:51:30+00:00
+Process Time:34m 45s
+Priority:3
+Customer ID:pri7Z4OrTzrFUaT91qn9
+Arrival Time:2023-04-13 17:45:45+00:00
+Process Time:48m 45s
+Priority:3
+Customer ID:psvPyoXFSRpVcLZ6yiml
+Arrival Time:2023-04-13 15:44:30+00:00
+Process Time:32m 0s
+Priority:1
+Customer ID:pt9FbGWmVm0x13ANkitv
+Arrival Time:2023-04-27 13:01:15+00:00
+Process Time:20m 0s
+Priority:3
+Customer ID:pvMjs79PnorSlG5sT9Nt
+Arrival Time:2023-05-15 00:30:00+00:00
+Process Time:35m 0s
+Priority:2
+Customer ID:pxw3NkLp6weo4zeem8Z1
+Arrival Time:2023-04-27 14:07:30+00:00
+Process Time:28m 45s
+Priority:1
+Customer ID:q2AQsm62v66OOp1kDJEb
+Arrival Time:2023-05-23 09:41:45+00:00
+Process Time:57m 30s
+Priority:1
+Customer ID:q4PQCiBoEBoQoGU3L8n2
+Arrival Time:2023-05-08 09:20:45+00:00
+Process Time:31m 45s
+Priority:2
+Customer ID:q7j2DPYIaHkgdvphPdce
+Arrival Time:2023-03-14 20:22:45+00:00
+Process Time:15m 0s
+Priority:2
+Customer ID:qDxkoZKDxnnOUYTJbNVb
+Arrival Time:2023-04-30 02:12:15+00:00
+Process Time:58m 15s
+Priority:3
+Customer ID:qEH03ZW7Xun1YoZWsQGX
+Arrival Time:2023-04-28 18:43:30+00:00
+Process Time:51m 30s
+Priority:2
+Customer ID:qEOuOeKjLxVR8Grrg1B9
+Arrival Time:2023-03-25 02:22:00+00:00
+Process Time:6m 30s
+Priority:2
+Customer ID:qHPpVzNKQIIiw7azd4G3
+Arrival Time:2023-03-03 01:48:15+00:00
+Process Time:28m 0s
+Priority:2
+Customer ID:qIhngPgQUKMN7GC6rhUK
+Arrival Time:2023-05-06 10:52:15+00:00
+Process Time:46m 0s
+Priority:1
+Customer ID:qK6OqZiwBPBgdDbRmnUV
+Arrival Time:2023-03-18 22:02:45+00:00
+Process Time:49m 30s
+Priority:1
+Customer ID:qNNe4A1afnQNIlmB5WUv
+Arrival Time:2023-03-06 06:21:00+00:00
+Process Time:22m 0s
+Priority:2
+Customer ID:qPic2S7bWMS0yq8mpgZw
+Arrival Time:2023-03-04 00:33:15+00:00
+Process Time:33m 0s
+Priority:2
+Customer ID:qYVxOJtbb3VojjkAh0zh
+Arrival Time:2023-03-12 06:03:30+00:00
+Process Time:10m 45s
+Priority:2
+Customer ID:qZeiTh6IJDsMBAkBoJ0k
+Arrival Time:2023-05-26 21:03:03.981000+00:00
+Process Time:None
+Priority:1
+Customer ID:qelyvMjx9hJ3sQ83HtDk
+Arrival Time:2023-04-26 17:24:45+00:00
+Process Time:7m 45s
+Priority:2
+Customer ID:qfPpxkYSgEvCK4D51Lrb
+Arrival Time:2023-03-16 03:16:00+00:00
+Process Time:23m 30s
+Priority:1
+Customer ID:qhY2AKN1zy0tSJuXlorT
+Arrival Time:2023-05-17 19:09:00+00:00
+Process Time:50m 15s
+Priority:2
+Customer ID:qmDHm4otX0LsstnYhH65
+Arrival Time:2023-03-28 18:28:00+00:00
+Process Time:2m 30s
+Priority:3
+Customer ID:qsPlrU1zRsSuDEiL1O3q
+Arrival Time:2023-03-20 16:39:45+00:00
+Process Time:47m 15s
+Priority:2
+Customer ID:qwhlm3HZCnjYtXXeIEuB
+Arrival Time:2023-04-20 13:20:45+00:00
+Process Time:27m 30s
+Priority:3
+Customer ID:r47xTkXLCLaoZbyWejjJ
+Arrival Time:2023-05-22 07:20:15+00:00
+Process Time:46m 0s
+Priority:2
+Customer ID:r7NES4TAU8VP4P0OzgcG
+Arrival Time:2023-04-14 01:06:30+00:00
+Process Time:13m 30s
+Priority:2
+Customer ID:r7dgk9L76SFu22iKrs3e
+Arrival Time:2023-04-05 08:00:30+00:00
+Process Time:57m 30s
+Priority:3
+Customer ID:r82CKx1kJxp3tzv7TCSp
+Arrival Time:2023-04-13 09:05:45+00:00
+Process Time:45m 45s
+Priority:2
+Customer ID:r9FS46R0fxWVja1LWPrr
+Arrival Time:2023-04-01 21:58:15+00:00
+Process Time:6m 45s
+Priority:3
+Customer ID:rCn2HBudvFJjJikVnK9m
+Arrival Time:2023-04-19 19:46:30+00:00
+Process Time:14m 30s
+Priority:1
+Customer ID:rEmsepP6Fj9Wfzicf56q
+Arrival Time:2023-04-11 10:10:30+00:00
+Process Time:5m 45s
+Priority:2
+Customer ID:rF5COBPUUvlRFeE3zeDh
+Arrival Time:2023-04-25 20:26:45+00:00
+Process Time:4m 15s
+Priority:2
+Customer ID:rG0xaLZ9LZqkp3NYSvlc
+Arrival Time:2023-04-27 03:50:15+00:00
+Process Time:22m 45s
+Priority:2
+Customer ID:rGbUDkLWB7hsLk5h6Mxr
+Arrival Time:2023-03-25 11:11:30+00:00
+Process Time:41m 15s
+Priority:3
+Customer ID:rHKSn5g54yVtA45p4NoL
+Arrival Time:2023-05-26 21:24:50.317000+00:00
+Process Time:None
+Priority:1
+Customer ID:rKSNfVbRTD1I3wGROOTa
+Arrival Time:2023-03-31 06:01:30+00:00
+Process Time:44m 45s
+Priority:3
+Customer ID:rNmamHfjiBQJgvyXBygc
+Arrival Time:2023-03-06 19:04:00+00:00
+Process Time:39m 0s
+Priority:1
+Customer ID:rOECZifnC9974o4ym3Vf
+Arrival Time:2023-04-24 08:33:45+00:00
+Process Time:47m 0s
+Priority:1
+Customer ID:rOTlok48ZeSqc09UaFTp
+Arrival Time:2023-05-13 12:47:30+00:00
+Process Time:11m 30s
+Priority:3
+Customer ID:rSmlIWGYugpg5IPLOue5
+Arrival Time:2023-04-01 02:45:30+00:00
+Process Time:45m 45s
+Priority:2
+Customer ID:rTYMjnJbjE0HmLFUFK0U
+Arrival Time:2023-03-24 11:25:30+00:00
+Process Time:16m 15s
+Priority:2
+Customer ID:rUTTcWrw97PmnxOEOX2M
+Arrival Time:2023-04-20 13:21:00+00:00
+Process Time:11m 30s
+Priority:2
+Customer ID:rYf3vqX9BFoZfXF5kWo9
+Arrival Time:2023-05-22 10:56:15+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:rdOMq3i4Dcg4Rl100dY5
+Arrival Time:2023-05-19 10:57:00+00:00
+Process Time:29m 45s
+Priority:3
+Customer ID:rhlvkQ09pyKggM66t1nI
+Arrival Time:2023-04-14 10:15:30+00:00
+Process Time:11m 30s
+Priority:2
+Customer ID:rnQpDMfGonoLni8xAhuz
+Arrival Time:2023-03-03 02:37:45+00:00
+Process Time:54m 15s
+Priority:3
+Customer ID:rotlUMkeUMFCXs97SLei
+Arrival Time:2023-04-13 11:45:30+00:00
+Process Time:42m 45s
+Priority:1
+Customer ID:rpXvd42hSYm2ZjEKGPQM
+Arrival Time:2023-04-01 11:19:15+00:00
+Process Time:52m 0s
+Priority:1
+Customer ID:runuiyBvwJcrauTo6UNw
+Arrival Time:2023-04-30 02:12:15+00:00
+Process Time:39m 30s
+Priority:1
+Customer ID:rvLwtpGGXOXTWcnaZjps
+Arrival Time:2023-04-04 01:22:00+00:00
+Process Time:44m 30s
+Priority:2
+Customer ID:s04wTBuDJ3N0OQd4DI9Y
+Arrival Time:2023-03-26 16:48:45+00:00
+Process Time:9m 15s
+Priority:2
+Customer ID:s0Q7KmdPx21ODoZxLq36
+Arrival Time:2023-05-17 12:47:00+00:00
+Process Time:13m 15s
+Priority:2
+Customer ID:s0Zi1CRDQhMfbU6yC1qR
+Arrival Time:2023-05-25 03:39:00+00:00
+Process Time:58m 30s
+Priority:2
+Customer ID:s3iQv8FyOIZ2yhwXkSBc
+Arrival Time:2023-04-21 21:31:15+00:00
+Process Time:39m 45s
+Priority:2
+Customer ID:s3rBxPiMJ5qj3qsJ4Cbo
+Arrival Time:2023-03-07 12:33:00+00:00
+Process Time:14m 30s
+Priority:2
+Customer ID:s9jnZnrNXydufnwBgQ3z
+Arrival Time:2023-04-12 14:24:00+00:00
+Process Time:24m 0s
+Priority:2
+Customer ID:sAxvvUAFueg66oEF9n0e
+Arrival Time:2023-05-26 19:11:05.748000+00:00
+Process Time:None
+Priority:1
+Customer ID:sBLsslkHlCWY1N8xEQxp
+Arrival Time:2023-05-07 21:43:00+00:00
+Process Time:14m 0s
+Priority:3
+Customer ID:sLd1FfH3toU4uVueEjqp
+Arrival Time:2023-05-07 06:13:30+00:00
+Process Time:18m 0s
+Priority:2
+Customer ID:sRHPur613vj0VCVnxX7y
+Arrival Time:2023-03-05 19:43:00+00:00
+Process Time:27m 30s
+Priority:3
+Customer ID:sRqxvZMDNuHh6cowXXW7
+Arrival Time:2023-03-13 02:42:00+00:00
+Process Time:41m 45s
+Priority:1
+Customer ID:sSaBHJgp49aObkKgtCIB
+Arrival Time:2023-03-10 02:20:30+00:00
+Process Time:49m 15s
+Priority:1
+Customer ID:seojEUCTKFTOacS1QSi6
+Arrival Time:2023-05-25 06:51:45+00:00
+Process Time:51m 45s
+Priority:3
+Customer ID:slkwqVl5mzGDRh8TKOSt
+Arrival Time:2023-03-08 16:53:45+00:00
+Process Time:4m 0s
+Priority:3
+Customer ID:slooEl5BSp2HFQ9udUEh
+Arrival Time:2023-05-18 02:22:15+00:00
+Process Time:11m 15s
+Priority:3
+Customer ID:snsd57gOwGhrodjk7rbl
+Arrival Time:2023-04-01 05:51:30+00:00
+Process Time:19m 0s
+Priority:3
+Customer ID:sotlGi6qvb2mLmYkjBK0
+Arrival Time:2023-05-21 14:55:00+00:00
+Process Time:18m 0s
+Priority:3
+Customer ID:sqtO4c4cIUeVbmASOIYt
+Arrival Time:2023-05-09 05:11:00+00:00
+Process Time:57m 0s
+Priority:1
+Customer ID:t1fHq0AJhhOnZw8jEVsU
+Arrival Time:2023-05-04 12:14:45+00:00
+Process Time:44m 45s
+Priority:2
+Customer ID:tHNkdxn0bBpFr6WQsd3G
+Arrival Time:2023-04-04 06:23:15+00:00
+Process Time:41m 0s
+Priority:1
+Customer ID:tKKL60M2QHQGMdh394Y7
+Arrival Time:2023-03-29 08:16:30+00:00
+Process Time:54m 0s
+Priority:2
+Customer ID:tL0l5E8OO6ECD4ULImBQ
+Arrival Time:2023-03-20 08:57:45+00:00
+Process Time:16m 30s
+Priority:3
+Customer ID:tSWZUgxtFdUveNYxCws9
+Arrival Time:2023-05-11 08:25:30+00:00
+Process Time:9m 30s
+Priority:1
+Customer ID:tTqECsyOn1ZXsl0pMx8U
+Arrival Time:2023-04-14 15:49:00+00:00
+Process Time:27m 45s
+Priority:3
+Customer ID:tdM1xLcguTLOkSv53M91
+Arrival Time:2023-03-18 19:24:15+00:00
+Process Time:20m 30s
+Priority:2
+Customer ID:tfN78PKrQ0fh23BeQtsD
+Arrival Time:2023-03-27 14:13:45+00:00
+Process Time:31m 0s
+Priority:2
+Customer ID:tiBBb6lELb8E2a4FOUzy
+Arrival Time:2023-04-18 07:34:30+00:00
+Process Time:33m 30s
+Priority:2
+Customer ID:tlBOEMIUywbYNdDUQ6D4
+Arrival Time:2023-04-16 03:25:45+00:00
+Process Time:43m 30s
+Priority:2
+Customer ID:tnSnnfKtTrteZFejBmKY
+Arrival Time:2023-04-16 05:27:00+00:00
+Process Time:31m 0s
+Priority:1
+Customer ID:tqG9CnLiowcuh2Tpeh4O
+Arrival Time:2023-04-03 05:12:00+00:00
+Process Time:30m 0s
+Priority:2
+Customer ID:trEZ49nTG6kUwFBHdLnv
+Arrival Time:2023-05-08 09:48:00+00:00
+Process Time:51m 15s
+Priority:2
+Customer ID:tuxCukCX34dPjiqTwnUT
+Arrival Time:2023-05-20 15:25:45+00:00
+Process Time:9m 30s
+Priority:2
+Customer ID:tvcZrl1F14BxSliSyM40
+Arrival Time:2023-05-07 10:02:30+00:00
+Process Time:19m 15s
+Priority:1
+Customer ID:u2Zz4xwYuHWDkc3imGHV
+Arrival Time:2023-04-12 14:42:15+00:00
+Process Time:43m 30s
+Priority:2
+Customer ID:u6ecvk4YgEycW3acWgWz
+Arrival Time:2023-04-23 04:35:45+00:00
+Process Time:20m 45s
+Priority:2
+Customer ID:u87kuT1idQXEVgt8yFxQ
+Arrival Time:2023-04-03 02:35:45+00:00
+Process Time:8m 30s
+Priority:2
+Customer ID:uHDTM7lZYL7bboLSabQF
+Arrival Time:2023-03-30 10:42:30+00:00
+Process Time:2m 30s
+Priority:1
+Customer ID:uKVR2gOVbJRVkYghJ2Kc
+Arrival Time:2023-04-27 19:43:15+00:00
+Process Time:32m 15s
+Priority:3
+Customer ID:uLG8mQ0EhklXAaxL6dHH
+Arrival Time:2023-05-02 01:48:15+00:00
+Process Time:13m 30s
+Priority:1
+Customer ID:uMk2SouBm3Cjomgdaula
+Arrival Time:2023-04-24 06:17:00+00:00
+Process Time:12m 0s
+Priority:1
+Customer ID:uOMj4P5LP4f8XjMvIPRq
+Arrival Time:2023-05-11 13:00:45+00:00
+Process Time:53m 45s
+Priority:2
+Customer ID:uQqgeujGKX2k0wj6oUER
+Arrival Time:2023-05-19 00:06:15+00:00
+Process Time:56m 15s
+Priority:1
+Customer ID:uUVNxofiLd9V0tuhCSWc
+Arrival Time:2023-05-20 21:11:30+00:00
+Process Time:25m 15s
+Priority:1
+Customer ID:udZFrNv1hFeTeezT4DxQ
+Arrival Time:2023-03-21 02:29:00+00:00
+Process Time:33m 0s
+Priority:3
+Customer ID:uekzwVHR3vwxgbDrF9h7
+Arrival Time:2023-03-06 10:26:15+00:00
+Process Time:40m 45s
+Priority:2
+Customer ID:upynlvXDVyJzESOgHO18
+Arrival Time:2023-05-12 17:51:00+00:00
+Process Time:35m 30s
+Priority:1
+Customer ID:uq5cXiS0MzE9izOiBsv3
+Arrival Time:2023-04-27 23:02:15+00:00
+Process Time:3m 45s
+Priority:2
+Customer ID:uqsSVY2qUfguC9472whd
+Arrival Time:2023-04-28 07:42:00+00:00
+Process Time:46m 30s
+Priority:1
+Customer ID:utCF6VVSn4PciUWsDgeK
+Arrival Time:2023-04-15 04:28:30+00:00
+Process Time:37m 0s
+Priority:2
+Customer ID:utseaX7DwixUzn7GCPKk
+Arrival Time:2023-03-20 08:04:45+00:00
+Process Time:54m 0s
+Priority:2
+Customer ID:uxIaPlRNV8xyPJLGmPHA
+Arrival Time:2023-04-03 07:51:30+00:00
+Process Time:52m 15s
+Priority:2
+Customer ID:uyQxVyfdnzG9kwn46YZ6
+Arrival Time:2023-03-05 12:21:00+00:00
+Process Time:55m 0s
+Priority:3
+Customer ID:v0ufm8jbdS5oLxGZASuW
+Arrival Time:2023-04-14 15:37:30+00:00
+Process Time:47m 0s
+Priority:1
+Customer ID:v2W58QBmvC5IwfJjIC2a
+Arrival Time:2023-04-15 08:39:15+00:00
+Process Time:51m 15s
+Priority:2
+Customer ID:v44ztiNeGJU9WVBuTgFP
+Arrival Time:2023-03-18 20:52:00+00:00
+Process Time:46m 0s
+Priority:1
+Customer ID:v7TLzNAl33v9ZTc9dMVD
+Arrival Time:2023-04-03 11:30:45+00:00
+Process Time:44m 15s
+Priority:2
+Customer ID:vCUwK9nrQ0Pri0CUoSFX
+Arrival Time:2023-04-25 13:28:30+00:00
+Process Time:46m 45s
+Priority:3
+Customer ID:vFDMrlQef4TMU4fm7XVx
+Arrival Time:2023-05-13 16:33:15+00:00
+Process Time:40m 30s
+Priority:2
+Customer ID:vHYkOVxEzP73krx4TNzL
+Arrival Time:2023-03-15 02:56:30+00:00
+Process Time:30m 30s
+Priority:2
+Customer ID:vIWVkHR0jFQ4IKh6iFqp
+Arrival Time:2023-04-23 18:58:45+00:00
+Process Time:6m 30s
+Priority:2
+Customer ID:vNGs2oIzu6sSqMlQvwpH
+Arrival Time:2023-05-17 02:34:45+00:00
+Process Time:44m 30s
+Priority:1
+Customer ID:vRlyaCs2kiDfPiDWkPBm
+Arrival Time:2023-05-12 01:14:45+00:00
+Process Time:14m 15s
+Priority:2
+Customer ID:vT1QDCCeROtp5xyA7UqY
+Arrival Time:2023-03-12 10:06:00+00:00
+Process Time:47m 30s
+Priority:2
+Customer ID:vTD0JWuP6gjsdQUQnSUb
+Arrival Time:2023-03-10 15:02:45+00:00
+Process Time:52m 15s
+Priority:2
+Customer ID:vWnJIHodwhgyep3DBVaL
+Arrival Time:2023-03-07 09:06:45+00:00
+Process Time:32m 45s
+Priority:3
+Customer ID:vYzPCCPCUcXILHJsHsrv
+Arrival Time:2023-05-04 02:22:15+00:00
+Process Time:36m 15s
+Priority:2
+Customer ID:vaiVEXFDPpcjcqdJIvYf
+Arrival Time:2023-04-29 00:15:30+00:00
+Process Time:30m 30s
+Priority:3
+Customer ID:vdAootAebu2BauQsXbgw
+Arrival Time:2023-04-21 08:12:15+00:00
+Process Time:28m 0s
+Priority:2
+Customer ID:vdpgrj2QXspcsss1m9oV
+Arrival Time:2023-03-29 16:52:30+00:00
+Process Time:13m 0s
+Priority:3
+Customer ID:veFZ4AvQAXjnmcKLgPAn
+Arrival Time:2023-04-17 03:28:30+00:00
+Process Time:15m 30s
+Priority:2
+Customer ID:vgkI9zWbqtvjBnJj49ot
+Arrival Time:2023-03-07 03:35:45+00:00
+Process Time:34m 45s
+Priority:2
+Customer ID:vl9hKvUR7Cw8W9GU1mjB
+Arrival Time:2023-05-14 03:20:45+00:00
+Process Time:5m 0s
+Priority:1
+Customer ID:vweZ9IdtkWkJKeEXKlnr
+Arrival Time:2023-04-14 07:33:00+00:00
+Process Time:5m 0s
+Priority:3
+Customer ID:w2rLZfDEfYMZG3SjST0Y
+Arrival Time:2023-05-06 15:24:15+00:00
+Process Time:55m 0s
+Priority:2
+Customer ID:w4BShNwRkuzmQdHv9yJ0
+Arrival Time:2023-04-24 16:05:00+00:00
+Process Time:7m 0s
+Priority:2
+Customer ID:w65prRKErVHpcWbphHDg
+Arrival Time:2023-03-10 09:40:45+00:00
+Process Time:53m 0s
+Priority:3
+Customer ID:wIqTHnu44k28vw2k2tu6
+Arrival Time:2023-03-16 13:19:00+00:00
+Process Time:7m 45s
+Priority:2
+Customer ID:wSQ0qeeY8F1SujNymsCA
+Arrival Time:2023-03-03 19:21:15+00:00
+Process Time:59m 30s
+Priority:3
+Customer ID:wSdDlPwLEGRgtXDqsgYQ
+Arrival Time:2023-05-22 09:45:20.649000+00:00
+Process Time:5s
+Priority:1
+Customer ID:wbn8h2HDpXFuRofkPWcP
+Arrival Time:2023-04-04 02:16:30+00:00
+Process Time:34m 15s
+Priority:1
+Customer ID:wfS6kI4F6pYQKXz5AJo4
+Arrival Time:2023-04-22 08:58:15+00:00
+Process Time:4m 0s
+Priority:3
+Customer ID:wh5GycRtS3Qurf6CPTeu
+Arrival Time:2023-03-29 19:06:15+00:00
+Process Time:53m 15s
+Priority:2
+Customer ID:wj4I24tuGiE16Ea67hoJ
+Arrival Time:2023-05-09 09:31:30+00:00
+Process Time:59m 0s
+Priority:2
+Customer ID:wll3USnnm7mAzjBPcPh3
+Arrival Time:2023-03-07 00:43:30+00:00
+Process Time:28m 30s
+Priority:2
+Customer ID:woUG5QwwBNXFuOUIAcz1
+Arrival Time:2023-05-05 09:21:45+00:00
+Process Time:50m 45s
+Priority:3
+Customer ID:wp9tMjtXlgaVIPgZKkHa
+Arrival Time:2023-05-17 18:23:00+00:00
+Process Time:2m 0s
+Priority:1
+Customer ID:wuMXT47oE2aiirtNBWR7
+Arrival Time:2023-03-24 19:09:00+00:00
+Process Time:13m 15s
+Priority:3
+Customer ID:x0TwJzWXYLiPBUZUh9te
+Arrival Time:2023-05-14 11:20:00+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:x7xdB669WAyQE4daxcfB
+Arrival Time:2023-05-04 02:53:30+00:00
+Process Time:52m 45s
+Priority:3
+Customer ID:xB95TmAP0rcnObEq1GfO
+Arrival Time:2023-04-01 11:56:30+00:00
+Process Time:27m 0s
+Priority:1
+Customer ID:xEVHQL8jCt6r39YSK56p
+Arrival Time:2023-03-08 04:59:00+00:00
+Process Time:47m 45s
+Priority:2
+Customer ID:xFS1fiR7E8rEKd66jgir
+Arrival Time:2023-03-15 00:27:15+00:00
+Process Time:27m 15s
+Priority:3
+Customer ID:xIpc4mrVBR0WiFMNRWcD
+Arrival Time:2023-04-25 08:47:15+00:00
+Process Time:5m 45s
+Priority:1
+Customer ID:xKnrQkcqUf5ZuPQAgpWG
+Arrival Time:2023-05-15 09:39:00+00:00
+Process Time:40m 0s
+Priority:2
+Customer ID:xLN0sI5N1PsuTwxy8lns
+Arrival Time:2023-03-03 22:25:45+00:00
+Process Time:22m 15s
+Priority:1
+Customer ID:xLhBTCqIH0VgYRdIGWJu
+Arrival Time:2023-03-19 07:29:30+00:00
+Process Time:56m 15s
+Priority:2
+Customer ID:xMdbsLgd4oGCFXg5IzpL
+Arrival Time:2023-04-14 15:08:30+00:00
+Process Time:19m 15s
+Priority:1
+Customer ID:xPY7b1oAY3cPhy7kpJiI
+Arrival Time:2023-05-09 10:31:45+00:00
+Process Time:44m 30s
+Priority:2
+Customer ID:xdlJcKxuPtHgl9z6Uy6U
+Arrival Time:2023-03-27 15:06:45+00:00
+Process Time:6m 45s
+Priority:2
+Customer ID:xe7Vc4zkEZs6fnajkPiC
+Arrival Time:2023-04-16 06:49:30+00:00
+Process Time:56m 0s
+Priority:2
+Customer ID:xehRaai6ji926nUNWkmQ
+Arrival Time:2023-03-25 21:46:15+00:00
+Process Time:58m 15s
+Priority:3
+Customer ID:xirRm6Ao1TvuzeDpxp5k
+Arrival Time:2023-04-03 15:17:45+00:00
+Process Time:19m 15s
+Priority:2
+Customer ID:xkVaQhkBkZekBXmkgQC1
+Arrival Time:2023-03-13 10:05:00+00:00
+Process Time:38m 45s
+Priority:2
+Customer ID:xlYcwEKuk0IfGmrHIe2B
+Arrival Time:2023-04-25 06:52:30+00:00
+Process Time:40m 0s
+Priority:2
+Customer ID:xnr1HORMnN1LnMYAIRDv
+Arrival Time:2023-05-26 21:26:59.571000+00:00
+Process Time:None
+Priority:1
+Customer ID:xqDSK7pYvrSVtOU0Te8x
+Arrival Time:2023-03-16 20:39:45+00:00
+Process Time:9m 0s
+Priority:1
+Customer ID:xwigWvtZVyIwiBvVZ8TL
+Arrival Time:2023-04-18 16:11:15+00:00
+Process Time:23m 0s
+Priority:2
+Customer ID:y0XiMQvugP97Yy7t7VfY
+Arrival Time:2023-04-06 15:13:00+00:00
+Process Time:27m 30s
+Priority:3
+Customer ID:y3d1V7YpYLObUjxCreBW
+Arrival Time:2023-04-18 05:31:45+00:00
+Process Time:23m 0s
+Priority:3
+Customer ID:y7yz2s4JNdWYncyuJUWe
+Arrival Time:2023-03-30 21:09:00+00:00
+Process Time:36m 45s
+Priority:1
+Customer ID:y84MA6uJnAVrRLOSprlO
+Arrival Time:2023-03-18 21:21:45+00:00
+Process Time:11m 30s
+Priority:2
+Customer ID:yBg9VJqgbuJslfdAcxsD
+Arrival Time:2023-03-30 00:12:00+00:00
+Process Time:38m 0s
+Priority:2
+Customer ID:yCYAWSdUaiECyzfrEPAq
+Arrival Time:2023-04-07 13:32:15+00:00
+Process Time:15m 45s
+Priority:1
+Customer ID:yHhZDgNXuizlZQAMEk5C
+Arrival Time:2023-05-08 12:02:30+00:00
+Process Time:41m 15s
+Priority:3
+Customer ID:yKypB4OtJ9XtGXemrvWi
+Arrival Time:2023-03-15 10:09:45+00:00
+Process Time:4m 30s
+Priority:3
+Customer ID:yO5kZhXoiRsm8N2HI4jB
+Arrival Time:2023-04-24 19:32:15+00:00
+Process Time:49m 15s
+Priority:2
+Customer ID:yPq8uC64m2q5XYyeJnLL
+Arrival Time:2023-04-05 11:05:00+00:00
+Process Time:54m 45s
+Priority:3
+Customer ID:ySj3Ql8ri1fNCl4tD4pv
+Arrival Time:2023-04-22 05:58:00+00:00
+Process Time:14m 30s
+Priority:2
+Customer ID:yW2KRcHMdMsg6WE80mAs
+Arrival Time:2023-04-02 15:56:15+00:00
+Process Time:39m 30s
+Priority:3
+Customer ID:yYeRUXh885TcQM7XU0qv
+Arrival Time:2023-04-25 19:07:30+00:00
+Process Time:24m 15s
+Priority:2
+Customer ID:yYrqwsG6Eja4Mlx99IWW
+Arrival Time:2023-05-17 06:16:00+00:00
+Process Time:16m 15s
+Priority:2
+Customer ID:yiJ0Mfvy83okvoQWJENR
+Arrival Time:2023-04-04 20:19:30+00:00
+Process Time:22m 15s
+Priority:1
+Customer ID:yjfbK0oteyeCTYcI35Xn
+Arrival Time:2023-04-17 04:42:00+00:00
+Process Time:5m 15s
+Priority:3
+Customer ID:ynXWvY5NSBMstffNNhkH
+Arrival Time:2023-03-20 04:43:45+00:00
+Process Time:48m 0s
+Priority:2
+Customer ID:ynfIYcGPMxhnrCwLKECQ
+Arrival Time:2023-04-22 18:00:00+00:00
+Process Time:46m 15s
+Priority:2
+Customer ID:yp9efpt0hwWti26NCmnI
+Arrival Time:2023-04-28 02:53:30+00:00
+Process Time:32m 15s
+Priority:3
+Customer ID:ypvKc1FegZJHTVsAXLJS
+Arrival Time:2023-03-05 05:49:30+00:00
+Process Time:49m 0s
+Priority:2
+Customer ID:yrAJKJJMYwJdUyY5fXaf
+Arrival Time:2023-05-09 05:04:00+00:00
+Process Time:20m 45s
+Priority:2
+Customer ID:ytUFk6Th3Ih5yjjA6d7I
+Arrival Time:2023-04-03 17:38:00+00:00
+Process Time:44m 15s
+Priority:2
+Customer ID:yu5k6vaXLtRcingB4MmI
+Arrival Time:2023-05-12 00:52:00+00:00
+Process Time:17m 45s
+Priority:3
+Customer ID:yuPASmf9sWw0ZpxButvj
+Arrival Time:2023-04-17 14:30:45+00:00
+Process Time:42m 15s
+Priority:1
+Customer ID:yw6CIn8mMpo29rCZRAVU
+Arrival Time:2023-03-21 12:10:30+00:00
+Process Time:24m 0s
+Priority:2
+Customer ID:yxp0xSM7MlwrxXba9BwT
+Arrival Time:2023-04-16 21:57:00+00:00
+Process Time:18m 30s
+Priority:1
+Customer ID:yz7xMzWv96F6lBtsKaCC
+Arrival Time:2023-04-18 15:04:30+00:00
+Process Time:34m 30s
+Priority:1
+Customer ID:z0FXx5MdR0EdqzKXvFj8
+Arrival Time:2023-04-08 23:46:45+00:00
+Process Time:33m 0s
+Priority:1
+Customer ID:z3viTSThYlOnOlAD42ui
+Arrival Time:2023-03-11 17:10:30+00:00
+Process Time:25m 15s
+Priority:3
+Customer ID:z4ly9q7RLcpOpf6XLPIL
+Arrival Time:2023-03-22 12:30:00+00:00
+Process Time:48m 30s
+Priority:2
+Customer ID:z7omh5MqTcXWvmQdpPz9
+Arrival Time:2023-04-20 07:13:45+00:00
+Process Time:55m 15s
+Priority:3
+Customer ID:zE4DLH9TcLYLmbLrUnp7
+Arrival Time:2023-04-24 20:40:15+00:00
+Process Time:11m 30s
+Priority:2
+Customer ID:zEEkhYzoUMQq6RR6ZjvB
+Arrival Time:2023-04-17 16:30:00+00:00
+Process Time:30m 30s
+Priority:2
+Customer ID:zSJgpHWCMVu5F5yx93Mp
+Arrival Time:2023-03-05 12:52:45+00:00
+Process Time:21m 15s
+Priority:2
+Customer ID:zSwEXDPDq3zBWaSduJYc
+Arrival Time:2023-04-05 14:37:45+00:00
+Process Time:22m 30s
+Priority:3
+Customer ID:zUH8kV1envu8ttjVLlPs
+Arrival Time:2023-03-30 06:16:30+00:00
+Process Time:31m 15s
+Priority:2
+Customer ID:zVeKra3ti6ut9GlVLoa3
+Arrival Time:2023-03-26 10:43:15+00:00
+Process Time:19m 30s
+Priority:2
+Customer ID:zZSW9gNLX7wxfqOvRQbK
+Arrival Time:2023-03-20 16:11:30+00:00
+Process Time:16m 45s
+Priority:1
+Customer ID:zbkBkaajNZvW5jOzuvmy
+Arrival Time:2023-04-10 11:18:00+00:00
+Process Time:46m 30s
+Priority:2
+Customer ID:zck1Dp0k8VfeDTQXDpvq
+Arrival Time:2023-05-19 15:35:30+00:00
+Process Time:41m 15s
+Priority:1
+Customer ID:zd5i60HoLYwtRGllR4TY
+Arrival Time:2023-04-01 11:47:15+00:00
+Process Time:10m 0s
+Priority:2
+Customer ID:zfejiCbHWjfjXQ8CHtB0
+Arrival Time:2023-03-18 19:26:45+00:00
+Process Time:17m 45s
+Priority:2
+Customer ID:zhRPpV1hEconSyAQAm6H
+Arrival Time:2023-04-15 21:21:15+00:00
+Process Time:52m 15s
+Priority:1
+Customer ID:zhTMtGWa8XliPs0A6XfI
+Arrival Time:2023-03-12 07:34:45+00:00
+Process Time:56m 45s
+Priority:1
+Customer ID:zkf7ZRLLgsHLLosdWTIm
+Arrival Time:2023-03-09 00:40:00+00:00
+Process Time:29m 30s
+Priority:1
+Customer ID:zpdJbe5oCemPRhJ1ggRj
+Arrival Time:2023-03-17 12:22:15+00:00
+Process Time:60m 0s
+Priority:2
+Customer ID:zrXCPESkgTLak0d75TTR
+Arrival Time:2023-03-21 12:29:30+00:00
+Process Time:26m 0s
+Priority:2
+Customer ID:ztq14LxcLJcoh62foDzz
+Arrival Time:2023-04-18 15:25:15+00:00
+Process Time:37m 30s
+Priority:1
+Customer ID:zzbKwxLofcmQR9W6ItpB
+Arrival Time:2023-04-20 17:57:00+00:00
+Process Time:23m 15s
+Priority:2
+Total Customers: 1208
+No of servers: 6
