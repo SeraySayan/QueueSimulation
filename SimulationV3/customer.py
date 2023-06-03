@@ -1,5 +1,7 @@
 import random
 
+# It creates a customer with id, arrival time, service time and priority
+
 
 class Customer:
     def __init__(self, id, arrival_time, service_time, priority):
@@ -15,6 +17,7 @@ class Customer:
     def __repr__(self):
         return f"Customer {self.id}"
 
+    # It prints the customer details
     def print_customer_details(self):
         print(f"\n\nCustomer {self.id} details:")
         print(f"Arrival time: {self.arrival_time:.2f}")

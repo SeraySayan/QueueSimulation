@@ -20,6 +20,7 @@ class Database:
         self.no_of_servers = no_of_servers
         self.priorty_list = priorty_list
 
+# It creates a arrival rate according to db data
     def create_arrival_rate(self, arrival_interval_list):
         sum_arrival = 0
         for i in range(len(arrival_interval_list)):
@@ -48,6 +49,8 @@ class Database:
         print("No of servers: ", no_of_servers)
 
         print("-------------------")
+# It creates a service rate according to db data
+# It sum up all the service time and divide by total customer
 
     def create_service_rate(self, total_service_time, total_customer):
         service_rate = total_service_time/total_customer
@@ -57,6 +60,8 @@ class Database:
 
         return service_rate
 
+# It creates server number according to db data
+# It reads the last line of the output file and get the server number
     def find_server_no(self, output_file):
         with open(output_file, 'r') as file:
             lines = file.readlines()
@@ -66,6 +71,7 @@ class Database:
                 print("No of servers: ", self.no_of_servers)
             else:
                 print("No server information found in the output file.")
+# It reads the output file and get the total customer, total arrival time, total service time, arrival interval list
 
     def retrieve_data(self, output_file):
         with open(output_file, 'r') as file:

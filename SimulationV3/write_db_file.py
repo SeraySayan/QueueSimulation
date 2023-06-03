@@ -14,12 +14,13 @@ def retrieve_data():
     output_file = os.path.join(current_directory, filename)
 
     no_of_servers = 0
+    # Get the number of servers from Employees collection then write to the file
     employees_ref = db.collection(u'Employees')
     docs = employees_ref.stream()
     for doc in docs:
         no_of_servers += 1
     print("No of servers: ", no_of_servers)
-
+# Get the data of customers from Tickets collection then write to the file
     customers_ref = db.collection(u'Tickets')
     docs = customers_ref.stream()
     total_customers = 0
