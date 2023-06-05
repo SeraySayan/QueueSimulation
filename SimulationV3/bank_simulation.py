@@ -86,11 +86,11 @@ class BankSimulation:
             )
 
         print(
-            f"Average number of customers in the queue (Not sure): {(self.total_wait_time/self.simulation_time)}"
+            f"Average number of customers in the queue: {(self.total_wait_time/self.simulation_time)}"
         )
         # Average number of customers in the system
         print(
-            f"Average number of customers in the system (Not sure): {self.total_service_time/self.simulation_time}"
+            f"Average number of customers in the system : {self.total_service_time/self.simulation_time}"
         )
         print(f"Simulation Time: {self.simulation_time}")
         print(f"Total exit time: {self.total_exit_time}")
@@ -141,12 +141,12 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
     arrived_customer_number = 0
     print(bankSimulation.list_customers)
     print("Simulation started.")
-    for i in range(len(bankSimulation.list_customers)):
+    """for i in range(len(bankSimulation.list_customers)):
         bankSimulation.list_customers[i].print_customer_details()
     print(bankSimulation.simulation_customer_number)
     print(bankSimulation.total_served_customers)
     print(bankSimulation.after_service_start_list)
-    print(bankSimulation.queue)
+    print(bankSimulation.queue)"""
     while bankSimulation.total_served_customers < bankSimulation.simulation_customer_number:
         print(f"Simulation time: {bankSimulation.simulation_time}")
         print(
@@ -172,7 +172,7 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
                 print(bankSimulation.simulation_time)
                 print(customer.service_start_time + customer.service_time)
                 if (customer.service_start_time + customer.service_time) <= bankSimulation.simulation_time:
-                    print("complete service yapar\n\n")
+                    print("complete service is done\n\n")
 
                     bankSimulation.servers[customer.server_no -
                                            1].is_available = True
@@ -183,12 +183,15 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
                     bankSimulation.total_exit_time += (
                         customer.departure_time - customer.arrival_time)
                     bankSimulation.total_service_time += customer.service_time
-                    print(bankSimulation.total_served_customers)
+                    # After the service is done, customer will be removed from the list.
                     bankSimulation.after_service_start_list.pop(
                         after_service_start_loop)
                     print(bankSimulation.after_service_start_list)
                 after_service_start_loop += 1
         # Arrival Event
+        """ This loop checks the customers arrival time. If a customer arrival time is equal to current time,
+        servers are checked. If any server is available customer will be added to the after_service_list. This menas that
+        customer is being served. If all servers are busy, customer will be added to the queue according to its priority."""
         print("arrival event")
         arrival_loop = 0
         while arrival_loop < len(bankSimulation.list_customers):
@@ -197,14 +200,10 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
                 arrived_customer_number += 1
                 if bankSimulation.all_servers_busy() and (bankSimulation.queue.size) != 0:
                     arrived_customer = bankSimulation.list_customers[0]
-                    # method call
                     bankSimulation.queue.enqueue(arrived_customer)
                     bankSimulation.total_waiting_customers += 1
                     bankSimulation.list_customers.pop(0)
                     bankSimulation.queue.print_queue_details()
-                    print("queueye eklendi\n\n")
-                    print("listeden doğru kaldırılıdı mı? queue ya atıldı ama ",
-                          bankSimulation.list_customers)
 
                 else:
                     # Serving the customer to server directly (No queue option)
@@ -223,7 +222,10 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
                             print("serving the customer to server directly\n\n")
                             break
             arrival_loop += 1
+
         # Start Service Event
+        """ This loop checks the servers. If a server is available and queue is not empty, customer is taken from the queue 
+        will be sended to that server and also be added to after_start_list. Customer's service start time will be set to current time. """
         print("start service event")
         # In here, the customers in the queue will be sended to the counters.
         for i in range(len(bankSimulation.servers)):
@@ -244,13 +246,12 @@ def simulation(simulation_customer_number, arrival_rate, service_rate, num_serve
 
 
 if __name__ == "__main__":
-    # Mevcut çalışma dizini
+    # It is used to get the current directory
     current_directory = os.getcwd()
 
-    # Dosya adı
     filename = "output_file.txt"
 
-    # Tam dosya yolunu oluştur
+    # It is used to create the output file in the current directory
     output_file = os.path.join(current_directory, filename)
     database = Database(0, 0, 0, 0, [])
     database.retrieve_data(filename)
